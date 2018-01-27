@@ -1,5 +1,5 @@
 # Info
-This github is for translation of Minecraft Bot on Discord
+This github is for translation work on Minecraft Bot on Discord
 
 [Discord Server](https://discord.gg/WJTYdNb) | [Bot Invite](https://goo.gl/KaRHyw)
 
