@@ -46,19 +46,14 @@ namespace Bot.Translations
             public string PlayingMinecraft;
             public string Hi;
             public string BotDesc;
+            public string First;
         }
 
         public THidden Hidden;
         public class THidden
         {
             public string FoundHiddenCommand;
-            public string MinecraftClassic;
-            public string Forgecraft;
-            public string Bukkit;
-            public string Direwolf20;
             public string Herobrine;
-            public string Entity303;
-            public string Israphel;
             public string Notch;
         }
 

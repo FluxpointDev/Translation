@@ -10,13 +10,13 @@ namespace Bot.Translations
             Error = new TError
             {
                 NoEmbedPerms = "Bot benötigt die Erlaubnis \" Einbetten von Links \"",
-                AdminOnly = "Du bist kein Gildenadmin",
+                AdminOnly = "Sie sind kein Serveradministrator",
                 PlayerNotFound = "Spieler {0} nicht gefunden",
                 ApiError = "API-Fehler",
-                UnknownItemID = "",
-                UnknownMob = "",
+                UnknownItemID = "Artikelname oder ID kann nicht gefunden werden",
+                UnknownMob = "Mob mit diesem Namen konnte nicht gefunden werden",
                 EnterIP = "Gib eine IP-Adresse ein",
-                InvalidIP = "",
+                InvalidIP = "Ungültige IP-Adresse",
                 Cooldown = "Du bist für 1 Minute auf Abklingzeit!",
                 EnableQuery = "Der Minecraft-Server erlaubt keine Abfrage von Außen. Er hat enable-query nicht in server.properties aktiviert",
                 ListNoServers = "Diese Community hat keine Server aufgeführt",
@@ -50,31 +50,26 @@ namespace Bot.Translations
                 MultiMC = "MultiMC ermöglicht es, mit einfacher Forge- und Mod-Installation, mehrere Versionen zu verwalten und zu starten",
                 SkinEditor = "Online Skin-Editor",
                 PleaseWait = "Bitte warte, während ich pinge",
-                ServerAdminUse = "",
+                ServerAdminUse = "Server-Admin sollte verwenden",
                 SkinArgs = "(Spieler) | Kopf | Würfel | voll | stehlen",
                 StoleSkin = "Einen Skin gestohlen",
                 NameOnlyOne = "Spieler {0} hat nur 1 Namen in den Datensätzen",
                 PlayingMinecraft = "Leute spielen Minecraft",
                 Hi = "Hallo",
-                BotDesc = "Wenn du Fragen oder Vorschläge haben solltest oder du mit der Übersetzung helfen möchtest, kontaktiere mich bitte"
+                BotDesc = "Wenn du Fragen oder Vorschläge haben solltest oder du mit der Übersetzung helfen möchtest, kontaktiere mich bitte",
+                First = "Zuerst"
             },
 
             Hidden = new THidden
             {
-                FoundHiddenCommand = "",
-                MinecraftClassic = "",
-                Forgecraft = "",
-                Bukkit = "",
-                Direwolf20 = "",
-                Herobrine = "",
-                Entity303 = "",
-                Israphel = "",
-                Notch = ""
+                FoundHiddenCommand = "Hey, du hast einen geheimen Befehl gefunden :D",
+                Herobrine = "Er hat dich im Auge...",
+                Notch = "Minecraft wurde von Notch aka Markus Persson kreiert"
             },
 
             Wiki = new TWiki
             {
-                Blocks = "",
+                Blocks = "Blöcke",
                 Unknown = "Unbekannt",
                 Player = "Spieler",
                 Players = "Spieler",
@@ -105,7 +100,7 @@ namespace Bot.Translations
                 DelServerEnter = "Lösche einen Server mit",
                 DelServerNone = "Dieser Server ist nicht auf der Liste",
                 DelServerDeleted = "Server {0} aus der Gildenliste entfernt",
-                PrefixReset = ""
+                PrefixReset = "Server-Präfix wird zurückgesetzt mc/"
             }
 
         };

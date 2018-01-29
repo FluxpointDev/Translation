@@ -1,4 +1,4 @@
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using static Bot.Translations._Trans;
 
 namespace Bot.Translations
@@ -13,13 +13,13 @@ namespace Bot.Translations
             Error = new TError
             {
                 NoEmbedPerms = "Bot requires permission \" Embed Links \"",
-                AdminOnly = "You are not a server admin", //Rework
+                AdminOnly = "You are not a server admin",
                 PlayerNotFound = "Player {0} not found",
                 ApiError = "API Error",
                 UnknownItemID = "Cannot find item name or ID",
                 UnknownMob = "Cannot find mob name",
                 EnterIP = "Enter an IP",
-                InvalidIP = "Invalid ip",
+                InvalidIP = "Invalid IP",
                 Cooldown = "You are on cooldown for 1 mins!",
                 EnableQuery = "Minecraft server does not have enable-query set in server.properties",
                 ListNoServers = "This community has no servers listed",
@@ -53,25 +53,20 @@ namespace Bot.Translations
                 MultiMC = "MultiMC allows you to manage and launch multiple versions with easy forge/mods installation",
                 SkinEditor = "Online Skin Editor",
                 PleaseWait = "Please wait while I ping",
-                ServerAdminUse = "Guild administrators should use", // Rework
+                ServerAdminUse = "Server admin should use",
                 SkinArgs = "(Player) | head | cube | full | steal",
                 StoleSkin = "Stole a skin",
                 NameOnlyOne = "Player {0} only has 1 name on records",
                 PlayingMinecraft = "People playing Minecraft",
                 Hi = "Hi",
-                BotDesc = "If you have any issue, suggestions or language translations please contact me"
+                BotDesc = "If you have any issue, suggestions or language translations please contact me",
+                First = "First"
             },
 
             Hidden = new THidden
             {
                 FoundHiddenCommand = "Hey, you found a secret command :D",
-                MinecraftClassic = "Minecraft classic was the second phase of developent in 2009 that allowed players to play in the browser using java on the minecraft.net website which was primarly used to build things",
-                Forgecraft = "Forgecraft is the set of private whitelisted servers for mod developers to gather and beta-test their mods in a private environment. Many YouTubers and live-streamers also gather on the server to interact with the mod developers, help play-test the mods, and create videos to let the general public know what the mod developers are doing.",
-                Bukkit = "RIP Bukkit you will be missed along with other server solutions...",
-                Direwolf20 = "Direwolf20 is a popular youtuber known for his lets plays and mod tutorials on modded minecraft. He also plays on a private server called Forgecraft with a bunch of mod developers and other youtubers with his friends Soaryn and Pahimar",
                 Herobrine = "Always watching you...",
-                Entity303 = "A minecraft creepy pasta of a former Mojang employee who was fired by Notch and now want revenge",
-                Israphel = "The best youtube minecraft series that will never die in our hearts... 2010 - 2012 RIP Yogscast",
                 Notch = "Minecraft was created by Notch aka Markus Persson"
             },
 
@@ -108,7 +103,7 @@ namespace Bot.Translations
                 DelServerEnter = "Delete a server with",
                 DelServerNone = "This server is not on the list",
                 DelServerDeleted = "Removed server {0} from the guild list",
-                PrefixReset = "Reset server prefix"
+                PrefixReset = "Server prefix reset use mc/"
             }
 
         };

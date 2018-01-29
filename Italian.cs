@@ -10,18 +10,18 @@ namespace Bot.Translations
             Error = new TError
             {
                 NoEmbedPerms = "Il bot richiede dei permessi \" Embed Links \"",
-                AdminOnly = "",
-                PlayerNotFound = "",
-                ApiError = "",
-                UnknownItemID = "",
-                UnknownMob = "",
-                EnterIP = "",
-                InvalidIP = "",
-                Cooldown = "",
-                EnableQuery = "",
-                ListNoServers = "",
-                UnknownArg = "",
-                TextLimit = ""
+                AdminOnly = "Non sei un amministratore del server",
+                PlayerNotFound = "Giocatore {0} Non trovato",
+                ApiError = "Errore dell' API",
+                UnknownItemID = "Non posso trovare il nome dell' item o l' ID",
+                UnknownMob = "Non posso trovare il nome del mob",
+                EnterIP = "Inserisci l' IP",
+                InvalidIP = "IP non valido",
+                Cooldown = "Tu sei in cooldown per 1 minuto!",
+                EnableQuery = "Il server minecraft non ha abilita-query settata nel server.properties",
+                ListNoServers = "Questa community non ha un server",
+                UnknownArg = "argomento sconosciuto",
+                TextLimit = "Le scritte non posso avere più di 22 caratteri/numberi"
             },
 
             Main = new TMain
@@ -46,44 +46,39 @@ namespace Bot.Translations
                     "[ mc/admin ]( Comandi dell' admin della community )",
                     "[ mc/invite ]( Ottieni l' invito del bot )"
                 },
-                HelpFooter = "",
-                MultiMC = "",
-                SkinEditor = "",
-                PleaseWait = "",
-                ServerAdminUse = "",
-                SkinArgs = "",
-                StoleSkin = "",
-                NameOnlyOne = "",
-                PlayingMinecraft = "",
-                Hi = "",
-                BotDesc = ""
+                HelpFooter = "Ci sono dei pure dei comandi segreti ;)",
+                MultiMC = "MultiMC ti permette di gestire e avviare più versioni di minecraft Con facile installazione di forge/mods",
+                SkinEditor = "Editore di skin Online",
+                PleaseWait = "Perfavore aspetta mentre sto pingando",
+                ServerAdminUse = "L'amministratore del server dovrebbe usare",
+                SkinArgs = "(Giocatore) | testa | cubo | pieno | ruba",
+                StoleSkin = "Ruba una skin",
+                NameOnlyOne = "Giocatore {0} ha un solo nome registrato",
+                PlayingMinecraft = "Persone che stanno giocando a minecraft",
+                Hi = "Ciao",
+                BotDesc = "Se tu hai qualche problema, suggerimenti o traduzioni perfavore contattami",
+                First = "Primo"
             },
 
             Hidden = new THidden
             {
-                FoundHiddenCommand = "",
-                MinecraftClassic = "",
-                Forgecraft = "",
-                Bukkit = "",
-                Direwolf20 = "",
-                Herobrine = "",
-                Entity303 = "",
-                Israphel = "",
-                Notch = ""
+                FoundHiddenCommand = "hey, Hai trovato un comando segreto :D",
+                Herobrine = "Ti sto guardando...",
+                Notch = "Minecraft è stato creato da Notch alias Markus Persson"
             },
 
             Wiki = new TWiki
             {
-                Blocks = "",
-                Unknown = "",
-                Player = "",
-                Players = "",
-                Attack = "",
-                Easy = "",
-                Hard = "",
-                Health = "",
-                Height = "",
-                Width = "",
+                Blocks = "blocchi",
+                Unknown = "Sconosciuto",
+                Player = "Giocatore",
+                Players = "Giocatori",
+                Attack = "Attacco",
+                Easy = "Facile",
+                Hard = "Difficile",
+                Health = "Vita",
+                Height = "Altezza",
+                Width = "Peso",
             },
 
             Admin = new TAdmin
@@ -96,16 +91,16 @@ namespace Bot.Translations
                         "[ mc/setprefix ]( Setta il Custom Prefix )",
                         "[ mc/resetprefix ]( Rimuovi il Custom Prefix )"
                 },
-                WantTranslation = "",
-                ChangeLang = "",
-                UseList = "",
-                AddServer = "",
-                AddServerAdded = "",
-                AddServerAlready = "",
-                DelServerEnter = "",
-                DelServerNone = "",
-                DelServerDeleted = "",
-                PrefixReset = ""
+                WantTranslation = "Vuoi tradurre un linguaggio? Contattami",
+                ChangeLang = "Cambia il linguaggio della communuty",
+                UseList = "usa mc/list per una lista dei server MC di questa gilda",
+                AddServer = "Inserisci la tag, IP e nome",
+                AddServerAdded = "Server aggiunto {0} alla lista della gilda",
+                AddServerAlready = "Questo server è già nella lista",
+                DelServerEnter = "Elimina un server con",
+                DelServerNone = "Questo server non è sulla lista",
+                DelServerDeleted = "Server rimosso {0} dalla lista della gilda",
+                PrefixReset = "Il prefisso del server ripristina l'uso mc/"
             }
 
         };

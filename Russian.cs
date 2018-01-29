@@ -10,13 +10,13 @@ namespace Bot.Translations
             Error = new TError
             {
                 NoEmbedPerms = "Требуются права \" Embed Links \"",
-                AdminOnly = "Вы не администратор",
+                AdminOnly = "Вы не администратор сервера",
                 PlayerNotFound = "Игрок {0} не найден",
                 ApiError = "Ошибка API",
-                UnknownItemID = "",
-                UnknownMob = "",
+                UnknownItemID = "Не удается найти имя или идентификатор элемента",
+                UnknownMob = "Не удалось найти имя моба",
                 EnterIP = "Введите IP",
-                InvalidIP = "",
+                InvalidIP = "Недопустимый IP-адрес",
                 Cooldown = "Вы на кулдауне на 1 минуту!",
                 EnableQuery = "Этот сервер не имеет определённой отметки 'enable-query' в 'server.properties'",
                 ListNoServers = "Это сообщество не имеет серверов",
@@ -50,31 +50,26 @@ namespace Bot.Translations
                 MultiMC = "MultiMC позволяет запускать любые версии игры, также можно легко установить Forge и моды",
                 SkinEditor = "Онлайн редактор скинов",
                 PleaseWait = "Подождите, пожалуйста...",
-                ServerAdminUse = "",
+                ServerAdminUse = "Администратор сервера должен использовать",
                 SkinArgs = "(игрок) | голова | куб | полный | украсть",
                 StoleSkin = "Украден скин",
                 NameOnlyOne = "Игрок {0} имеет только 1 имя в записях",
                 PlayingMinecraft = "Игроки в Minecraft",
                 Hi = "Привет",
-                BotDesc = "Если вы нашли неполадки или у вас есть предложения, обращайтесь ко мне"
+                BotDesc = "Если вы нашли неполадки или у вас есть предложения, обращайтесь ко мне",
+                First = "Первый"
             },
 
             Hidden = new THidden
             {
-                FoundHiddenCommand = "",
-                MinecraftClassic = "",
-                Forgecraft = "",
-                Bukkit = "",
-                Direwolf20 = "",
-                Herobrine = "",
-                Entity303 = "",
-                Israphel = "",
-                Notch = ""
+                FoundHiddenCommand = "Эй, ты нашёл секретную команду :D",
+                Herobrine = "Всегда следим за тобой...",
+                Notch = "Minecraft был создан Нотчем aka Маркусом Перссоном"
             },
 
             Wiki = new TWiki
             {
-                Blocks = "",
+                Blocks = "блоки",
                 Unknown = "неизвестный",
                 Player = "Игрок",
                 Players = "Игроки",
@@ -105,7 +100,7 @@ namespace Bot.Translations
                 DelServerEnter = "Удалить сервер с",
                 DelServerNone = "Сервера нет в списке",
                 DelServerDeleted = "Удалён сервер {0} из списка серверов данной гильдии",
-                PrefixReset = ""
+                PrefixReset = "Использовать префикс сервера mc/"
             }
 
         };
