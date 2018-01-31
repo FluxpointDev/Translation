@@ -99,7 +99,7 @@ namespace Bot.Translations
                 AddServerAlready = "Ez a kiszolgáló már szerepel a listán",
                 DelServerEnter = "Szerver törlése a következővel:",
                 DelServerNone = "Ez a kiszolgáló nem a list",
-                DelServerDeHasználja az mc / listot a céhek minecraft szervereinek listájáhozleted = "Eltávolította a {0} kiszolgálót a céhlistából",
+                DelServerDeleted = "Eltávolította a {0} kiszolgálót a céhlistából",
                 PrefixReset = "A kiszolgáló előtagjának visszaállítása mc /"
             }
 
