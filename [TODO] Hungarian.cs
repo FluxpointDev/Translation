@@ -9,19 +9,19 @@ namespace Bot.Translations
         {
             Error = new TError
             {
-                NoEmbedPerms = "Bot requires permission \" Embed Links \"",
-                AdminOnly = "You are not a server admin",
-                PlayerNotFound = "Player {0} not found",
-                ApiError = "API Error",
-                UnknownItemID = "Cannot find item name or ID",
-                UnknownMob = "Cannot find mob name",
-                EnterIP = "Enter an IP",
-                InvalidIP = "Invalid IP",
-                Cooldown = "You are on cooldown for 1 mins!",
-                EnableQuery = "Minecraft server does not have enable-query set in server.properties",
-                ListNoServers = "This community has no servers listed",
-                UnknownArg = "Unknown argument do",
-                TextLimit = "Text cannot be more than 22 letters/numbers"
+                NoEmbedPerms = "A Bot engedélyt kér \ "Linkek beágyazása \"",
+                AdminOnly = "Ön nem szerver admin",
+                PlayerNotFound = "A (z) {0} játékos nem található",
+                ApiError = "API hiba",
+                UnknownItemID = "Nem található elem név vagy azonosító",
+                UnknownMob = "Nem találja meg a mob nevéte",
+                EnterIP = "Írjon be IP-címet",
+                InvalidIP = "Érvénytelen IP",
+                Cooldown = "Ön 1 percig tartja a cooldownot!",
+                EnableQuery = "Az Minecraft kiszolgáló nem rendelkezik engedélyezési lekérdezéssel a server.properties mappában",
+                ListNoServers = "Ennek a közösségnek nincs felsorolt szervere",
+                UnknownArg = "Ismeretlen érvelés",
+                TextLimit = "A szöveg legfeljebb 22 betű / szám lehet"
             },
 
             Main = new TMain
@@ -46,61 +46,61 @@ namespace Bot.Translations
                     "[ mc/admin ]( Kozossegi adminisztracios parancsok )",
                     "[ mc/invite ]( Szerezd meg a flut )"
                 },
-                HelpFooter = "There are some hidden commands aswell ;)",
-                MultiMC = "MultiMC allows you to manage and launch multiple versions with easy forge/mods installation",
-                SkinEditor = "Online Skin Editor",
-                PleaseWait = "Please wait while I ping",
-                ServerAdminUse = "Server admin should use",
-                SkinArgs = "(Player) | head | cube | full | steal",
-                StoleSkin = "Stole a skin",
-                NameOnlyOne = "Player {0} only has 1 name on records",
-                PlayingMinecraft = "People playing Minecraft",
-                Hi = "Hi",
-                BotDesc = "If you have any issue, suggestions or language translations please contact me",
-                First = "First"
+                HelpFooter = "Vannak rejtett parancsok is;)",
+                MultiMC = "A MultiMC lehetővé teszi több verzió kezelését és elindítását könnyű forge / mods telepítéssel",
+                SkinEditor = "Online bőrszerkesztő"              
+                PleaseWait = "Kérem várjon, míg én ping",
+                ServerAdminUse = "A szerver adminisztrátornak kell használni",
+                SkinArgs = "(Lejátszó) | fej | kocka teljes | lop",
+                StoleSkin = "Megölte a bőrt",
+                NameOnlyOne = "A {0} játékosnak csak 1 neve van a rekordokban",
+                PlayingMinecraft = "Az Minecraft játékosait",
+                Hi = "Szia",
+                BotDesc = "Ha bármilyen problémája, javaslata vagy nyelvi fordítása van, forduljon hozzám",
+                First = "Első"
             },
 
             Hidden = new THidden
             {
-                FoundHiddenCommand = "Hey, you found a secret command :D",
-                Herobrine = "Always watching you...",
-                Notch = "Minecraft was created by Notch aka Markus Persson"
+                FoundHiddenCommand = "Hé, titkos parancsot találtál: D",
+                Herobrine = "Mindig figyellek ...",
+                Notch = "Az Minecraft-ot Notch vagy Markus Persson hozta létre"
             },
 
             Wiki = new TWiki
             {
                 Blocks = "Blocks",
-                Unknown = "Unknown",
-                Player = "Player",
-                Players = "Players",
-                Attack = "Attack",
-                Easy = "Easy",
-                Hard = "Hard",
-                Health = "Health",
-                Height = "Height",
-                Width = "Width",
+                Unknown = "Ismeretlen",
+                Player = "játékos",
+                Players = "játékos",
+                Attack = "Támadás",
+                Easy = "Könnyen",
+                Hard = "Kemény",
+                Health = "Egészség",
+                Height = "Magasság",
+                Width = "Szélesség",
             },
 
             Admin = new TAdmin
             {
                 Commands = new List<string>
                 {
-                    "[ mc/lang ]( Set the community language )",
-                    "[ mc/addserver ]( Add a MC server to this guild list )",
-                    "[ mc/delserver ]( Remove a MC server from this guild list )",
-                    "[ mc/setprefix ]( Set Custom Prefix )",
-                    "[ mc/resetprefix ]( Remove Custom Prefix )"
+                    "[ mc/lang ]( Állítsa be a közösségi nyelvet )",
+                    "[ mc/addserver ]( Adjon hozzá MC szervert ehhez a céhlistához )",
+                    "[ mc/delserver ]( Távolítson el egy MC kiszolgálót ebből a céhlistából )",
+                    "[ mc/setprefix ]( Állítsa be az egyéni előtagot )",
+                    "[ mc/resetprefix ]( Egyedi előtag eltávolítása )"
                 },
-                WantTranslation = "Want a language translates? Contact",
-                ChangeLang = "Change Community Language",
-                UseList = "Use mc/list for a list of this guilds minecraft servers",
-                AddServer = "Enter a tag, ip and name",
-                AddServerAdded = "Added server {0} to the guild list",
-                AddServerAlready = "This server is already on the list",
-                DelServerEnter = "Delete a server with",
-                DelServerNone = "This server is not on the list",
-                DelServerDeleted = "Removed server {0} from the guild list",
-                PrefixReset = "Server prefix reset use mc/"
+                WantTranslation = "Szeretne egy nyelvet fordítani? Kapcsolatba lépni",
+                ChangeLang = "A közösségi nyelv megváltoztatása",
+                UseList = "Használja az mc / listot a céhek minecraft szervereinek listájához",
+                AddServer = "Adjon meg egy címkét, IP-címet és nevet",
+                AddServerAdded = "Hozzáadta a {0} kiszolgálót a céhlistához",
+                AddServerAlready = "Ez a kiszolgáló már szerepel a listán",
+                DelServerEnter = "Szerver törlése a következővel:",
+                DelServerNone = "Ez a kiszolgáló nem a list",
+                DelServerDeHasználja az mc / listot a céhek minecraft szervereinek listájáhozleted = "Eltávolította a {0} kiszolgálót a céhlistából",
+                PrefixReset = "A kiszolgáló előtagjának visszaállítása mc /"
             }
 
         };
