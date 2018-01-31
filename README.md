@@ -18,11 +18,13 @@ A list of translator contriubuters
 
 Mantevian#6804 | 240841342723424256
 
-yBaang_#3224 | 319171978881925121
+BaaaNG#3224 | 319171978881925121
 
 Zak_Patat#9077 | 186543143225786370
 
 jumper222#9027 | 203208900336418816
 
+LukeM1132#6078 | 348591213953417218
+
 # Want to translate?
-Contact me on my Discord or by friend request xXBuilderBXx#1234
+Contact me on my Discord or by friend request xXBuilderBXx#8265
