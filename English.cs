@@ -94,7 +94,7 @@ namespace Bot.Translations
                     "[ mc/setprefix ]( Set Custom Prefix )",
                     "[ mc/resetprefix ]( Remove Custom Prefix )"
                 },
-                WantTranslation = "Want a language translates? Contact",
+                WantTranslation = "Want a language translated? Contact",
                 ChangeLang = "Change Community Language",
                 UseList = "Use mc/list for a list of this guilds minecraft servers",
                 AddServer = "Enter a tag, ip and name",
