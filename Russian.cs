@@ -13,15 +13,15 @@ namespace Bot.Translations
                 AdminOnly = "Вы не администратор сервера",
                 PlayerNotFound = "Игрок {0} не найден",
                 ApiError = "Ошибка API",
-                UnknownItemID = "Не удается найти имя или идентификатор элемента",
-                UnknownMob = "Не удалось найти имя моба",
                 EnterIP = "Введите IP",
                 InvalidIP = "Недопустимый IP-адрес",
                 Cooldown = "Вы на кулдауне на 1 минуту!",
                 EnableQuery = "Этот сервер не имеет определённой отметки 'enable-query' в 'server.properties'",
                 ListNoServers = "Это сообщество не имеет серверов",
                 UnknownArg = "Неизвестный аргумент",
-                TextLimit = "Текст не может содержать более 22 символов"
+                TextLimit = "Текст не может содержать более 22 символов",
+                RequireAttachFiles = "Bot требует наличия прикрепленных файлов",
+                UnknownWiki = "Неизвестный элемент"
             },
 
             Main = new TMain
@@ -81,6 +81,16 @@ namespace Bot.Translations
                 Width = "Ширина",
             },
 
+            Profile = new TProfile
+            {
+                Badges = "Значки",
+                BadgeInfo = "Информация о значке",
+                InvalidUserID = "Недопустимый идентификатор пользователя",
+                UnknownUser = "Не удалось найти пользователя",
+                NotInServer = "Вы не на сервере",
+                SetMCName = "Чтобы настроить использование учетной записи Minecraft"
+            },
+
             Admin = new TAdmin
             {
                 Commands = new List<string>
@@ -100,7 +110,8 @@ namespace Bot.Translations
                 DelServerEnter = "Удалить сервер с",
                 DelServerNone = "Сервера нет в списке",
                 DelServerDeleted = "Удалён сервер {0} из списка серверов данной гильдии",
-                PrefixReset = "Использовать префикс сервера mc/"
+                PrefixReset = "Использовать префикс сервера mc/",
+                LanguageSet = "Набор языка сообщества"
             }
 
         };

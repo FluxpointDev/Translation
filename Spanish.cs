@@ -13,15 +13,15 @@ namespace Bot.Translations
                 AdminOnly = "Usted no es un administrador del servidor",
                 PlayerNotFound = "Jugador {0} extraviado",
                 ApiError = "Error de API",
-                UnknownItemID = "No se puede encontrar el nombre o el ID del elemento",
-                UnknownMob = "No se puede encontrar el nombre de la mafia",
                 EnterIP = "Introduzca un IP",
                 InvalidIP = "IP no válida",
                 Cooldown = "Estás en cooldown por 1 minutos!",
                 EnableQuery = "El servidor de Minecraft no tiene enable-query establecido en server.properties",
                 ListNoServers = "Esta comunidad no tiene servidores",
                 UnknownArg = "Argumento desconocido",
-                TextLimit = "El texto no puede tener más de 22 letras / números"
+                TextLimit = "El texto no puede tener más de 22 letras / números",
+                RequireAttachFiles = "Bot requiere adjuntar permiso de archivos",
+                UnknownWiki = "Artículo wiki desconocido"
             },
 
             Main = new TMain
@@ -81,6 +81,16 @@ namespace Bot.Translations
                 Width = "Anchura",
             },
 
+            Profile = new TProfile
+            {
+                Badges = "Insignias",
+                BadgeInfo = "Información de la insignia",
+                InvalidUserID = "ID de usuario invalido",
+                UnknownUser = "No se pudo encontrar usuario",
+                NotInServer = "Usted no está en el servidor",
+                SetMCName = "Para configurar su cuenta de Minecraft, use"
+            },
+
             Admin = new TAdmin
             {
                 Commands = new List<string>
@@ -100,7 +110,8 @@ namespace Bot.Translations
                 DelServerEnter = "Eliminar un servidor con",
                 DelServerNone = "Este servidor no está en la lista",
                 DelServerDeleted = "Servidor eliminado {0} de la lista de gremios",
-                PrefixReset = "Uso de reinicio del prefijo del servidor mc/"
+                PrefixReset = "Uso de reinicio del prefijo del servidor mc/",
+                LanguageSet = "Conjunto de idioma comunitario"
             }
 
         };

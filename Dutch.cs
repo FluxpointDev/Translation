@@ -13,15 +13,15 @@ namespace Bot.Translations
                 AdminOnly = "U bent geen serverbeheerder",
                 PlayerNotFound = "Player {0} niet gevonden",
                 ApiError = "API Error",
-                UnknownItemID = "Geen item gevonden met die naam/ID",
-                UnknownMob = "Geen mob gevonden met de opgegeven naam",
                 EnterIP = "Geef een IP op",
                 InvalidIP = "Ongeldige IP",
                 Cooldown = "Wacht op de cooldown van 1 minuut",
                 EnableQuery = "Minecraft server heeft geen enable-query aangezet in server.properties",
                 ListNoServers = "Deze community heeft geen opgeslagen servers",
                 UnknownArg = "Onbekend Argument",
-                TextLimit = "De tekst mag niet meer dan 22 letters/nummers bevatten"
+                TextLimit = "De tekst mag niet meer dan 22 letters/nummers bevatten",
+                RequireAttachFiles = "Bot vereist toestemming voor bijlagebestanden",
+                UnknownWiki = "Onbekend wiki-item"
             },
 
             Main = new TMain
@@ -55,9 +55,9 @@ namespace Bot.Translations
                 StoleSkin = "Steel een skin",
                 NameOnlyOne = "Player {0} heeft maar 1 name",
                 PlayingMinecraft = "Members die Minecraft spelen",
-                Hi = "Hi",
+                Hi = "Hoi",
                 BotDesc = "Als je problemen hebt, suggesties of kunt vertalen, neem dan contact met me op",
-                First = "First"
+                First = "Eerste"
             },
 
             Hidden = new THidden
@@ -70,15 +70,25 @@ namespace Bot.Translations
             Wiki = new TWiki
             {
                 Blocks = "Blocks",
-                Unknown = "Unknown",
-                Player = "Player",
+                Unknown = "Onbekend",
+                Player = "Speler",
                 Players = "Spelers",
-                Attack = "Attack",
-                Easy = "Easy",
+                Attack = "Aanval",
+                Easy = "Gemakkelijk",
                 Hard = "Hard",
-                Health = "Health",
-                Height = "Height",
-                Width = "Width",
+                Health = "Gezondheid",
+                Height = "Hoogte",
+                Width = "Breedte",
+            },
+
+            Profile = new TProfile
+            {
+                Badges = "Badges",
+                BadgeInfo = "Badge information",
+                InvalidUserID = "Ongeldige gebruikersnaam",
+                UnknownUser = "Kon de gebruiker niet vinden",
+                NotInServer = "U bevindt zich niet op de server",
+                SetMCName = "Om uw Minecraft-account te gebruiken"
             },
 
             Admin = new TAdmin
@@ -100,7 +110,8 @@ namespace Bot.Translations
                 DelServerEnter = "Verwijder een server",
                 DelServerNone = "Deze server staat niet op de lijst",
                 DelServerDeleted = "Server {0} is verwijderd van de lijst",
-                PrefixReset = "Server prefix reset use mc/"
+                PrefixReset = "Server prefix reset use mc/",
+                LanguageSet = "Gemeenschapstaal ingesteld"
             }
 
         };

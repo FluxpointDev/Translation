@@ -16,15 +16,15 @@ namespace Bot.Translations
                 AdminOnly = "You are not a server admin",
                 PlayerNotFound = "Player {0} not found",
                 ApiError = "API Error",
-                UnknownItemID = "Cannot find item name or ID",
-                UnknownMob = "Cannot find mob name",
                 EnterIP = "Enter an IP",
                 InvalidIP = "Invalid IP",
                 Cooldown = "You are on cooldown for 1 mins!",
                 EnableQuery = "Minecraft server does not have enable-query set in server.properties",
                 ListNoServers = "This community has no servers listed",
                 UnknownArg = "Unknown argument do",
-                TextLimit = "Text cannot be more than 22 letters/numbers"
+                TextLimit = "Text cannot be more than 22 letters/numbers",
+                RequireAttachFiles = "Bot requires attach files permission",
+                UnknownWiki = "Unknown wiki item"
             },
 
             Main = new TMain
@@ -81,7 +81,17 @@ namespace Bot.Translations
                 Hard = "Hard",
                 Health = "Health",
                 Height = "Height",
-                Width = "Width",
+                Width = "Width"
+            },
+
+            Profile = new TProfile
+            {
+                Badges = "Badges",
+                BadgeInfo = "Badge information",
+                InvalidUserID = "Invalid user id",
+                UnknownUser = "Could not find user",
+                NotInServer = "You are not on the server",
+                SetMCName = "To set your Minecraft account use"
             },
 
             Admin = new TAdmin
@@ -103,9 +113,9 @@ namespace Bot.Translations
                 DelServerEnter = "Delete a server with",
                 DelServerNone = "This server is not on the list",
                 DelServerDeleted = "Removed server {0} from the guild list",
-                PrefixReset = "Server prefix reset use mc/"
+                PrefixReset = "Server prefix reset use mc/",
+                LanguageSet = "Community language set"
             }
-
         };
     }
 }

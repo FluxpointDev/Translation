@@ -13,15 +13,15 @@ namespace Bot.Translations
                 AdminOnly = "Vous n'êtes pas un administrateur de serveur",
                 PlayerNotFound = "Joueur {0} pas trouvé",
                 ApiError = "Erreur API",
-                UnknownItemID = "Impossible de trouver le nom de l'élément ou l'ID",
-                UnknownMob = "Vous ne pouvez pas trouver le nom de la foule",
                 EnterIP = "Entrez une adresse IP",
                 InvalidIP = "IP invalide",
                 Cooldown = "Vous êtes en pause pendant 1 minutes!",
                 EnableQuery = "Le serveur Minecraft n'a pas activé la requête dans server.properties",
                 ListNoServers = "Cette communauté n'a aucun serveur répertorié",
                 UnknownArg = "Argument inconnu",
-                TextLimit = "Le texte ne peut pas dépasser 22 lettres/nombres"
+                TextLimit = "Le texte ne peut pas dépasser 22 lettres/nombres",
+                RequireAttachFiles = "Bot nécessite l'autorisation de joindre des fichiers",
+                UnknownWiki = "Article wiki inconnu"
             },
 
             Main = new TMain
@@ -81,6 +81,16 @@ namespace Bot.Translations
                 Width = "Largeur",
             },
 
+            Profile = new TProfile
+            {
+                Badges = "Badges",
+                BadgeInfo = "Informations sur le badge",
+                InvalidUserID = "Identifiant invalide",
+                UnknownUser = "Impossible de trouver l'utilisateur",
+                NotInServer = "Vous n'êtes pas sur le serveur",
+                SetMCName = "Pour définir l'utilisation de votre compte Minecraft"
+            },
+
             Admin = new TAdmin
             {
                 Commands = new List<string>
@@ -100,7 +110,8 @@ namespace Bot.Translations
                 DelServerEnter = "Supprimer un serveur avec",
                 DelServerNone = "Ce serveur n'est pas sur la liste",
                 DelServerDeleted = "Serveur supprimé {0} de la liste de guilde",
-                PrefixReset = "Réinitialisation du préfixe de serveur mc/"
+                PrefixReset = "Réinitialisation du préfixe de serveur mc/",
+                LanguageSet = "Ensemble de langues communautaires"
             }
         };
     }

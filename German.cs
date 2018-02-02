@@ -13,15 +13,15 @@ namespace Bot.Translations
                 AdminOnly = "Sie sind kein Serveradministrator",
                 PlayerNotFound = "Spieler {0} nicht gefunden",
                 ApiError = "API-Fehler",
-                UnknownItemID = "Artikelname oder ID kann nicht gefunden werden",
-                UnknownMob = "Mob mit diesem Namen konnte nicht gefunden werden",
                 EnterIP = "Gib eine IP-Adresse ein",
                 InvalidIP = "Ungültige IP-Adresse",
                 Cooldown = "Du bist für 1 Minute auf Abklingzeit!",
                 EnableQuery = "Der Minecraft-Server erlaubt keine Abfrage von Außen. Er hat enable-query nicht in server.properties aktiviert",
                 ListNoServers = "Diese Community hat keine Server aufgeführt",
                 UnknownArg = "Unbekanntes Argument",
-                TextLimit = "Text kann nicht mehr als 22 Buchstaben/Zahlen enthalten"
+                TextLimit = "Text kann nicht mehr als 22 Buchstaben/Zahlen enthalten",
+                RequireAttachFiles = "Der Bot benötigt die Berechtigung zum Anhängen von Dateien",
+                UnknownWiki = "Unbekannter Wiki-Eintrag"
             },
 
             Main = new TMain
@@ -81,6 +81,16 @@ namespace Bot.Translations
                 Width = "Breite",
             },
 
+            Profile = new TProfile
+            {
+                Badges = "Abzeichen",
+                BadgeInfo = "Ausweis informationen",
+                InvalidUserID = "Ungültige Benutzer-Id",
+                UnknownUser = "Benutzer konnte nicht gefunden werden",
+                NotInServer = "Sie sind nicht auf dem Server",
+                SetMCName = "Um dein Minecraft-Konto zu verwenden, verwende"
+            },
+
             Admin = new TAdmin
             {
                 Commands = new List<string>
@@ -100,7 +110,8 @@ namespace Bot.Translations
                 DelServerEnter = "Lösche einen Server mit",
                 DelServerNone = "Dieser Server ist nicht auf der Liste",
                 DelServerDeleted = "Server {0} aus der Gildenliste entfernt",
-                PrefixReset = "Server-Präfix wird zurückgesetzt mc/"
+                PrefixReset = "Server-Präfix wird zurückgesetzt mc/",
+                LanguageSet = "Community-Sprache festgelegt"
             }
 
         };
