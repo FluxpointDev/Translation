@@ -9,23 +9,23 @@ namespace Bot.Translations
         {
             Error = new TError
             {
-                RequireAttachFiles = "Bot requires attach files permission", 
-                UnknownWiki = "Unknown wiki item"
+                RequireAttachFiles = "Botnak csatolni kell a fájlok engedélyezését", 
+                UnknownWiki = "Ismeretlen wiki tétel"
             },
 
             Profile = new TProfile
             {
-                Badges = "Badges",
-                BadgeInfo = "Badge information",
-                InvalidUserID = "Invalid user id",
-                UnknownUser = "Could not find user",
-                NotInServer = "You are not on the server",
-                SetMCName = "To set your Minecraft account use"
+                Badges = "Jelvénys",
+                BadgeInfo = "Kitűző információk",
+                InvalidUserID = "Érvénytelen felhasználói azonosító",
+                UnknownUser = "Nem sikerült megtalálni a felhasználót",
+                NotInServer = "Nem vagy a szerveren",
+                SetMCName = "A Minecraft fiók használatának beállítása"
             },
 
             Admin = new TAdmin
             {
-                LanguageSet = "Community language set"
+                LanguageSet = "Közösségi nyelv"
             }
         };
     }
