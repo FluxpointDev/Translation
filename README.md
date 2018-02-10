@@ -12,6 +12,9 @@ Current Translations
 - German
 - Dutch
 - Italian
+- Polish
+- Indonesian
+- Turkish
 
 # Helpers
 A list of translator contriubuters
@@ -25,6 +28,8 @@ Zak_Patat#9077 | 186543143225786370
 jumper222#9027 | 203208900336418816
 
 LukeM1132#6078 | 348591213953417218
+
+
 
 # Want to translate?
 Contact me on my Discord or by friend request xXBuilderBXx#8265
