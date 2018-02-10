@@ -42,6 +42,8 @@ namespace Bot.Translations
                     "[ mc/get (Text) ]( Ottieni un achievement )",
                     "[ mc/minime (Player) ]( Minimizza la skin del giocatore )",
                     "[ mc/playing ]( Persone che stanno giocando ad MC )",
+                    "[ mc/user ]( Your Minecraft account, skin and stats )",
+                    "[ mc/rcon ]( Minecraft server remote console feature )",
                     "[ mc/hypixel (Player) ]( Hypixel player stats )",
                     "[ mc/admin ]( Comandi dell' admin della community )",
                     "[ mc/invite ]( Ottieni l' invito del bot )"
@@ -51,7 +53,7 @@ namespace Bot.Translations
                 SkinEditor = "Editore di skin Online",
                 PleaseWait = "Perfavore aspetta mentre sto pingando",
                 ServerAdminUse = "L'amministratore del server dovrebbe usare",
-                SkinArgs = "(Giocatore) | testa | cubo | pieno | ruba",
+                SkinArgs = "testa | cubo | pieno | ruba",
                 StoleSkin = "Ruba una skin",
                 NameOnlyOne = "Giocatore {0} ha un solo nome registrato",
                 PlayingMinecraft = "Persone che stanno giocando a minecraft",

@@ -42,6 +42,8 @@ namespace Bot.Translations
                     "[ mc/get (Text) ]( Krijg een achievement )",
                     "[ mc/minime (Player) ]( Mini player skin )",
                     "[ mc/playing ]( Members die Minecraft spelers )",
+                    "[ mc/user ]( Your Minecraft account, skin and stats )",
+                    "[ mc/rcon ]( Minecraft server remote console feature )",
                     "[ mc/hypixel (Player) ]( Hypixel player stats )",
                     "[ mc/admin ]( Community admin commands )",
                     "[ mc/invite ]( Krijg een bot invite )"
@@ -51,7 +53,7 @@ namespace Bot.Translations
                 SkinEditor = "Online Skin Editor",
                 PleaseWait = "Wacht even terwijl er wordt gepingt",
                 ServerAdminUse = "Serverbeheerder zou moeten gebruiken",
-                SkinArgs = "(Player) | head | cube | full | steal",
+                SkinArgs = "head | cube | full | steal",
                 StoleSkin = "Steel een skin",
                 NameOnlyOne = "Player {0} heeft maar 1 name",
                 PlayingMinecraft = "Members die Minecraft spelen",

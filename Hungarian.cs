@@ -1,4 +1,4 @@
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using static Bot.Translations._Trans;
 
 namespace Bot.Translations
@@ -42,6 +42,8 @@ namespace Bot.Translations
                     "[ mc/get (Text) ]( Kapjon egy eredmenyt )",
                     "[ mc/minime ( játékos ) ]( Minify player skin )",
                     "[ mc/playing ]( Az Minecraft jatekosait )",
+                    "[ mc/user ]( Your Minecraft account, skin and stats )",
+                    "[ mc/rcon ]( Minecraft server remote console feature )",
                     "[ mc/hypixel ( játékos ) ]( Hypixel player stats )",
                     "[ mc/admin ]( Kozossegi adminisztracios parancsok )",
                     "[ mc/invite ]( Szerezd meg a flut )"
@@ -51,7 +53,7 @@ namespace Bot.Translations
                 SkinEditor = "Online bőrszerkesztő",
                 PleaseWait = "Kérem várjon, míg én ping",
                 ServerAdminUse = "A szerver adminisztrátornak kell használni",
-                SkinArgs = "(Lejátszó) | fej | kocka teljes | lop",
+                SkinArgs = "fej | kocka teljes | lop",
                 StoleSkin = "Megölte a bőrt",
                 NameOnlyOne = "A {0} játékosnak csak 1 neve van a rekordokban",
                 PlayingMinecraft = "Az Minecraft játékosait",

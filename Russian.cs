@@ -42,6 +42,8 @@ namespace Bot.Translations
                     "[ mc/get (текст) ]( Генератор достижений )",
                     "[ mc/minime (игрок) ]( Минимизировать скин игрока )",
                     "[ mc/playing ]( Сколько людей играют в Minecraft на данный момент )",
+                    "[ mc/user ]( Your Minecraft account, skin and stats )",
+                    "[ mc/rcon ]( Minecraft server remote console feature )",
                     "[ mc/hypixel (Player) ]( Hypixel player stats )",
                     "[ mc/admin ]( Команды администратора сообщества )",
                     "[ mc/invite ]( Ссылка на добавление бота на свой сервер )"
@@ -51,7 +53,7 @@ namespace Bot.Translations
                 SkinEditor = "Онлайн редактор скинов",
                 PleaseWait = "Подождите, пожалуйста...",
                 ServerAdminUse = "Администратор сервера должен использовать",
-                SkinArgs = "(игрок) | голова | куб | полный | украсть",
+                SkinArgs = "голова | куб | полный | украсть",
                 StoleSkin = "Украден скин",
                 NameOnlyOne = "Игрок {0} имеет только 1 имя в записях",
                 PlayingMinecraft = "Игроки в Minecraft",
