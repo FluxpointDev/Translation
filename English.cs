@@ -53,10 +53,8 @@ namespace Bot.Translations
                 },
                 HelpFooter = "There are some hidden commands aswell ;)",
                 MultiMC = "MultiMC allows you to manage and launch multiple versions with easy forge/mods installation",
-                SkinEditor = "Online Skin Editor",
                 PleaseWait = "Please wait while I ping",
                 ServerAdminUse = "Server admin should use",
-                SkinArgs = "head | cube | full | steal",
                 StoleSkin = "Stole a skin",
                 NameOnlyOne = "Player {0} only has 1 name on records",
                 PlayingMinecraft = "People playing Minecraft",
@@ -101,6 +99,7 @@ namespace Bot.Translations
                 Commands = new List<string>
                 {
                     "[ mc/lang ]( Set the community language )",
+                    "[ mc/mcrole ]( Create a Minecraft role for verified users )",
                     "[ mc/addserver ]( Add a MC server to this guild list )",
                     "[ mc/delserver ]( Remove a MC server from this guild list )",
                     "[ mc/setprefix ]( Set Custom Prefix )",

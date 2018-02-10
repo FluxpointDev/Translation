@@ -9,7 +9,7 @@ namespace Bot.Translations
     /// </summary>
     public enum _Language
     {
-        English, French, Spanish, Russian, Portuguese, German, Dutch, Italian, Hungarian
+        English, French, Spanish, Russian, Portuguese, German, Dutch, Italian, Hungarian, Polish, Indonesian
     }
     public class _Trans
     {
@@ -37,10 +37,8 @@ namespace Bot.Translations
             public List<string> Commands;
             public string HelpFooter;
             public string MultiMC;
-            public string SkinEditor;
             public string PleaseWait;
             public string ServerAdminUse;
-            public string SkinArgs;
             public string StoleSkin;
             public string NameOnlyOne;
             public string PlayingMinecraft;
@@ -118,6 +116,7 @@ namespace Bot.Translations
                     }
                 }
             }
+            _Config.Translate.Add(_Language, this);
         }
     }
 }

@@ -50,10 +50,8 @@ namespace Bot.Translations
                 },
                 HelpFooter = "Vannak rejtett parancsok is;)",
                 MultiMC = "A MultiMC lehetővé teszi több verzió kezelését és elindítását könnyű forge / mods telepítéssel",
-                SkinEditor = "Online bőrszerkesztő",
                 PleaseWait = "Kérem várjon, míg én ping",
                 ServerAdminUse = "A szerver adminisztrátornak kell használni",
-                SkinArgs = "fej | kocka teljes | lop",
                 StoleSkin = "Megölte a bőrt",
                 NameOnlyOne = "A {0} játékosnak csak 1 neve van a rekordokban",
                 PlayingMinecraft = "Az Minecraft játékosait",
@@ -98,6 +96,7 @@ namespace Bot.Translations
                 Commands = new List<string>
                 {
                     "[ mc/lang ]( Állítsa be a közösségi nyelvet )",
+                    "[ mc/mcrole ]( Create a Minecraft role for verified users )",
                     "[ mc/addserver ]( Adjon hozzá MC szervert ehhez a céhlistához )",
                     "[ mc/delserver ]( Távolítson el egy MC kiszolgálót ebből a céhlistából )",
                     "[ mc/setprefix ]( Állítsa be az egyéni előtagot )",
@@ -105,14 +104,14 @@ namespace Bot.Translations
                 },
                 WantTranslation = "Szeretne egy nyelvet fordítani? Kapcsolatba lépni",
                 ChangeLang = "A közösségi nyelv megváltoztatása",
-                UseList = "Használja az mc / listot a céhek minecraft szervereinek listájához",
+                UseList = "Használja az mc/listot a céhek minecraft szervereinek listájához",
                 AddServer = "Adjon meg egy címkét, IP-címet és nevet",
                 AddServerAdded = "Hozzáadta a {0} kiszolgálót a céhlistához",
                 AddServerAlready = "Ez a kiszolgáló már szerepel a listán",
                 DelServerEnter = "Szerver törlése a következővel:",
                 DelServerNone = "Ez a kiszolgáló nem a list",
                 DelServerDeleted = "Eltávolította a {0} kiszolgálót a céhlistából",
-                PrefixReset = "A kiszolgáló előtagjának visszaállítása mc /",
+                PrefixReset = "A kiszolgáló előtagjának visszaállítása mc/",
                 LanguageSet = "Közösségi nyelv"
             }
         };

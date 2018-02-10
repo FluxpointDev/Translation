@@ -50,10 +50,8 @@ namespace Bot.Translations
                 },
                 HelpFooter = "Também há alguns comandos ocultos ;)",
                 MultiMC = "MultiMC permite administrar e lançar várias versões com instação fácil de Forge/Mods",
-                SkinEditor = "Editor de pele on-line",
                 PleaseWait = "Espera até eu conseguir o Ping",
                 ServerAdminUse = "O administrador do servidor deve usar",
-                SkinArgs = "cabeça | cubo | cheio | roubar",
                 StoleSkin = "Roubar uma Skin",
                 NameOnlyOne = "O jogador {0} possui apenas 1 nome nos registros",
                 PlayingMinecraft = "Pessoas a Jogar Minecraft",
@@ -98,10 +96,10 @@ namespace Bot.Translations
                 Commands = new List<string>
                 {
                     "[ mc/lang ]( Muda a linguagem do BOT )",
-                        "[ mc/addserver ]( Adicionar um Servidor de Minecraft á lista )",
-                        "[ mc/delserver ]( Remove um Servidor de Minecraft da lista )",
-                        "[ mc/setprefix ]( Set Custom Prefix )",
-                        "[ mc/resetprefix ]( Remove Custom Prefix )"
+                    "[ mc/addserver ]( Adicionar um Servidor de Minecraft á lista )",
+                    "[ mc/delserver ]( Remove um Servidor de Minecraft da lista )",
+                    "[ mc/setprefix ]( Set Custom Prefix )",
+                    "[ mc/resetprefix ]( Remove Custom Prefix )"
                 },
                 WantTranslation = "Pretendes uma tradução? Contacta",
                 ChangeLang = "Mudar a Linguagem do BOT",

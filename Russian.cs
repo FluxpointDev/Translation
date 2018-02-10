@@ -50,10 +50,8 @@ namespace Bot.Translations
                 },
                 HelpFooter = "Также здесь есть несколько секретных команд ;)",
                 MultiMC = "MultiMC позволяет запускать любые версии игры, также можно легко установить Forge и моды",
-                SkinEditor = "Онлайн редактор скинов",
                 PleaseWait = "Подождите, пожалуйста...",
                 ServerAdminUse = "Администратор сервера должен использовать",
-                SkinArgs = "голова | куб | полный | украсть",
                 StoleSkin = "Украден скин",
                 NameOnlyOne = "Игрок {0} имеет только 1 имя в записях",
                 PlayingMinecraft = "Игроки в Minecraft",
@@ -98,10 +96,11 @@ namespace Bot.Translations
                 Commands = new List<string>
                 {
                     "[ mc/lang ]( Установить язык сервера )",
-                        "[ mc/addserver ]( Добавить MC сервер в список серверов )",
-                        "[ mc/delserver ]( Удалить MC сервер из списка)",
-                        "[ mc/setprefix ]( Set Custom Prefix )",
-                        "[ mc/resetprefix ]( Remove Custom Prefix )"
+                    "[ mc/mcrole ]( Create a Minecraft role for verified users )",
+                    "[ mc/addserver ]( Добавить MC сервер в список серверов )",
+                    "[ mc/delserver ]( Удалить MC сервер из списка)",
+                    "[ mc/setprefix ]( Set Custom Prefix )",
+                    "[ mc/resetprefix ]( Remove Custom Prefix )"
                 },
                 WantTranslation = "Хотите перевести бота на другой язык? Соединитесь с нами",
                 ChangeLang = "Изменить язык сервера",

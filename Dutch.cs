@@ -50,10 +50,8 @@ namespace Bot.Translations
                 },
                 HelpFooter = "Er zijn ook een aantal verstopte commands ;)",
                 MultiMC = "MultiMC Geeft jou de optie om meerdere versies te spelen met een forge/mods installatie",
-                SkinEditor = "Online Skin Editor",
                 PleaseWait = "Wacht even terwijl er wordt gepingt",
                 ServerAdminUse = "Serverbeheerder zou moeten gebruiken",
-                SkinArgs = "head | cube | full | steal",
                 StoleSkin = "Steel een skin",
                 NameOnlyOne = "Player {0} heeft maar 1 name",
                 PlayingMinecraft = "Members die Minecraft spelen",
@@ -98,10 +96,11 @@ namespace Bot.Translations
                 Commands = new List<string>
                 {
                     "[ mc/lang ]( Stel de taal in )",
-                        "[ mc/addserver ]( Voegt een Minecraft server toe aan de lijst )",
-                        "[ mc/delserver ]( Verwijderd een Minecraft server van de lijst )",
-                        "[ mc/setprefix ]( Zet een eigen prefix )",
-                        "[ mc/resetprefix ]( Verwijderd de eigen prefix )"
+                    "[ mc/mcrole ]( Create a Minecraft role for verified users )",
+                    "[ mc/addserver ]( Voegt een Minecraft server toe aan de lijst )",
+                    "[ mc/delserver ]( Verwijderd een Minecraft server van de lijst )",
+                    "[ mc/setprefix ]( Zet een eigen prefix )",
+                    "[ mc/resetprefix ]( Verwijderd de eigen prefix )"
                 },
                 WantTranslation = "Wil je een bepaalde taal vertalen? Neem contact met me op",
                 ChangeLang = "Verander de taal van de bot",
