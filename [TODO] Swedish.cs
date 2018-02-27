@@ -9,110 +9,110 @@ namespace Bot.Translations
         {
             Error = new TError
             {
-                NoEmbedPerms = "Bot requires permission \" Embed Links \"",
-                AdminOnly = "You are not a server admin",
-                PlayerNotFound = "Player {0} not found",
-                ApiError = "API Error",
-                EnterIP = "Enter an IP",
-                InvalidIP = "Invalid IP",
-                Cooldown = "You are on cooldown for 1 mins!",
-                EnableQuery = "Minecraft server does not have enable-query set in server.properties",
-                ListNoServers = "This community has no servers listed",
-                UnknownArg = "Unknown argument do",
-                TextLimit = "Text cannot be more than 22 letters/numbers",
-                RequireAttachFiles = "Bot requires attach files permission",
-                UnknownWiki = "Unknown wiki item"
+                NoEmbedPerms = "Bot kräver tillstånd \" Bädda in länkar \"",
+                AdminOnly = "Du är inte server Admin",
+                PlayerNotFound = "Användare {0} hittades inte",
+                ApiError = "API Fel",
+                EnterIP = "Skriv en IP",
+                InvalidIP = "ogiltlig IP",
+                Cooldown = "Du är Tystad i 1 min!",
+                EnableQuery = "Minecraft server har inte en aktiverad sökuppsätting av server.properties",
+                ListNoServers = "denna servern har inga servar listade",
+                UnknownArg = "Okänt argument",
+                TextLimit = "kan inte skriva mer än 22 okstäver/nummer",
+                RequireAttachFiles = "Bot kräver bifogade filer tillstånd",
+                UnknownWiki = "Okänt wiki-objekt"
             },
 
             Main = new TMain
             {
                 Commands = new List<string>
                 {
-                     "[ mc/bot ]( Bot Invite/Info/Stats/Links )",
-                    "[ mc/quiz ]( Minecraft quiz :D )",
-                    "[ mc/colors ]( MC color codes )",
-                    "[ mc/uuid (Player) ]( Player UUID )",
-                    "[ mc/ping (IP) ]( Ping a server )",
-                    "[ mc/list ]( List community servers )",
-                    "[ mc/wiki ]( Wiki for Items/Mobs/Enchants/Potions )",
+                     "[ mc/bot ]( Bot Inbjudan/Info/Stats/Länk )",
+                    "[ mc/quiz ]( Minecraft fråge spårt :D )",
+                    "[ mc/colors ]( MC färg koder )",
+                    "[ mc/uuid (Användare) ]( Användar UUID )",
+                    "[ mc/ping (IP) ]( Ping på en server )",
+                    "[ mc/list ]( Lista på community servar )",
+                    "[ mc/wiki ]( Wiki för saker/Mobs/Enchants/Potions )",
                     "[ mc/version ]( Minecraft version info )",
-                    "[ mc/skin (Player) ]( Player skin )",
-                    "[ mc/names (Player) ]( MC account name history )",
+                    "[ mc/skin (Användare) ]( Användar skin )",
+                    "[ mc/names (Användare) ]( MC konto namn historik )",
                     "[ mc/status ]( Mojang status )",
-                    "[ mc/get (Text) ]( Get an achievement )",
-                    "[ mc/minime (Player) ]( Minify player skin )",
-                    "[ mc/playing ]( People playing Minecraft )",
-                    "[ mc/user ]( Your Minecraft account, skin and stats )",
-                    "[ mc/rcon ]( Minecraft server remote console feature )",
-                    "[ mc/hypixel (Player) ]( Hypixel player stats )",
-                    "[ mc/admin ]( Community admin commands )",
-                    "[ mc/invite ]( Get the bot invite )"
+                    "[ mc/get (Text) ]( Få ett achievement )",
+                    "[ mc/minime (Användare) ]( Minifiera spelarens skin )",
+                    "[ mc/playing ]( Människor som spelar Minecraft )",
+                    "[ mc/user ]( Ditt minecraft konto, skin och stats )",
+                    "[ mc/rcon ](Minecraft-serverens fjärrkonsolfunktion )",
+                    "[ mc/hypixel (Användare) ]( Hypixel användar stats )",
+                    "[ mc/admin ]( Gemenskap admin kommands )",
+                    "[ mc/invite ]( få en bot invite )"
                 },
-                HelpFooter = "There are some hidden commands aswell ;)",
-                MultiMC = "MultiMC allows you to manage and launch multiple versions with easy forge/mods installation",
-                PleaseWait = "Please wait while I ping",
-                ServerAdminUse = "Server admin should use",
-                StoleSkin = "Stole a skin",
-                NameOnlyOne = "Player {0} only has 1 name on records",
-                PlayingMinecraft = "People playing Minecraft",
-                Hi = "Hi",
-                BotDesc = "If you have any issue, suggestions or language translations please contact me",
-                First = "First"
+                HelpFooter = "Det finns några dolda kommandon ;)",
+                MultiMC = "MultiMC tillåter dig att hantera och starta flera versioner med enkel smidighet/mods installation )",
+                PleaseWait = "Snälla vänta på Ping",
+                ServerAdminUse = "Serveradmin bör fixa",
+                StoleSkin = "Snå ett skin",
+                NameOnlyOne = "användare {0} har bara 1 namn på upppgifterna",
+                PlayingMinecraft = "Människor spelar Minecraft",
+                Hi = "Hej",
+                BotDesc = "Om du har några problem, förslag eller språk översättningar kontakta mig",
+                First = "Först"
             },
 
             Hidden = new THidden
             {
-                FoundHiddenCommand = "Hey, you found a secret command :D",
-                Herobrine = "Always watching you...",
-                Notch = "Minecraft was created by Notch aka Markus Persson"
+                FoundHiddenCommand = "Hej, du hittade ett hemligt kommand :D",
+                Herobrine = "jag ser alltid dig...",
+                Notch = "Minecraft är skapat av Notch aka Markus Persson"
             },
 
             Wiki = new TWiki
             {
-                Blocks = "Blocks",
-                Unknown = "Unknown",
-                Player = "Player",
-                Players = "Players",
+                Blocks = "Block",
+                Unknown = "Okändt",
+                Player = "Användare",
+                Players = "Användarna",
                 Attack = "Attack",
-                Easy = "Easy",
-                Hard = "Hard",
-                Health = "Health",
-                Height = "Height",
-                Width = "Width"
+                Easy = "Enkelt",
+                Hard = "Svårt",
+                Health = "Hälsa",
+                Height = "Höjd",
+                Width = "Bredd"
             },
 
             Profile = new TProfile
             {
-                Badges = "Badges",
-                BadgeInfo = "Badge information",
-                InvalidUserID = "Invalid user id",
-                UnknownUser = "Could not find user",
-                NotInServer = "You are not on the server",
-                SetMCName = "To set your Minecraft account use"
+                Badges = "bricka",
+                BadgeInfo = "Brick infomation",
+                InvalidUserID = "Okändt användar ID",
+                UnknownUser = "Det gick inte att hitta användaren",
+                NotInServer = "Du är inte på servern",
+                SetMCName = "För att ställa in ditt Minecraft-konto",
             },
 
             Admin = new TAdmin
             {
                 Commands = new List<string>
                 {
-                    "[ mc/lang ]( Set the community language )",
-                    "[ mc/mcrole ]( Create a Minecraft role for verified users )",
-                    "[ mc/addserver ]( Add a MC server to this guild list )",
-                    "[ mc/delserver ]( Remove a MC server from this guild list )",
-                    "[ mc/setprefix ]( Set Custom Prefix )",
-                    "[ mc/resetprefix ]( Remove Custom Prefix )"
+                    "[ mc/lang ]( fixa gemenskapsspråket )",
+                    "[ mc/mcrole ]( Skapa en Minecraft-roll för verifierade användare )",
+                    "[ mc/addserver ]( Lägg till en MC-server i den här guildlistan )",
+                    "[ mc/delserver ]( Ta bort en MC-server från den här guildlistan )",
+                    "[ mc/setprefix ]( Ange anpassat prefix )",
+                    "[ mc/resetprefix ]( Ta bort anpassat prefix )"
                 },
-                WantTranslation = "Want a language translated? Contact",
-                ChangeLang = "Change Community Language",
-                UseList = "Use mc/list for a list of this guilds minecraft servers",
-                AddServer = "Enter a tag, ip and name",
-                AddServerAdded = "Added server {0} to the guild list",
-                AddServerAlready = "This server is already on the list",
-                DelServerEnter = "Delete a server with",
-                DelServerNone = "This server is not on the list",
-                DelServerDeleted = "Removed server {0} from the guild list",
-                PrefixReset = "Server prefix reset use mc/",
-                LanguageSet = "Community language set"
+                WantTranslation = "Vill du ha ett språk översatt? kontakta",
+                ChangeLang = "Ändra gemenskapsspråk",
+                UseList = "använd mc/list för en lista över dessa guilds minecraft-servrar",
+                AddServer = "Ange en tagg, ip och namn",
+                AddServerAdded = "Tillagd server {0} till guildlistan",
+                AddServerAlready = "Den här servern finns redan på listan",
+                DelServerEnter = "Ta bort en server med",
+                DelServerNone = "Den här servern finns inte på listan",
+                DelServerDeleted = "tar väck server {0} från guild listan",
+                PrefixReset = "Serverprefix återställning användn mc/",
+                LanguageSet = "Gemenskapsspråk"
             }
         };
     }
