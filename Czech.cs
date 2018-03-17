@@ -9,7 +9,7 @@ namespace Bot.Translations
         {
             Error = new TError
             {
-                NoEmbedPerms = "Bot vyžaduje oprávnění \" Embed Links \"",
+                NoEmbedPerms = "Bot vyžaduje oprávnění „vkládat odkazy“",
                 AdminOnly = "Nejste administrátorem serveru!",
                 PlayerNotFound = "Hráč {0} nebyl nalezen",
                 ApiError = "Chyba API",
@@ -20,7 +20,7 @@ namespace Bot.Translations
                 ListNoServers = "Tato komunita nemá uvedena žádný server",
                 UnknownArg = "Neznámý argument",
                 TextLimit = "Text nemůže být delší jak 22 písmen či čísel",
-                RequireAttachFiles = "Bot potřebuje oprávnění ",
+                RequireAttachFiles = "Bot vyžaduje oprávnění „připojovat soubory“",
                 UnknownWiki = "Neznámý předmět wikipedie"
             },
 
