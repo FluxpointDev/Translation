@@ -26,29 +26,6 @@ namespace Bot.Translations
 
             Main = new TMain
             {
-                Commands = new List<string>
-                {
-                    "[ mc/bot ]( Bot Invite/Info/Stats/Links )",
-                    "[ mc/quiz ]( Minecraft quiz :D )",
-                    "[ mc/colors ]( MC color codes )",
-                    "[ mc/uuid {p} ]( Player UUID )",
-                    "[ mc/ping (IP) ]( Ping a server )",
-                    "[ mc/list ]( List community servers )",
-                    "[ mc/wiki ]( Wiki voor Items/Mobs/Enchants/Potions )",
-                    "[ mc/version ]( Minecraft versie informatie )",
-                    "[ mc/skin {p} ]( Player skin )",
-                    "[ mc/names {p} ]( MC account naam historie )",
-                    "[ mc/status ]( Mojang status )",
-                    "[ mc/get (Text) ]( Krijg een achievement )",
-                    "[ mc/playing ]( Members die Minecraft spelers )",
-                    "[ mc/user ]( Your Minecraft account, skin and stats )",
-                    "[ mc/rcon ]( Remote console for your Minecraft server )",
-                    "[ mc/hypixel {p} ]( Hypixel player stats )",
-                    "[ mc/hive {p} ]( HiveMC player stats )",
-                    "[ mc/wynncraft {p} ]( Wynncraft player stats )",
-                    "[ mc/admin ]( Community admin commands )",
-                    "[ mc/invite ]( Krijg een bot invite )"
-                },
                 HelpFooter = "Er zijn ook een aantal verstopte commands ;)",
                 MultiMC = "MultiMC Geeft jou de optie om meerdere versies te spelen met een forge/mods installatie",
                 PleaseWait = "Wacht even terwijl er wordt gepingt",
@@ -94,15 +71,6 @@ namespace Bot.Translations
 
             Admin = new TAdmin
             {
-                Commands = new List<string>
-                {
-                    "[ mc/lang ]( Stel de taal in )",
-                    "[ mc/mcrole ]( Create a Minecraft role for verified users )",
-                    "[ mc/addserver ]( Voegt een Minecraft server toe aan de lijst )",
-                    "[ mc/delserver ]( Verwijderd een Minecraft server van de lijst )",
-                    "[ mc/setprefix ]( Zet een eigen prefix )",
-                    "[ mc/resetprefix ]( Verwijderd de eigen prefix )"
-                },
                 WantTranslation = "Wil je een bepaalde taal vertalen? Neem contact met me op",
                 ChangeLang = "Verander de taal van de bot",
                 UseList = "Gebruik mc/list om de opgeslagen servers te bekijken",

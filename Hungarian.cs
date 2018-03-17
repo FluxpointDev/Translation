@@ -26,29 +26,7 @@ namespace Bot.Translations
 
             Main = new TMain
             {
-                Commands = new List<string>
-                {
-                    "[ mc/bot ]( Bot Invite/Info/Statisztika/Linkek )",
-                    "[ mc/quiz ]( Minecraft Kviz :D )",
-                    "[ mc/colors ]( MC Szinkodok )",
-                    "[ mc/uuid {p} ]( játékos UUID )",
-                    "[ mc/ping (IP) ]( Ping egy kiszolgalot )",
-                    "[ mc/list ]( Listazza a kozossegi szervereket )",
-                    "[ mc/wiki ]( Wiki az elemek/mobok/varazslok/bajitalok szamara )",
-                    "[ mc/version ]( Minecraft verzloinformaciok )",
-                    "[ mc/skin {p} ]( Jatekos bor )",
-                    "[ mc/names {p} ]( MC fioknev elozmemyei )",
-                    "[ mc/status ]( Mojang allapot )",
-                    "[ mc/get (Text) ]( Kapjon egy eredmenyt )",
-                    "[ mc/playing ]( Az Minecraft jatekosait )",
-                    "[ mc/user ]( Your Minecraft account, skin and stats )",
-                    "[ mc/rcon ]( Remote console for your Minecraft server )",
-                    "[ mc/hypixel {p} ]( Hypixel player stats )",
-                    "[ mc/hive {p} ]( HiveMC player stats )",
-                    "[ mc/wynncraft {p} ]( Wynncraft player stats )",
-                    "[ mc/admin ]( Kozossegi adminisztracios parancsok )",
-                    "[ mc/invite ]( Szerezd meg a flut )"
-                },
+                
                 HelpFooter = "Vannak rejtett parancsok is;)",
                 MultiMC = "A MultiMC lehetővé teszi több verzió kezelését és elindítását könnyű forge / mods telepítéssel",
                 PleaseWait = "Kérem várjon, míg én ping",
@@ -94,15 +72,6 @@ namespace Bot.Translations
 
             Admin = new TAdmin
             {
-                Commands = new List<string>
-                {
-                    "[ mc/lang ]( Állítsa be a közösségi nyelvet )",
-                    "[ mc/mcrole ]( Create a Minecraft role for verified users )",
-                    "[ mc/addserver ]( Adjon hozzá MC szervert ehhez a céhlistához )",
-                    "[ mc/delserver ]( Távolítson el egy MC kiszolgálót ebből a céhlistából )",
-                    "[ mc/setprefix ]( Állítsa be az egyéni előtagot )",
-                    "[ mc/resetprefix ]( Egyedi előtag eltávolítása )"
-                },
                 WantTranslation = "Szeretne egy nyelvet fordítani? Kapcsolatba lépni",
                 ChangeLang = "A közösségi nyelv megváltoztatása",
                 UseList = "Használja az mc/listot a céhek minecraft szervereinek listájához",

@@ -1,4 +1,5 @@
-﻿using Newtonsoft.Json.Linq;
+﻿using Bot.Quiz;
+using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;
 
@@ -9,7 +10,7 @@ namespace Bot.Translations
     /// </summary>
     public enum _Language
     {
-        English, French, Spanish, Russian, Portuguese, German, Dutch, Italian, Hungarian, Polish, Indonesian
+        English, French, Spanish, Russian, Portuguese, German, Dutch, Italian, Hungarian, Polish, Indonesian, Turkish, Swedish
     }
     public class _Trans
     {
@@ -31,10 +32,53 @@ namespace Bot.Translations
             public string UnknownWiki;
         }
 
+        public TMainCommands MainCommands;
+        public class TMainCommands
+        {
+            public string BotInfo;
+            public string Quiz;
+            public string Color;
+            public string NameHistory;
+            public string UserProfile;
+            public string Ping;
+            public string Version;
+            public string Rcon;
+            public string Achievement;
+            public string Playing;
+            public string List;
+            public string Admin;
+            public string Invite;
+
+            public string Get(string Prefix, _Trans _Trans)
+            {
+                string Player = _Trans.Wiki.Player;
+                List<string> List = new List<string>
+                {
+                    $"[ {Prefix}bot                ]( {BotInfo} )",
+                    $"[ {Prefix}quiz               ]( {Quiz} )",
+                    $"[ {Prefix}color              ]( {Color} )",
+                    $"[ {Prefix}uuid ({Player})    ]( {Player} UUID )",
+                    $"[ {Prefix}skin               ]( {Player} skin )",
+                    $"[ {Prefix}names ({Player})   ]( {Player} {NameHistory} )",
+                    $"[ {Prefix}user               ]( {UserProfile} )",
+                    $"[ {Prefix}hypixel ({Player}) ]( Hypixel {Player.ToLower()} stats )",
+                    $"[ {Prefix}hive ({Player})    ]( HiveMC {Player.ToLower()} stats )",
+                    $"[ {Prefix}wyn ({Player})     ]( Wynncraft {Player.ToLower()} stats )",
+                    $"[ {Prefix}get                ]( {Achievement} )",
+                    $"[ {Prefix}wiki               ]( Wiki for items/mobs/enchants/potions )",
+                    $"[ {Prefix}rcon               ]( {Rcon} )",
+                    $"[ {Prefix}status             ]( Mojang status )",
+                    $"[ {Prefix}playing            ]( {Playing} )",
+                    $"[ {Prefix}admin              ]( {Admin} )",
+                    $"[ {Prefix}invite             ]( {Invite} )"
+                };
+                return string.Join("\n", List);
+            }
+        }
+
         public TMain Main;
         public class TMain
         {
-            public List<string> Commands;
             public string HelpFooter;
             public string MultiMC;
             public string PleaseWait;
@@ -81,10 +125,36 @@ namespace Bot.Translations
             public string NotInServer;
         }
 
+        public TAdminCommands AdminCommands;
+        public class TAdminCommands
+        {
+            public string MCRole;
+            public string AutoPost;
+            public string AddServer;
+            public string RemoveServer;
+            public string SetPrefix;
+            public string ResetPrefix;
+
+            public string Get(string Prefix, _Trans _Trans)
+            {
+                List<string> List = new List<string>
+                {
+                    $"[ {Prefix}lang        ]( {_Trans.Admin.ChangeLang} )",
+                    $"[ {Prefix}mcrole      ]( {MCRole} )",
+                    $"[ {Prefix}rcon        ]( {_Trans.MainCommands.Rcon} )",
+                    $"[ {Prefix}autopost    ]( Rcon-{AutoPost} )",
+                    $"[ {Prefix}addserver   ]( {AddServer} )",
+                    $"[ {Prefix}delserver   ]( {RemoveServer} )",
+                    $"[ {Prefix}setprefix   ]( {SetPrefix} )",
+                    $"[ {Prefix}resetprefix ]( {ResetPrefix} )"
+                };
+                return string.Join("\n", List);
+            }
+        }
+
         public TAdmin Admin;
         public class TAdmin
         {
-            public List<string> Commands;
             public string WantTranslation;
             public string ChangeLang;
             public string UseList;
@@ -116,7 +186,7 @@ namespace Bot.Translations
                     }
                 }
             }
-            _Config.Translate.Add(_Language, this);
+            _Data.Translate.Add(_Language, this);
         }
     }
 }

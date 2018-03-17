@@ -26,29 +26,6 @@ namespace Bot.Translations
 
             Main = new TMain
             {
-                Commands = new List<string>
-                {
-                    "[ mc/bot ]( Bot Invitación/Información/Estadísticas/Campo de golf )",
-                    "[ mc/quiz ]( Minecraft quiz :D )",
-                    "[ mc/colors ]( MC color codes )",
-                    "[ mc/uuid {p} ]( Jugador UUID )",
-                    "[ mc/ping (IP) ]( Hacer ping a un servidor )",
-                    "[ mc/list ]( Listar servidores comunitarios )",
-                    "[ mc/wiki ]( Wiki de Artículos/Mobs/Enchants/Pociones )",
-                    "[ mc/version ]( Minecraft version info )",
-                    "[ mc/skin {p} ]( Piel del jugador )",
-                    "[ mc/names {p} ]( Historia del nombre de cuenta de MC )",
-                    "[ mc/status ]( Estado de Mojang )",
-                    "[ mc/get (Texto) ]( Obtener un logro )",
-                    "[ mc/playing ]( Les gens qui jouent à Minecraft )",
-                    "[ mc/user ]( Your Minecraft account, skin and stats )",
-                    "[ mc/rcon ]( Remote console for your Minecraft server )",
-                    "[ mc/hypixel {p} ]( Hypixel player stats )",
-                    "[ mc/hive {p} ]( HiveMC player stats )",
-                    "[ mc/wynncraft {p} ]( Wynncraft player stats )",
-                    "[ mc/admin ]( Comandos de administración de la comunidadn )",
-                    "[ mc/invite ]( Obtener la invitación bot )"
-                },
                 HelpFooter = "Hay algunos comandos ocultos también ;)",
                 MultiMC = "MultiMC le permite administrar y lanzar varias versiones con una instalación fácil de forge / mods",
                 PleaseWait = "Por favor, espere mientras hago ping",
@@ -94,15 +71,6 @@ namespace Bot.Translations
 
             Admin = new TAdmin
             {
-                Commands = new List<string>
-                {
-                    "[ mc/lang ]( Définir la langue de la communauté )",
-                    "[ mc/mcrole ]( Create a Minecraft role for verified users )",
-                    "[ mc/addserver ]( Ajouter un serveur MC à cette liste de guilde )",
-                    "[ mc/delserver ]( Supprimez un serveur MC de cette liste de guilde )",
-                    "[ mc/setprefix ]( Set Custom Prefix )",
-                    "[ mc/resetprefix ]( Remove Custom Prefix )"
-                },
                 WantTranslation = "¿Quiere traducir un idioma? Contacto",
                 ChangeLang = "Cambiar idioma de la comunidad",
                 UseList = "Utilice mc/list para obtener una lista de estos servidores de los minecraft de los gremios",

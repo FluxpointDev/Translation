@@ -26,30 +26,6 @@ namespace Bot.Translations
 
             Main = new TMain
             {
-                Commands = new List<string>
-                {
-                    "[ mc/bot ]( Bot Inbjudan/Info/Stats/Länk )",
-                    "[ mc/quiz ]( Minecraft fråge spårt :D )",
-                    "[ mc/colors ]( MC färg koder )",
-                    "[ mc/uuid {p} ]( Användar UUID )",
-                    "[ mc/ping (IP) ]( Ping på en server )",
-                    "[ mc/list ]( Lista på community servar )",
-                    "[ mc/wiki ]( Wiki för saker/Mobs/Enchants/Potions )",
-                    "[ mc/version ]( Minecraft version info )",
-                    "[ mc/skin {p} ]( Användar skin )",
-                    "[ mc/names {p} ]( MC konto namn historik )",
-                    "[ mc/status ]( Mojang status )",
-                    "[ mc/get (Text) ]( Få ett achievement )",
-                    "[ mc/minime {p} ]( Minifiera spelarens skin )",
-                    "[ mc/playing ]( Människor som spelar Minecraft )",
-                    "[ mc/user ]( Ditt minecraft konto, skin och stats )",
-                    "[ mc/rcon ](Minecraft-serverens fjärrkonsolfunktion )",
-                    "[ mc/hypixel {p} ]( Hypixel användar stats )",
-                    "[ mc/hive {p} ]( HiveMC användar stats )",
-                    "[ mc/wynncraft {p} ]( Wynncraft användar stats )",
-                    "[ mc/admin ]( Gemenskap admin kommands )",
-                    "[ mc/invite ]( få en bot invite )"
-                },
                 HelpFooter = "Det finns några dolda kommandon ;)",
                 MultiMC = "MultiMC tillåter dig att hantera och starta flera versioner med enkel smidighet/mods installation )",
                 PleaseWait = "Snälla vänta på Ping",
@@ -95,15 +71,6 @@ namespace Bot.Translations
 
             Admin = new TAdmin
             {
-                Commands = new List<string>
-                {
-                    "[ mc/lang ]( fixa gemenskapsspråket )",
-                    "[ mc/mcrole ]( Skapa en Minecraft-roll för verifierade användare )",
-                    "[ mc/addserver ]( Lägg till en MC-server i den här guildlistan )",
-                    "[ mc/delserver ]( Ta bort en MC-server från den här guildlistan )",
-                    "[ mc/setprefix ]( Ange anpassat prefix )",
-                    "[ mc/resetprefix ]( Ta bort anpassat prefix )"
-                },
                 WantTranslation = "Vill du ha ett språk översatt? kontakta",
                 ChangeLang = "Ändra gemenskapsspråk",
                 UseList = "använd mc/list för en lista över dessa guilds minecraft-servrar",

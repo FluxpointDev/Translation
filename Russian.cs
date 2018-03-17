@@ -26,29 +26,6 @@ namespace Bot.Translations
 
             Main = new TMain
             {
-                Commands = new List<string>
-                {
-                    "[ mc/bot ]( Основная информация о боте: приглашение/статистика/ссылки )",
-                    "[ mc/quiz ]( Викторина :D )",
-                    "[ mc/colors ]( Коды цветов )",
-                    "[ mc/uuid {p} ]( UUID игрока )",
-                    "[ mc/ping (IP) ]( Пинг сервера )",
-                    "[ mc/list ]( Список серверов сообщества )",
-                    "[ mc/wiki ]( Вики: информация о мобах/предметах/зачарованиях и т.д. )",
-                    "[ mc/version ]( Minecraft version info )",
-                    "[ mc/skin {p} ]( Скин игрока )",
-                    "[ mc/names {p} ]( История имён аккаунта )",
-                    "[ mc/status ]( Статус Mojang )",
-                    "[ mc/get (текст) ]( Генератор достижений )",
-                    "[ mc/playing ]( Сколько людей играют в Minecraft на данный момент )",
-                    "[ mc/user ]( Your Minecraft account, skin and stats )",
-                    "[ mc/rcon ]( Remote console for your Minecraft server )",
-                    "[ mc/hypixel {p} ]( Hypixel player stats )",
-                    "[ mc/hive {p} ]( HiveMC player stats )",
-                    "[ mc/wynncraft {p} ]( Wynncraft player stats )",
-                    "[ mc/admin ]( Команды администратора сообщества )",
-                    "[ mc/invite ]( Ссылка на добавление бота на свой сервер )"
-                },
                 HelpFooter = "Также здесь есть несколько секретных команд ;)",
                 MultiMC = "MultiMC позволяет запускать любые версии игры, также можно легко установить Forge и моды",
                 PleaseWait = "Подождите, пожалуйста...",
@@ -94,15 +71,6 @@ namespace Bot.Translations
 
             Admin = new TAdmin
             {
-                Commands = new List<string>
-                {
-                    "[ mc/lang ]( Установить язык сервера )",
-                    "[ mc/mcrole ]( Create a Minecraft role for verified users )",
-                    "[ mc/addserver ]( Добавить MC сервер в список серверов )",
-                    "[ mc/delserver ]( Удалить MC сервер из списка)",
-                    "[ mc/setprefix ]( Set Custom Prefix )",
-                    "[ mc/resetprefix ]( Remove Custom Prefix )"
-                },
                 WantTranslation = "Хотите перевести бота на другой язык? Соединитесь с нами",
                 ChangeLang = "Изменить язык сервера",
                 UseList = "Используйте mc/list для списка серверов в майнкрафте для данной гильдии",

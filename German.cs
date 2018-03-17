@@ -26,29 +26,6 @@ namespace Bot.Translations
 
             Main = new TMain
             {
-                Commands = new List<string>
-                {
-                     "[ mc/bot ]( Bot Einladen/Info/Stats/Links )",
-                    "[ mc/quiz ]( Minecraft Quiz :D )",
-                    "[ mc/colors ]( MC-Farbcodes )",
-                    "[ mc/uuid {p} ]( Spieler UUID )",
-                    "[ mc/ping (IP) ]( Ping einen Server )",
-                    "[ mc/list ]( Serverliste der Gilde )",
-                    "[ mc/wiki ]( Wiki für Items/Mobs/Verzauberungen/Tränke )",
-                    "[ mc/version ]( Minecraft version info )",
-                    "[ mc/skin {p} ]( Spieler-Skin )",
-                    "[ mc/names {p} ]( MC-Kontoname Historie )",
-                    "[ mc/status ]( Mojang-Status )",
-                    "[ mc/get (Text) ]( Hol dir eine Errungenschaft )",
-                    "[ mc/playing ]( Menschen, die gerade spielen )",
-                    "[ mc/user ]( Your Minecraft account, skin and stats )",
-                    "[ mc/rcon ]( Remote console for your Minecraft server )",
-                    "[ mc/hypixel {p} ]( Hypixel player stats )",
-                    "[ mc/hive {p} ]( HiveMC player stats )",
-                    "[ mc/wynncraft {p} ]( Wynncraft player stats )",
-                    "[ mc/admin ]( Gildenadmin-Befehle )",
-                    "[ mc/invite ]( Hol dir die Bot-Einladung )"
-                },
                 HelpFooter = "Es gibt auch einige versteckte Befehle ;)",
                 MultiMC = "MultiMC ermöglicht es, mit einfacher Forge- und Mod-Installation, mehrere Versionen zu verwalten und zu starten",
                 PleaseWait = "Bitte warte, während ich pinge",
@@ -94,15 +71,6 @@ namespace Bot.Translations
 
             Admin = new TAdmin
             {
-                Commands = new List<string>
-                {
-                     "[ mc/lang ]( Wähle die Sprache der Gilde)",
-                     "[ mc/mcrole ]( Create a Minecraft role for verified users )",
-                     "[ mc/addserver ]( Füge der Serverliste der Gilde einen MC-Server hinzu )",
-                     "[ mc/delserver ]( Entferne einen MC-Server aus der Serverliste der Gilde )",
-                     "[ mc/setprefix ]( Set Custom Prefix )",
-                     "[ mc/resetprefix ]( Remove Custom Prefix )"
-                },
                 WantTranslation = "Du willst mit der Übersetzung helfen? Kontaktiere",
                 ChangeLang = "Sprache ändern",
                 UseList = "Verwende mc/list für eine Liste der Gilden-Minecraft-Server",

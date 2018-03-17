@@ -26,29 +26,6 @@ namespace Bot.Translations
 
             Main = new TMain
             {
-                Commands = new List<string>
-                {
-                    "[ mc/bot ]( Bot Undang/Info/Statistik/Tautan )",
-                    "[ mc/quiz ]( Kuis minecraft :D )",
-                    "[ mc/colors ]( Kode warna MC )",
-                    "[ mc/uuid {p} ]( Pemain UUID )",
-                    "[ mc/ping (IP) ]( Ping a server )",
-                    "[ mc/list ]( Daftar server komunitas )",
-                    "[ mc/wiki ]( Wiki untuk Items/Mobs/Enchants/Ramuan )",
-                    "[ mc/version ]( Info versi minecraft )",
-                    "[ mc/skin {p} ]( Kulit pemain )",
-                    "[ mc/names {p} ]( Sejarah nama akun MC )",
-                    "[ mc/status ]( Mojang status )",
-                    "[ mc/get (Teks) ]( Dapatkan prestasi )",
-                    "[ mc/playing ]( Orang-orang bermain Minecraft )",
-                    "[ mc/user ]( Akun Minecraft Anda, kulit dan statistiknya )",
-                    "[ mc/rcon ]( Remote console for your Minecraft server )",
-                    "[ mc/hypixel {p} ]( Statistik pemain hypixel )",
-                    "[ mc/hive {p} ]( HiveMC player stats )",
-                    "[ mc/wynncraft {p} ]( Wynncraft player stats )",
-                    "[ mc/admin ]( Perintah admin komunitas )",
-                    "[ mc/invite ]( Dapatkan undangan bot )"
-                },
                 HelpFooter = "Ada beberapa perintah tersembunyi juga ;)",
                 MultiMC = "MultiMC memungkinkan Anda mengelola dan meluncurkan beberapa versi dengan instalasi forge/mods yang mudah",
                 PleaseWait = "Mohon tunggu sementara aku ping",
@@ -94,15 +71,6 @@ namespace Bot.Translations
 
             Admin = new TAdmin
             {
-                Commands = new List<string>
-                {
-                    "[ mc/lang ]( Tetapkan bahasa komunitas )",
-                    "[ mc/mcrole ]( Buat peran Minecraft untuk pengguna terverifikasi )",
-                    "[ mc/addserver ]( Tambahkan server MC ke daftar gilda ini )",
-                    "[ mc/delserver ]( Hapus server MC dari daftar gilda ini )",
-                    "[ mc/setprefix ]( Tetapkan Awalan Khusus )",
-                    "[ mc/resetprefix ]( Hapus Awalan Khusus )"
-                },
                 WantTranslation = "Ingin bahasa diterjemahkan? Kontak",
                 ChangeLang = "Ubah Bahasa Komunitas",
                 UseList = "Gunakan mc/list untuk daftar server minecraft guild ini",

@@ -26,29 +26,6 @@ namespace Bot.Translations
 
             Main = new TMain
             {
-                Commands = new List<string>
-                {
-                    "[ mc/bot ]( Bot Davet/Bilgi/istatistik/Linkler )",
-                    "[ mc/quiz ]( Minecraft testleri :D )",
-                    "[ mc/skin {p} ]( Oyuncu cildi )",
-                    "[ mc/colors ]( MC renk kodlari )",
-                    "[ mc/hypixel {p} ]( Hypixel oyuncu istatistigi )",
-                    "[ mc/hive {p} ]( HiveMC player stats )",
-                    "[ mc/wynncraft (Oyuncu) ]( Wynncraft player stats )",
-                    "[ mc/ping (IP) ]( serverin pingini gosterir )",
-                    "[ mc/list ]( topluluk serverlerini listeler )",
-                    "[ mc/wiki ]( Wiki de Itemler/Yaratiklar/Buyuler/iksirler )",
-                    "[ mc/version ]( Minecraft version bilgisi )",
-                    "[ mc/names {p} ]( MC hesabi isim geçmisi )",
-                    "[ mc/status ]( Mojang istatistikleri )",
-                    "[ mc/get {p} ]( Başarim olarak gosterir )",
-                    "[ mc/playing ]( bu kişi minecraft oynuyormu )",
-                    "[ mc/user ]( Senin minecraft hesabin, cildin ve istatistikler )",
-                    "[ mc/rcon ]( Remote console for your Minecraft server )",
-                    "[ mc/admin ]( topluluk admini komutlari )",
-                    "[ mc/uuid (oyuncu) ]( oyuncu UUID )",
-                    "[ mc/invite ]( botu davet etmek için kullan )"
-                },
                 HelpFooter = "bazı gizli komutlarda var evlat ;)",
                 MultiMC = "MultiMC birden fazla modu ve cild kurulumunu kolaylaştirmanizi sağlar",
                 PleaseWait = "Lutfen bekle ben pingliyim",
@@ -94,15 +71,6 @@ namespace Bot.Translations
 
             Admin = new TAdmin
             {
-                Commands = new List<string>
-                {
-                    "[ mc/lang ]( topluluk dilini değiştir )",
-                    "[ mc/mcrole ]( minecraft hesabini dogrulayanlar için özel rol yapar )",
-                    "[ mc/addserver ]( mc serverini eklemene yarar )",
-                    "[ mc/delserver ]( mc serverini silmene yarar )",
-                    "[ mc/setprefix ]( istedigin bir prefixi ayarlar )",
-                    "[ mc/resetprefix ]( istedigin prefixi siler )"
-                },
                 WantTranslation = "Çevirilen bir dil mi istiyorsunuz? Ulas",
                 ChangeLang = "Topluluk dilini değiştir",
                 UseList = "Kullan mc/list bu bottaki sunuculari gormek için",
