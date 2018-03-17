@@ -24,31 +24,25 @@ namespace Bot.Translations
                 UnknownWiki = "Unknown wiki item"
             },
 
+            MainCommands = new TMainCommands
+            {
+                BotInfo = "Bot info and stats",
+                Quiz = "Minecraft quiz",
+                Color = "Minecraft color codes",
+                NameHistory = "name history",
+                UserProfile = "Discord user profile",
+                Ping = "Ping a Minecraft server",
+                Version = "Minecraft version info",
+                Rcon = "Remote console for your Minecraft server",
+                Achievement = "Get an achievement",
+                Playing = "People playing Minecraft",
+                List = "List the community servers",
+                Admin = "Community admin commands",
+                Invite = "Add bot to your Discord server"
+            },
+
             Main = new TMain
             {
-                Commands = new List<string>
-                {
-                    "[ mc/bot ]( Bot Invite/Info/Stats/Links )",
-                    "[ mc/quiz ]( Minecraft quiz :D )",
-                    "[ mc/colors ]( MC color codes )",
-                    "[ mc/uuid {p} ]( Player UUID )",
-                    "[ mc/ping (IP) ]( Ping a server )",
-                    "[ mc/list ]( List community servers )",
-                    "[ mc/wiki ]( Wiki for Items/Mobs/Enchants/Potions )",
-                    "[ mc/version ]( Minecraft version info )",
-                    "[ mc/skin {p} ]( Player skin )",
-                    "[ mc/names {p} ]( MC account name history )",
-                    "[ mc/status ]( Mojang status )",
-                    "[ mc/get (Text) ]( Get an achievement )",
-                    "[ mc/playing ]( People playing Minecraft )",
-                    "[ mc/user ]( Your Minecraft account, skin and stats )",
-                    "[ mc/rcon ]( Remote console for your Minecraft server )",
-                    "[ mc/hypixel {p} ]( Hypixel player stats )",
-                    "[ mc/hive {p} ]( HiveMC player stats )",
-                    "[ mc/wynncraft {p} ]( Wynncraft player stats )",
-                    "[ mc/admin ]( Community admin commands )",
-                    "[ mc/invite ]( Get the bot invite )"
-                },
                 HelpFooter = "There are some hidden commands aswell ;)",
                 MultiMC = "MultiMC allows you to manage and launch multiple versions with easy forge/mods installation",
                 PleaseWait = "Please wait while I ping",
@@ -92,17 +86,18 @@ namespace Bot.Translations
                 SetMCName = "To set your Minecraft account use"
             },
 
+            AdminCommands = new TAdminCommands
+            {
+                MCRole = "Create a Minecraft role for verified users",
+                AutoPost = "Auto post your Minecraft server status",
+                AddServer = "Add a Minecraft server to the community list",
+                RemoveServer = "Remove a Minecraft server from the community list",
+                SetPrefix = "Set a custom prefix for the bot",
+                ResetPrefix = "Remove the custom prefix"
+            },
+
             Admin = new TAdmin
             {
-                Commands = new List<string>
-                {
-                    "[ mc/lang ]( Set the community language )",
-                    "[ mc/mcrole ]( Create a Minecraft role for verified users )",
-                    "[ mc/addserver ]( Add a MC server to this guild list )",
-                    "[ mc/delserver ]( Remove a MC server from this guild list )",
-                    "[ mc/setprefix ]( Set Custom Prefix )",
-                    "[ mc/resetprefix ]( Remove Custom Prefix )"
-                },
                 WantTranslation = "Want a language translated? Contact",
                 ChangeLang = "Change Community Language",
                 UseList = "Use mc/list for a list of this guilds minecraft servers",
