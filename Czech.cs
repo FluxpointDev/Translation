@@ -93,13 +93,13 @@ namespace Bot.Translations
                 AddServer = "Přidat Minecraft server do komunitního seznamu",
                 RemoveServer = "Odstranit Minecraft server z komunitního seznamu",
                 SetPrefix = "Nastavit botovi vlastní prefix",
-                ResetPrefix = "Odstranit vlastní prefix"
+                ResetPrefix = "Odstranit z bota vlastní prefix"
             },
 
             Admin = new TAdmin
             {
                 WantTranslation = "Chcete bota přeložit? Kontaktujte",
-                ChangeLang = "Změnit jazyk komunity",
+                ChangeLang = "Změnit jazyk bota",
                 UseList = "Použijte mc/list pro seznam doporučených Minecraft serverů",
                 AddServer = "Zadejte tag, ip a název",
                 AddServerAdded = "Server {0} přidán do seznamu",
@@ -108,7 +108,7 @@ namespace Bot.Translations
                 DelServerNone = "Tento server není v seznamu",
                 DelServerDeleted = "Server {0} odstraněn ze seznamu",
                 PrefixReset = "Prefix serveru resetujete pomocí mc/",
-                LanguageSet = "Jazyk komunity nastaven na"
+                LanguageSet = "Jazyk bota nastaven"
             }
         };
     }
