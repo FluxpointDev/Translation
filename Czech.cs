@@ -71,7 +71,7 @@ namespace Bot.Translations
                 Attack = "Útok",
                 Easy = "Lehká",
                 Hard = "Těžká",
-                Health = "Zdraví",
+                Health = "Životy",
                 Height = "Výška",
                 Width = "Šířka"
             },
