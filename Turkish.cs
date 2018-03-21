@@ -24,6 +24,23 @@ namespace Bot.Translations
                 UnknownWiki = "wiki eşyasi bulunamadi"
             },
 
+            MainCommands = new TMainCommands
+            {
+                BotInfo = "Bot info and stats",
+                Quiz = "Minecraft testleri :D",
+                Color = "MC renk kodlari",
+                NameHistory = "MC hesabi isim geçmisi",
+                UserProfile = "Senin minecraft hesabin, cildin ve istatistikler",
+                Ping = "serverin pingini gosterir",
+                Version = "Minecraft version bilgisi",
+                Rcon = "Remote console for your Minecraft server",
+                Achievement = "Başarim olarak gosterir",
+                Playing = "bu kişi minecraft oynuyormu",
+                List = "topluluk serverlerini listeler",
+                Admin = "topluluk admini komutlari",
+                Invite = "botu davet etmek için kullan"
+            },
+
             Main = new TMain
             {
                 HelpFooter = "bazı gizli komutlarda var evlat ;)",
@@ -67,6 +84,16 @@ namespace Bot.Translations
                 UnknownUser = "Kullanıcı bulunamadı",
                 NotInServer = "Sen bir server degilsin",
                 SetMCName = "Minecraft Hesabini kullanman için"
+            },
+
+            AdminCommands = new TAdminCommands
+            {
+                MCRole = "minecraft hesabini dogrulayanlar için özel rol yapar",
+                AutoPost = "Auto post your Minecraft server status",
+                AddServer = "mc serverini eklemene yarar",
+                RemoveServer = "mc serverini silmene yarar",
+                SetPrefix = "istedigin bir prefixi ayarlar",
+                ResetPrefix = "istedigin prefixi siler"
             },
 
             Admin = new TAdmin

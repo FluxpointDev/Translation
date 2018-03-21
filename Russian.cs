@@ -24,6 +24,23 @@ namespace Bot.Translations
                 UnknownWiki = "Неизвестный элемент"
             },
 
+            MainCommands = new TMainCommands
+            {
+                BotInfo = "Bot info and stats",
+                Quiz = "Викторина :D",
+                Color = "Коды цветов",
+                NameHistory = "История имён аккаунта",
+                UserProfile = "Your Minecraft account, skin and stats",
+                Ping = "Пинг сервера",
+                Version = "Minecraft version info",
+                Rcon = "Remote console for your Minecraft server",
+                Achievement = "Генератор достижений",
+                Playing = "Сколько людей играют в Minecraft на данный момент",
+                List = "Список серверов сообщества",
+                Admin = "Команды администратора сообщества",
+                Invite = "Ссылка на добавление бота на свой сервер"
+            },
+
             Main = new TMain
             {
                 HelpFooter = "Также здесь есть несколько секретных команд ;)",
@@ -67,6 +84,16 @@ namespace Bot.Translations
                 UnknownUser = "Не удалось найти пользователя",
                 NotInServer = "Вы не на сервере",
                 SetMCName = "Чтобы настроить использование учетной записи Minecraft"
+            },
+
+            AdminCommands = new TAdminCommands
+            {
+                MCRole = "Create a Minecraft role for verified users",
+                AutoPost = "Auto post your Minecraft server status",
+                AddServer = "Добавить MC сервер в список серверов",
+                RemoveServer = "Удалить MC сервер из списка",
+                SetPrefix = "Set Custom Prefix",
+                ResetPrefix = "Remove Custom Prefix"
             },
 
             Admin = new TAdmin

@@ -24,6 +24,23 @@ namespace Bot.Translations
                 UnknownWiki = "Onbekend wiki-item"
             },
 
+            MainCommands = new TMainCommands
+            {
+                BotInfo = "Bot info and stats",
+                Quiz = "Minecraft quiz :D",
+                Color = "MC color codes",
+                NameHistory = "MC account naam historie",
+                UserProfile = "Your Minecraft account, skin and stats",
+                Ping = "Ping a server",
+                Version = "Minecraft versie informatie",
+                Rcon = "Remote console for your Minecraft server",
+                Achievement = "Krijg een achievement",
+                Playing = "Members die Minecraft spelers",
+                List = "List community servers",
+                Admin = "Community admin commands",
+                Invite = "Krijg een bot invite"
+            },
+
             Main = new TMain
             {
                 HelpFooter = "Er zijn ook een aantal verstopte commands ;)",
@@ -67,6 +84,16 @@ namespace Bot.Translations
                 UnknownUser = "Kon de gebruiker niet vinden",
                 NotInServer = "U bevindt zich niet op de server",
                 SetMCName = "Om uw Minecraft-account te gebruiken"
+            },
+
+            AdminCommands = new TAdminCommands
+            {
+                MCRole = "Create a Minecraft role for verified users",
+                AutoPost = "Auto post your Minecraft server status",
+                AddServer = "Voegt een Minecraft server toe aan de lijst",
+                RemoveServer = "Verwijderd een Minecraft server van de lijst",
+                SetPrefix = "Zet een eigen prefix",
+                ResetPrefix = "Verwijderd de eigen prefix"
             },
 
             Admin = new TAdmin

@@ -10,7 +10,7 @@ namespace Bot.Translations
     /// </summary>
     public enum _Language
     {
-        English, French, Spanish, Russian, Portuguese, German, Dutch, Italian, Hungarian, Polish, Indonesian, Turkish, Swedish
+        English, French, Spanish, Russian, Portuguese, German, Dutch, Italian, Hungarian, Polish, Indonesian, Turkish, Swedish, Czech
     }
     public class _Trans
     {

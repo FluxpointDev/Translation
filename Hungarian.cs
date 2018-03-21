@@ -24,6 +24,23 @@ namespace Bot.Translations
                 UnknownWiki = "Ismeretlen wiki tétel"
             },
 
+            MainCommands = new TMainCommands
+            {
+                BotInfo = "Bot info and stats",
+                Quiz = "Minecraft Kviz :D",
+                Color = "MC Szinkodok",
+                NameHistory = "MC fioknev elozmemyei",
+                UserProfile = "Your Minecraft account, skin and stats",
+                Ping = "Ping egy kiszolgalot",
+                Version = "Minecraft verzloinformaciok",
+                Rcon = "Remote console for your Minecraft server",
+                Achievement = "Kapjon egy eredmenyt",
+                Playing = "Az Minecraft jatekosait",
+                List = "Listazza a kozossegi szervereket",
+                Admin = "Kozossegi adminisztracios parancsok",
+                Invite = "Szerezd meg a flut"
+            },
+
             Main = new TMain
             {
                 
@@ -68,6 +85,16 @@ namespace Bot.Translations
                 UnknownUser = "Nem sikerült megtalálni a felhasználót",
                 NotInServer = "Nem vagy a szerveren",
                 SetMCName = "A Minecraft fiók használatának beállítása"
+            },
+
+            AdminCommands = new TAdminCommands
+            {
+                MCRole = "Create a Minecraft role for verified users",
+                AutoPost = "Auto post your Minecraft server status",
+                AddServer = "Adjon hozzá MC szervert ehhez a céhlistához",
+                RemoveServer = "Távolítson el egy MC kiszolgálót ebből a céhlistából",
+                SetPrefix = "Állítsa be az egyéni előtagot",
+                ResetPrefix = "Egyedi előtag eltávolítása"
             },
 
             Admin = new TAdmin

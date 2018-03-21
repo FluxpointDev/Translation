@@ -24,6 +24,23 @@ namespace Bot.Translations
                 UnknownWiki = "Elemento wiki sconosciuto"
             },
 
+            MainCommands = new TMainCommands
+            {
+                BotInfo = "Bot info and stats",
+                Quiz = "Minecraft quiz :D",
+                Color = "Codici dei Colori MC",
+                NameHistory = "Storia del nome dell' account MC",
+                UserProfile = "Your Minecraft account, skin and stats",
+                Ping = "Pinga un server",
+                Version = "Info sulla versione di MC",
+                Rcon = "Remote console for your Minecraft server",
+                Achievement = "Ottieni un achievement",
+                Playing = "Persone che stanno giocando ad MC",
+                List = "Lista dei server della community",
+                Admin = "Comandi dell' admin della community",
+                Invite = "Ottieni l' invito del bot"
+            },
+
             Main = new TMain
             {
                 HelpFooter = "Ci sono dei pure dei comandi segreti ;)",
@@ -67,6 +84,16 @@ namespace Bot.Translations
                 UnknownUser = "Impossibile trovare l'utente",
                 NotInServer = "Non sei sul server",
                 SetMCName = "Usa il tuo account Minecraft"
+            },
+
+            AdminCommands = new TAdminCommands
+            {
+                MCRole = "Create a Minecraft role for verified users",
+                AutoPost = "Auto post your Minecraft server status",
+                AddServer = "Aggiungi un server MC a la lista di questa gildad",
+                RemoveServer = "Rimuovi un server MC da questo gilda",
+                SetPrefix = "Setta il Custom Prefix",
+                ResetPrefix = "Rimuovi il Custom Prefix"
             },
 
             Admin = new TAdmin

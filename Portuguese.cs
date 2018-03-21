@@ -23,6 +23,24 @@ namespace Bot.Translations
                 RequireAttachFiles = "Bot requer permissão de anexar arquivos",
                 UnknownWiki = "Unknown wiki item"
             },
+
+            MainCommands = new TMainCommands
+            {
+                BotInfo = "Bot info and stats",
+                Quiz = "Minecraft Quiz :D",
+                Color = "Códigos das Cores MC",
+                NameHistory = "Histórico de Nomes MC",
+                UserProfile = "Your Minecraft account, skin and stats",
+                Ping = "Ping do Servidor",
+                Version = "Minecraft version info",
+                Rcon = "Remote console for your Minecraft server",
+                Achievement = "Obter uma Conquista",
+                Playing = "Pessoas a Jogar Minecraft",
+                List = "Lista de servidores da comunidade",
+                Admin = "Comandos de administração da comunidade",
+                Invite = "Convite do BOT"
+            },
+
             Main = new TMain
             {
                 HelpFooter = "Também há alguns comandos ocultos ;)",
@@ -36,12 +54,14 @@ namespace Bot.Translations
                 BotDesc = "Se tiveres algum problema, sugestão ou tradução, contacta-me",
                 First = "Primeiro"
             },
+
             Hidden = new THidden
             {
                 FoundHiddenCommand = "Hey, encontraste um comando secreto :D",
                 Herobrine = "Sempre observando-te...",
                 Notch = "O Minecraft foi criado pelo Notch aka Markus Persson"
             },
+
             Wiki = new TWiki
             {
                 Blocks = "blocos",
@@ -55,6 +75,7 @@ namespace Bot.Translations
                 Height = "Altura",
                 Width = "Largura",
             },
+
             Profile = new TProfile
             {
                 Badges = "Distintivos",
@@ -64,6 +85,17 @@ namespace Bot.Translations
                 NotInServer = "Você não está no servidor",
                 SetMCName = "Para configurar seu uso da conta Minecraft"
             },
+
+            AdminCommands = new TAdminCommands
+            {
+                MCRole = "Create a Minecraft role for verified users",
+                AutoPost = "Auto post your Minecraft server status",
+                AddServer = "Adicionar um Servidor de Minecraft á lista",
+                RemoveServer = "Remove um Servidor de Minecraft da lista",
+                SetPrefix = "Set Custom Prefix",
+                ResetPrefix = "Remove Custom Prefix"
+            },
+
             Admin = new TAdmin
             {
                 WantTranslation = "Pretendes uma tradução? Contacta",

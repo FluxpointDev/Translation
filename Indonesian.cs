@@ -24,6 +24,23 @@ namespace Bot.Translations
                 UnknownWiki = "Item wiki tidak diketahui"
             },
 
+            MainCommands = new TMainCommands
+            {
+                BotInfo = "Bot info and stats",
+                Quiz = "Kuis minecraft :D",
+                Color = "Kode warna MC",
+                NameHistory = "Sejarah nama akun MC",
+                UserProfile = "Akun Minecraft Anda, kulit dan statistiknya",
+                Ping = "Ping a server",
+                Version = "Info versi minecraft",
+                Rcon = "Remote console for your Minecraft server",
+                Achievement = "Dapatkan prestasi",
+                Playing = "Orang-orang bermain Minecraft",
+                List = "Daftar server komunitas",
+                Admin = "Perintah admin komunitas",
+                Invite = "Dapatkan undangan bot"
+            },
+
             Main = new TMain
             {
                 HelpFooter = "Ada beberapa perintah tersembunyi juga ;)",
@@ -67,6 +84,16 @@ namespace Bot.Translations
                 UnknownUser = "Tidak dapat menemukan pengguna",
                 NotInServer = "Anda tidak berada di server",
                 SetMCName = "Untuk mengatur penggunaan akun Minecraft Anda"
+            },
+
+            AdminCommands = new TAdminCommands
+            {
+                MCRole = "Buat peran Minecraft untuk pengguna terverifikasi",
+                AutoPost = "Auto post your Minecraft server status",
+                AddServer = "Tambahkan server MC ke daftar gilda ini",
+                RemoveServer = "Hapus server MC dari daftar gilda ini",
+                SetPrefix = "Tetapkan Awalan Khusus",
+                ResetPrefix = "Hapus Awalan Khusus"
             },
 
             Admin = new TAdmin

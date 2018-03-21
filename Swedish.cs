@@ -24,6 +24,23 @@ namespace Bot.Translations
                 UnknownWiki = "Okänt wiki-objekt"
             },
 
+            MainCommands = new TMainCommands
+            {
+                BotInfo = "Bot info and stats",
+                Quiz = "Minecraft fråge spårt :D",
+                Color = "MC färg koder",
+                NameHistory = "MC konto namn historik",
+                UserProfile = "Ditt minecraft konto, skin och stats",
+                Ping = "Ping på en server",
+                Version = "Minecraft version info",
+                Rcon = "Minecraft-serverens fjärrkonsolfunktion",
+                Achievement = "Få ett achievement",
+                Playing = "Människor som spelar Minecraft",
+                List = "Lista på community servar",
+                Admin = "Gemenskap admin kommands",
+                Invite = "få en bot invite"
+            },
+
             Main = new TMain
             {
                 HelpFooter = "Det finns några dolda kommandon ;)",
@@ -67,6 +84,16 @@ namespace Bot.Translations
                 UnknownUser = "Det gick inte att hitta användaren",
                 NotInServer = "Du är inte på servern",
                 SetMCName = "För att ställa in ditt Minecraft-konto",
+            },
+
+            AdminCommands = new TAdminCommands
+            {
+                MCRole = "Skapa en Minecraft-roll för verifierade användare",
+                AutoPost = "Auto post your Minecraft server status",
+                AddServer = "Lägg till en MC-server i den här guildlistan",
+                RemoveServer = "Ta bort en MC-server från den här guildlistan",
+                SetPrefix = "Ange anpassat prefix",
+                ResetPrefix = "Ta bort anpassat prefix"
             },
 
             Admin = new TAdmin
