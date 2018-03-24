@@ -17,19 +17,27 @@ Current Translations
 - Turkish
 
 # Helpers
-A list of translator contriubuters
+A list of translator contriubuters this wont be updated unlike mc/lang
 
-Mantevian#6804 | 240841342723424256
+Mantevian#9703 | 240841342723424256 | Russian
 
-BaaaNG#3224 | 319171978881925121
+BaaaNG#3224 | 319171978881925121 | Portugues
 
-Zak_Patat#9077 | 186543143225786370
+Zak_Patat#0001 | 186543143225786370 | Dutch
 
-jumper222#9027 | 203208900336418816
+jumper222#9027 | 203208900336418816 | Italian
 
-LukeM1132#6078 | 348591213953417218
+LukeM1132#6078 | 348591213953417218 | Hungarian
 
-eliteeliteSeraTT#1985 | 306778429565435906
+eliteeliteSeraTT#1985 | 306778429565435906 | Turkish
+
+KizzeMizze#8931 | 207803910369312769 | Swedish
+
+Renzotom#4516 | 211947513501057024 | Czech
+
+ItzKissaz | Finprison.net#4794 | 334461848156110849 | Finnish
+
+lumiku#8652 | 416927634170183681 | Finnish
 
 # Want to translate?
 Contact me on my Discord or by friend request xXBuilderBXx#8265
