@@ -10,55 +10,55 @@ namespace Bot.Translations
             Error = new TError
             {
                 NoEmbedPerms = "Botti tarvitsee oikeuden \" Embed Links \"",
-                AdminOnly = "Et ole palvelimen yll‰pidossa",
-                PlayerNotFound = "Pelaajaa {0} ei lˆydetty",
+                AdminOnly = "Et ole palvelimen yll√§pit√§j√§",
+                PlayerNotFound = "Pelaajaa {0} ei l√∂ydetty",
                 ApiError = "API Virhe",
-                EnterIP = "Syˆt‰ IP-osoite",
+                EnterIP = "Sy√∂t√§ IP-osoite",
                 InvalidIP = "Virheellinen IP-osoite",
-                Cooldown = "Olet j‰‰hyll‰ 1min!",
-                EnableQuery = "Minecraft serverill‰ ei ole enable-query asetettu server.properties",
-                ListNoServers = "This community has no servers listed",
-                UnknownArg = "Tuntematon Argumentti do",
-                TextLimit = "Teksti ei voi olla pidempi kuin 22 kirjaimia/numeroita",
+                Cooldown = "Olet j√§√§hyll√§ 1min!",
+                EnableQuery = "Minecraft serverill√§ ei ole enable-query asetettu tiedostossa server.properties",
+                ListNoServers = "T√§m√§ discord-palvelin ei omista palvelinlistaa! :(",
+                UnknownArg = "Tuntematon argumentti",
+                TextLimit = "Teksti ei voi olla pidempi kuin 22 kirjainta/numeroa",
                 RequireAttachFiles = "Botti vaatii attach files Oikeuden",
-                UnknownWiki = "Tuntematon wiki kohta"
+                UnknownWiki = "Wiki ei omista t√§t√§"
             },
 
             MainCommands = new TMainCommands
             {
                 BotInfo = "Botin info ja status",
                 Quiz = "Minecraft Kysely",
-                Color = "Minecraft v‰rikoodit",
-                NameHistory = "nimihistoria",
-                UserProfile = "Discord k‰ytt‰j‰ profiili",
+                Color = "Minecraft v√§rikoodit",
+                NameHistory = "Mimihistoria",
+                UserProfile = "Discord k√§ytt√§j√§ profiili",
                 Ping = "Pinggaa minecraft serveri",
                 Version = "Minecraft version tiedot",
-                Rcon = "Hallitse Serverisi konsolia et‰‰t‰",
-                Achievement = "Saa palkinto",
+                Rcon = "Hallitse Serverisi konsolia et√§√§lt√§",
+                Achievement = "Tee oma saavutus",
                 Playing = "Pelaamassa minecraftia",
-                List = "Palvelimeen lis‰tyt minecraft serverit",
+                List = "Palvelimeen lis√§tyt minecraft serverit",
                 Admin = "Palvelimen admin komennot",
-                Invite = "Lis‰‰ botti palvelimellesi"
+                Invite = "Lis√§√§ botti palvelimellesi!"
             },
 
             Main = new TMain
             {
-                HelpFooter = "Tuolla on salaisiakin komentoja ;)",
-                MultiMC = "MultiMC antaa sinun hallita ja k‰ynnist‰‰ monia versioita helposti forge/mods Asennukseen",
+                HelpFooter = "Botti omistaa salaisia komentoja o-O",
+                MultiMC = "MultiMC antaa sinun hallita ja k√§ynnist√§√§ monia versioita helposti forgen/modeja!",
                 PleaseWait = "Odota kun pinggaan",
                 ServerAdminUse = "Server admin should use",
                 StoleSkin = "Varasta skin",
-                NameOnlyOne = "Pelaajalle {0} on vain 1 nimi historiassa",
+                NameOnlyOne = "Pelaajalla {0} on vain 1 nimi historiassa",
                 PlayingMinecraft = "Pelaajia pelaamassa minecraftia",
                 Hi = "Hei",
-                BotDesc = "Jos sinulla on jotain ongelmia, ehdoituksia tai kieli k‰‰nnˆksi‰ ota yheteytt‰ minuun",
+                BotDesc = "Jos sinulla on jotain ongelmia, ehdoituksia tai kieli k√§√§nn√∂ksi√§ ota yheteytt√§ minuun",
                 First = "eka"
             },
 
             Hidden = new THidden
             {
-                FoundHiddenCommand = "Hei, lˆysit salaisen komennon :D",
-                Herobrine = "Aina katsomassa sinua...",
+                FoundHiddenCommand = "Omg. Salanen komento o_O",
+                Herobrine = "Katson fidgetspinneri√§.",
                 Notch = "Minecraftin teki Notch aka Markus Persson"
             },
 
@@ -68,10 +68,10 @@ namespace Bot.Translations
                 Unknown = "Tuntematon",
                 Player = "Pelaaja",
                 Players = "Pelaajat",
-                Attack = "Hyˆkk‰ys",
+                Attack = "Hy√∂kk√§ys",
                 Easy = "Helppo",
                 Hard = "Vaikea",
-                Health = "El‰m‰",
+                Health = "El√§m√§",
                 Height = "Korkeus",
                 Width = "Leveys"
             },
@@ -80,32 +80,32 @@ namespace Bot.Translations
             {
                 Badges = "Kunniamerkit",
                 BadgeInfo = "Kunniamerkkien tiedot",
-                InvalidUserID = "Virheellinen k‰ytt‰j‰n id",
-                UnknownUser = "Pelaajaa ei lˆydetty",
-                NotInServer = "Et ole serverill‰!",
-                SetMCName = " asettaa Minecraft k‰ytt‰j‰n"
+                InvalidUserID = "Virheellinen k√§ytt√§j√§n id",
+                UnknownUser = "Pelaajaa ei l√∂ydetty",
+                NotInServer = "Et ole serverill√§!",
+                SetMCName = " asettaa Minecraft k√§ytt√§j√§n"
             },
 
             AdminCommands = new TAdminCommands
             {
-                MCRole = "Luo rooli vahvistetuille j‰senille",
+                MCRole = "Luo rooli vahvistetuille j√§senille",
                 AutoPost = "Julkaise automaattisesti palvelimen tilastoja",
-                AddServer = "Lis‰‰ serveri yhteisˆn listalle",
-                RemoveServer = "Poista serveri yhteisˆn listalta",              
-				SetPrefix = "Muuta botin prefixi‰",
+                AddServer = "Lis√§√§ serveri yhteis√∂n listalle",
+                RemoveServer = "Poista serveri yhteis√∂n listalta",              
+				SetPrefix = "Muuta botin prefixi√§",
                 ResetPrefix = "Poista muutettu prefix"
             },
 
             Admin = new TAdmin
             {
-                WantTranslation = "Haluatko k‰‰nt‰‰ bottia jollekin kielelle? Ota yheteytt‰",
+                WantTranslation = "Haluatko k√§√§nt√§√§ bottia jollekin kielelle? Ota yheteytt√§ discorissa!",
                 ChangeLang = "Vaihda kieli joksikin",
-                UseList = "Tee mc/list ett‰ n‰‰t listan minecraft servereist‰ jotka on palvelimelle lis‰tty",
-                AddServer = "Syˆt‰ Merkki, ip ja nimi",
-                AddServerAdded = "Lis‰tty serveri {0} Palvelimen listalle",
-                AddServerAlready = "Serveri on lis‰tty jo listaan!",
+                UseList = "Tee mc/list ett√§ n√§√§t listan minecraft servereist√§ jotka on palvelimelle lis√§tty",
+                AddServer = "Sy√∂t√§ Merkki, ip ja nimi",
+                AddServerAdded = "Lis√§tty serveri {0} Palvelimen listalle",
+                AddServerAlready = "Serveri on lis√§tty jo listaan!",
                 DelServerEnter = "Poista serveri",
-                DelServerNone = "This server is not on the list",
+                DelServerNone = "T√§m√§ serveri ei ole listalla",
                 DelServerDeleted = "Serveri {0} poistettu palvelimen listalta",
                 PrefixReset = "Palvelimen prefixin palautus mc/",
                 LanguageSet = "Palvelimen kieli muutettu"
