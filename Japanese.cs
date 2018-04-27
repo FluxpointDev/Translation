@@ -8,107 +8,107 @@ namespace Bot.Translations
         public static _Trans Language = new _Trans
         {
             Error = new TError
-            {
-                NoEmbedPerms = "Bot requires permission \" Embed Links \"",
-                AdminOnly = "You are not a server admin",
-                PlayerNotFound = "Player {0} not found",
-                ApiError = "API Error",
-                EnterIP = "Enter an IP",
-                InvalidIP = "Invalid IP",
-                Cooldown = "You are on cooldown for 1 mins!",
-                EnableQuery = "Minecraft server does not have enable-query set in server.properties",
-                ListNoServers = "This community has no servers listed",
-                UnknownArg = "Unknown argument do",
-                TextLimit = "Text cannot be more than 22 letters/numbers",
-                RequireAttachFiles = "Bot requires attach files permission",
-                UnknownWiki = "Unknown wiki item"
+            
+                NoEmbedPerms = "Botto ni wa akusesu kyoka ga hitsuyō\ rinku o umekomu\",
+                AdminOnly = "Anata wa sābā kanrishade wa arimasen",
+                PlayerNotFound = "Purēyā {0 } ga mitsukarimasen",
+                ApiError = "Api erā",
+                EnterIP = "IP o nyūryoku shite kudasai",
+                InvalidIP = "Mukōna IP",
+                Cooldown = "Anata wa 1-funkan no kūrudaun-chūdesu!",
+                EnableQuery = "Minecraft sābā wa server. Puropati ni inēburu - query o settei shite imasen",
+                ListNoServers = "Kono komyuniti ni wa sābā ga risuto sa rete imasen",
+                UnknownArg = "Fumeina hikisū do",
+                TextLimit = "Tekisuto wa 22 moji/ sūji ikadenakereba narimasen",
+                RequireAttachFiles = "Bot ga fairu o tenpu suruhitsuyōgāru",
+                UnknownWiki = "Fumeina u~ikki aitemu"
             },
 
             MainCommands = new TMainCommands
             {
-                BotInfo = "Bot info and stats",
-                Quiz = "Minecraft quiz",
-                Color = "Minecraft color codes",
-                NameHistory = "name history",
-                UserProfile = "Discord user profile",
-                Ping = "Ping a Minecraft server",
-                Version = "Minecraft version info",
-                Rcon = "Remote console for your Minecraft server",
-                Achievement = "Get an achievement",
-                Playing = "People playing Minecraft",
-                List = "List the community servers",
-                Admin = "Community admin commands",
-                Invite = "Add bot to your Discord server"
+                BotInfo = "Botto jōhō to tōkei jōhō",
+                Quiz = "Minikurafutokuizu",
+                Color = "Minecraft karākōdo",
+                NameHistory = "Namae no rekishi",
+                UserProfile = "Yūzāpurofairu o fuitchi",
+                Ping = "Minikurafutosābā ni pingu o jikkō suru",
+                Version = "Minecraft no bājon jōhō",
+                Rcon = "Anata no Minecraft sābā-yō no rimōtokonsōru",
+                Achievement = "Tassei o eru",
+                Playing = "Mainkurafuto o purei shite iru hito",
+                List = "Komyunitisābā o ichiran hyōji suru",
+                Admin = "Komyuniti kanri komando",
+                Invite = "Anata no Discord sābā ni botto o tsuika suru"
             },
 
             Main = new TMain
             {
-                HelpFooter = "There are some hidden commands aswell ;)",
-                MultiMC = "MultiMC allows you to manage and launch multiple versions with easy forge/mods installation",
-                PleaseWait = "Please wait while I ping",
-                ServerAdminUse = "Server admin should use",
-                StoleSkin = "Stole a skin",
-                NameOnlyOne = "Player {0} only has 1 name on records",
-                PlayingMinecraft = "People playing Minecraft",
-                Hi = "Hi",
-                BotDesc = "If you have any issue, suggestions or language translations please contact me",
-                First = "First"
+                HelpFooter = "Ikutsu ka no kakusareta komando mo arimasu ;)",
+                MultiMC = "MultiMC o shiyō suru to, kantan'na tanzō/ kaizō no insutōru de fukusū no bājon o kanri oyobi kidō dekimasu",
+                PleaseWait = "Watashi ga pingu shite iru ma omachikudasai",
+                ServerAdminUse = "Sābā kanrisha ga shiyō suru hitsuyō ga arimasu",
+                StoleSkin = "Hada o nusunda",
+                NameOnlyOne = "Pureiyā {0 } wa rekōdo ni 1tsu no namae shika motte imasen",
+                PlayingMinecraft = "Mainkurafuto o purei shite iru hito",
+                Hi = "Kon'nichiwa~",
+                BotDesc = "Mondai, teian, gengo hon'yaku ga aru baai wa, watashi ni renraku shite kudasai",
+                First = "Saisho"
             },
 
             Hidden = new THidden
             {
-                FoundHiddenCommand = "Hey, you found a secret command :D",
-                Herobrine = "Always watching you...",
-                Notch = "Minecraft was created by Notch aka Markus Persson"
+                FoundHiddenCommand = "Nē, anata wa himitsu no komando o mitsuketa :D",
+                Herobrine = "Itsumo anata o mite...",
+                Notch = "Minecraft wa notchi aka Markus Persson ni yotte sakusei sa remashita"
             },
 
             Wiki = new TWiki
             {
-                Blocks = "Blocks",
-                Unknown = "Unknown",
-                Player = "Player",
-                Players = "Players",
-                Attack = "Attack",
-                Easy = "Easy",
-                Hard = "Hard",
-                Health = "Health",
-                Height = "Height",
-                Width = "Width"
+                Blocks = "Burokku",
+                Unknown = "Michi no",
+                Player = "Purēyā",
+                Players = "Pureiyā",
+                Attack = "Kōgeki",
+                Easy = "Kantan",
+                Hard = "Hādo",
+                Health = "Kenkō",
+                Height = "Taka-sa",
+                Width = "Haba"
             },
 
             Profile = new TProfile
             {
-                Badges = "Badges",
-                BadgeInfo = "Badge information",
-                InvalidUserID = "Invalid user id",
-                UnknownUser = "Could not find user",
-                NotInServer = "You are not on the server",
-                SetMCName = "To set your Minecraft account use"
+                Badges = "Bajji",
+                BadgeInfo = "Bajji jōhō",
+                InvalidUserID = "Yūzā ID ga mukōdesu",
+                UnknownUser = "Yūzā o mitsukeru koto ga dekimasendeshita",
+                NotInServer = "Anata wa sābā ni imasen",
+                SetMCName = "Anata no minikurafutoakaunto no shiyō o settei suru ni wa"
             },
 
             AdminCommands = new TAdminCommands
             {
-                MCRole = "Create a Minecraft role for verified users",
-                AutoPost = "Auto post your Minecraft server status",
-                AddServer = "Add a Minecraft server to the community list",
-                RemoveServer = "Remove a Minecraft server from the community list",
-                SetPrefix = "Set a custom prefix for the bot",
-                ResetPrefix = "Remove the custom prefix"
+                MCRole = "Kenshō-zumi yūzā no tame no Minecraft rōru no sakusei",
+                AutoPost = "Minecraft sābā no sutētasu o jidō tōkō suru",
+                AddServer = "Minecraft sābā o komyuniti risuto ni tsuika suru",
+                RemoveServer = "Komyuniti risuto kara Minecraft sābā o sakujo suru",
+                SetPrefix = "Botto no kasutamupurefikkusu o settei suru",
+                ResetPrefix = "Kasutamupurefikkusu o sakujo suru"
             },
 
             Admin = new TAdmin
             {
-                WantTranslation = "Want a language translated? Contact",
-                ChangeLang = "Change Community Language",
-                UseList = "Use mc/list for a list of this guilds minecraft servers",
-                AddServer = "Enter a tag, ip and name",
-                AddServerAdded = "Added server {0} to the guild list",
-                AddServerAlready = "This server is already on the list",
-                DelServerEnter = "Delete a server with",
-                DelServerNone = "This server is not on the list",
-                DelServerDeleted = "Removed server {0} from the guild list",
-                PrefixReset = "Server prefix reset use mc/",
-                LanguageSet = "Community language set"
+                WantTranslation = "Gengo o hon'yaku shitaidesu ka? Sesshoku",
+                ChangeLang = "Komyuniti gengo no henkō",
+                UseList = "Kono girudo no minikurafutosāba no risuto ni tsuite wa, mc/ list o shiyō shite kudasai",
+                AddServer = "Tagu, IP, namae o nyūryoku shite kudasai",
+                AddServerAdded = "Girudo risuto ni sābā {0 } o tsuika shimashita",
+                AddServerAlready = "Kono sābā wa sudeni risuto ni haitte imasu",
+                DelServerEnter = "De no sābā no sakujov",
+                DelServerNone = "Kono sābā wa risuto ni arimasen",
+                DelServerDeleted = "Girudo risuto kara sābā {0 } o sakujo shimashita",
+                PrefixReset = "Sāba no purefikkusu o risettosuru ni wa mc/",
+                LanguageSet = "Komyuniti gengo setto"
             }
         };
     }
