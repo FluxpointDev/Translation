@@ -10,14 +10,14 @@ namespace Bot.Translations
             Error = new TError
             {
                 NoEmbedPerms = "Bot需要許可 \" 遷入連結 \"",
-                AdminOnly = "Hey! 你不是社團的管理員 不要再嘗試了!!",
+                AdminOnly = "Hey! 你不是管理員 不要再嘗試了!!",
                 PlayerNotFound = "並無 {0} 玩家的資料",
                 ApiError = "API錯誤",
                 EnterIP = "請輸入IP",
                 InvalidIP = "無效的IP",
                 Cooldown = "需要杯冷水嗎 :P,請1分鐘後 再試一次",
                 EnableQuery = "此Minecraft伺服器未在server.properties開啟enable-query",
-                ListNoServers = "這個社團沒有任何的伺服器列表 :(",
+                ListNoServers = "社團中沒有任何的伺服器列表 :(",
                 UnknownArg = "未知的說法",
                 TextLimit = "不可輸入超過22個數字/文字",
                 RequireAttachFiles = "Bot需要 附加文件 的許可",
@@ -29,13 +29,13 @@ namespace Bot.Translations
                 BotInfo = "Bot的資訊",
                 Quiz = "Minecraft 測驗",
                 Color = "Minecraft 顏色代碼",
-                NameHistory = "名字歷史",
+                NameHistory = "Minecraft名字的歷史",
                 UserProfile = "Discord 用戶資訊",
-                Ping = "測試MinecraftServer的Ping值",
+                Ping = "測試Minecraft伺服器的Ping值",
                 Version = "Minecraft版本",
-                Rcon = "遠端控制你的MinecraftServer",
+                Rcon = "遠端控制你的Minecraft伺服器",
                 Achievement = "獲得成就",
-                Playing = "有在玩Minecraft的玩家",
+                Playing = "Minecraft 玩家人數",
                 List = "伺服器列表",
                 Admin = "管理員指令",
                 Invite = "新增Bot到你的伺服器裡"
@@ -59,7 +59,7 @@ namespace Bot.Translations
             {
                 FoundHiddenCommand = "嘿,你找到了隱藏的指令 :D",
                 Herobrine = "Always watching you...",
-                Notch = "Minecraft是由Notch aka Markus Persson 所製作"
+                Notch = "Minecraft是由 Notch aka Markus Persson 所製作"
             },
 
             Wiki = new TWiki
