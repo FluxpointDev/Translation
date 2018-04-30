@@ -15,7 +15,7 @@ namespace Bot.Translations
                 ApiError = "API錯誤",
                 EnterIP = "請輸入IP",
                 InvalidIP = "無效的IP",
-                Cooldown = "需要杯冷水嗎 :P,請1分鐘後 再試一次",
+                Cooldown = "需要杯冷水嗎? :P,請1分鐘後 再試一次",
                 EnableQuery = "此Minecraft伺服器未在server.properties開啟enable-query",
                 ListNoServers = "社團中沒有任何的伺服器列表 :(",
                 UnknownArg = "未知的說法",
@@ -43,15 +43,15 @@ namespace Bot.Translations
 
             Main = new TMain
             {
-                HelpFooter = "這裡還有一些隱藏的指令 ;)",
+                HelpFooter = "還有一些隱藏的指令,等著你去發現 ;)",
                 MultiMC = "MultiMC 幫助你管理和啟動多個版本,以及幫助你輕鬆的開模組伺服器",
-                PleaseWait = "正在測試Ping值 請稍等",
+                PleaseWait = "Ping值測試中,請稍後",
                 ServerAdminUse = "Server admin should use",
                 StoleSkin = "偷了skin",
-                NameOnlyOne = " {0} 只有一個名字在紀錄裡",
+                NameOnlyOne = " {0} 的帳號,從出生到現在,只有一個名字",
                 PlayingMinecraft = "個玩家 正在玩Minecraft",
                 Hi = "Hi",
-                BotDesc = "如果你有任何問題,建議,或有語言想要翻譯 請與我聯繫 :D ",
+                BotDesc = "如果你有任何問題,建議,或想要翻譯 請與我聯繫 :D ",
                 First = "First"
             },
 
@@ -98,7 +98,7 @@ namespace Bot.Translations
 
             Admin = new TAdmin
             {
-                WantTranslation = "你想要當個語言翻譯員嗎? 請聯繫",
+                WantTranslation = "你想要幫忙翻譯嗎? 請聯繫",
                 ChangeLang = "更換社團的語言",
                 UseList = "使用 mc/list 來查詢此社團的伺服器列表",
                 AddServer = "請輸入一個TAG,IP以及 名稱",
