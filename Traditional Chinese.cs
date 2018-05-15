@@ -3,7 +3,7 @@ using static Bot.Translations._Trans;
 
 namespace Bot.Translations
 {
-    public class Chinese
+    public class Traditional Chinese
     {
         public static _Trans Language = new _Trans
         {
