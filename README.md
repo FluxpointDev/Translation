@@ -28,7 +28,7 @@ Manteex#6804 | 240841342723424256 | Russian
 
 BaaaNG#3224 | 319171978881925121 | Portugues
 
-Zak_Patat#0001 | 186543143225786370 | Dutch
+Robin#1111 | 186543143225786370 | Dutch
 
 jumper222#9027 | 203208900336418816 | Italian
 
@@ -44,7 +44,11 @@ LohKoPeRUnA#4794 | 334461848156110849 | Finnish
 
 lumiku#8652 | 416927634170183681 | Finnish
 
-ObsqssiveRowdy#9015 | 344283977399533578 | Japanese
+[YT] Just Rowdy#9015 | 344283977399533578 | Japanese
+
+4eb_IQ#8034 | 315871641387401216 | Arabic
+
+ShadowPanda_#2020 | 379328528526606357 | French
 
 # Want to translate?
 Contact me on my Discord or by friend request xXBuilderBXx#8265
