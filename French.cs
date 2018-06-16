@@ -9,9 +9,9 @@ namespace Bot.Translations
         {
             Error = new TError
             {
-                NoEmbedPerms = "Bot nécessite l'autorisatio \" Liens incrémentés \"",
-                AdminOnly = "Vous n'êtes pas un administrateur de serveur",
-                PlayerNotFound = "Joueur {0} pas trouvé",
+                NoEmbedPerms = "Bot nécessite l'autorisation \" Liens incrémentés \"",
+                AdminOnly = "Vous n'êtes pas un administrateur du serveur",
+                PlayerNotFound = "Joueur {0} non-trouvé",
                 ApiError = "Erreur API",
                 EnterIP = "Entrez une adresse IP",
                 InvalidIP = "IP invalide",
@@ -26,16 +26,16 @@ namespace Bot.Translations
 
             MainCommands = new TMainCommands
             {
-                BotInfo = "Bot info and stats",
-                Quiz = "Essai de Minecraft :D",
+                BotInfo = "Bot infos et stats",
+                Quiz = "Quiz de Minecraft :D",
                 Color = "Codes de couleur MC",
                 NameHistory = "Historique des nom de compte MC",
-                UserProfile = "Your Minecraft account, skin and stats",
-                Ping = "Faire un ping sur un serveur",
+                UserProfile = "Votre compte Minecraft, skin et stats",
+                Ping = "Savoir le ping d'un serveur",
                 Version = "Minecraft version info",
-                Rcon = "Remote console for your Minecraft server",
+                Rcon = "Console à distance pour votre serveur Minecraft",
                 Achievement = "Obtenir une réussite",
-                Playing = "Les gens qui jouent à Minecraft",
+                Playing = "Les joueurs qui jouent à Minecraft",
                 List = "Liste des serveurs communautaires",
                 Admin = "Commandes d'administration de la communauté",
                 Invite = "Obtenir l'invitation de bot"
@@ -48,8 +48,8 @@ namespace Bot.Translations
                 PleaseWait = "Patientez pendant que je ping",
                 ServerAdminUse = "L'administrateur du serveur doit utiliser",
                 StoleSkin = "Roule une skin",
-                NameOnlyOne = "Le joueur {0} n'a qu'un nom sur les enregistrements",
-                PlayingMinecraft = "Les gens qui jouent à Minecraft",
+                NameOnlyOne = "Le joueur {0} n'a qu'un nom dans les enregistrements",
+                PlayingMinecraft = "Les joueurs qui jouent à Minecraft",
                 Hi = "salut",
                 BotDesc = "Si vous avez un problème, des suggestions ou des traductions linguistiques, contactez-moi",
                 First = "Premier"
@@ -59,7 +59,7 @@ namespace Bot.Translations
             {
                 FoundHiddenCommand = "Hé, vous avez trouvé une commande secrète :D",
                 Herobrine = "Te regarde toujours...",
-                Notch = "Minecraft a été créé par Notch aka Markus Persson"
+                Notch = "Minecraft a été créé par Notch alias Markus Persson"
             },
 
             Wiki = new TWiki
@@ -70,9 +70,9 @@ namespace Bot.Translations
                 Players = "Joueurs",
                 Attack = "Attaque",
                 Easy = "Facile",
-                Hard = "Hard",
+                Hard = "Difficile",
                 Health = "Santé",
-                Height = "la taille",
+                Height = "Taille",
                 Width = "Largeur",
             },
 
@@ -88,26 +88,26 @@ namespace Bot.Translations
 
             AdminCommands = new TAdminCommands
             {
-                MCRole = "Create a Minecraft role for verified users",
-                AutoPost = "Auto post your Minecraft server status",
+                MCRole = "Créez un rôle Minecraft pour les utilisateurs vérifiés",
+                AutoPost = "Poste automatiquement le statut de votre serveur Minecraft",
                 AddServer = "Ajouter un serveur MC à cette liste de guilde",
                 RemoveServer = "Supprimez un serveur MC de cette liste de guilde",
-                SetPrefix = "Set Custom Prefix",
-                ResetPrefix = "Remove Custom Prefix"
+                SetPrefix = "Créer un Prefix personalisé",
+                ResetPrefix = "Enlever un Prefix personalisé"
             },
 
             Admin = new TAdmin
             {
-                WantTranslation = "Vous voulez une langue traduire? Contact",
+                WantTranslation = "Vous voulez traduire une langue ? Contactez xXBuilderBXx#8265",
                 ChangeLang = "Changer la langue de la communauté",
                 UseList = "Utilisez mc/list pour une liste de ces serveurs minecraft de guilde",
-                AddServer = "Entrez une étiquette, un ip et un nom",
-                AddServerAdded = "Serveur ajouté {0} à la liste de guilde",
+                AddServer = "Entrez des initiales, un ip et un nom",
+                AddServerAdded = "Serveur ajouté {0} à la liste de serveurs",
                 AddServerAlready = "Ce serveur est déjà sur la liste",
                 DelServerEnter = "Supprimer un serveur avec",
                 DelServerNone = "Ce serveur n'est pas sur la liste",
                 DelServerDeleted = "Serveur supprimé {0} de la liste de guilde",
-                PrefixReset = "Réinitialisation du préfixe de serveur mc/",
+                PrefixReset = "Réinitialisation du préfix de serveur mc/",
                 LanguageSet = "Ensemble de langues communautaires"
             }
         };
