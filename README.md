@@ -19,7 +19,6 @@ Current Translations
 - Czech
 - Finnish
 - Japanese
-- Chinese
 
 # Helpers
 A list of translator contriubuters this wont be updated unlike mc/lang
