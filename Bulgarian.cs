@@ -11,7 +11,7 @@ namespace Bot.Translations
             {
                 NoEmbedPerms = "Ботът изисква разрешение за \" Вграждане на връзки \"",
                 AdminOnly = "Вие не сте администратор на сървъра",
-                PlayerNotFound = "Играча {0} не е намерен",
+                PlayerNotFound = "Играчът {0} не е намерен",
                 ApiError = "API Грешка",
                 EnterIP = "Въведете IP адрес",
                 InvalidIP = "Невалиден IP адрес",
