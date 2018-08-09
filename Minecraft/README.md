@@ -1,7 +1,7 @@
 # Info
-This github is for translation work on Minecraft Bot on Discord
+Translation work for Minecraft Bot on Discord
 
-[Discord Server](https://discord.gg/WJTYdNb) | [Bot Invite](https://goo.gl/KaRHyw)
+[Discord Server](https://discord.gg/WJTYdNb) | [Bot Invite](https://discordapp.com/oauth2/authorize?&client_id=346346285953056770&scope=bot)
 
 Current Translations
 - English (Main Language)
@@ -21,7 +21,7 @@ Current Translations
 - Japanese
 
 # Helpers
-A list of translator contriubuters this wont be updated unlike mc/lang
+A list of translator contributers use mc/lang
 
 Manteex#6804 | 240841342723424256 | Russian
 
