@@ -9,36 +9,36 @@ namespace Bot.Translations
         {
             Error = new TError
             {
-                NoEmbedPerms = "Требуются права \" Embed Links \"",
+                NoEmbedPerms = "Недостаточно прав \" Embed Links \"",
                 AdminOnly = "Вы не администратор сервера",
                 PlayerNotFound = "Игрок {0} не найден",
                 ApiError = "Ошибка API",
                 EnterIP = "Введите IP",
-                InvalidIP = "Недопустимый IP-адрес",
-                Cooldown = "Вы на кулдауне на 1 минуту!",
-                EnableQuery = "Этот сервер не имеет определённой отметки 'enable-query' в 'server.properties'",
-                ListNoServers = "Это сообщество не имеет серверов",
+                InvalidIP = "Неверный IP-адрес",
+                Cooldown = "Частое использование команд! Подождите 1 минуту!",
+                EnableQuery = "Активируйте функцию 'enable-query' в 'server.properties'",
+                ListNoServers = "Этот Discord сервер не имеет серверов Minecraft",
                 UnknownArg = "Неизвестный аргумент",
                 TextLimit = "Текст не может содержать более 22 символов",
-                RequireAttachFiles = "Bot требует наличия прикрепленных файлов",
-                UnknownWiki = "Неизвестный элемент"
+                RequireAttachFiles = "Предоставьте боту права на прикрепление вложений",
+                UnknownWiki = "Неизвестный предмет"
             },
 
             MainCommands = new TMainCommands
             {
-                BotInfo = "Bot info and stats",
-                Quiz = "Викторина :D",
-                Color = "Коды цветов",
-                NameHistory = "История имён аккаунта",
-                UserProfile = "Your Minecraft account, skin and stats",
-                Ping = "Пинг сервера",
-                Version = "Minecraft version info",
-                Rcon = "Remote console for your Minecraft server",
+                BotInfo = "Информация и статус бота",
+                Quiz = "Викторина по Minecraft",
+                Color = "Цветовые коды Minecraft",
+                NameHistory = "История аккаунта по никнейму",
+                UserProfile = "Ваш Mincraft аккаунт, статистика и скин",
+                Ping = "Проверка Ping у сервера",
+                Version = "Информация версии Minecraft",
+                Rcon = "Удалённая консоль для вашего сервера Minecraft",
                 Achievement = "Генератор достижений",
-                Playing = "Сколько людей играют в Minecraft на данный момент",
-                List = "Список серверов сообщества",
-                Admin = "Команды администратора сообщества",
-                Invite = "Ссылка на добавление бота на свой сервер"
+                Playing = "Игроков Minecraft в данный момент",
+                List = "Список серверов Minecraft",
+                Admin = "Команды для Администратора сервера",
+                Invite = "Добавить бота на свой сервер!"
             },
 
             Main = new TMain
@@ -48,7 +48,7 @@ namespace Bot.Translations
                 PleaseWait = "Подождите, пожалуйста...",
                 ServerAdminUse = "Администратор сервера должен использовать",
                 StoleSkin = "Украден скин",
-                NameOnlyOne = "Игрок {0} имеет только 1 имя в записях",
+                NameOnlyOne = "Игрок {0} не изменял свой никнейм никогда",
                 PlayingMinecraft = "Игроки в Minecraft",
                 Hi = "Привет",
                 BotDesc = "Если вы нашли неполадки или у вас есть предложения, обращайтесь ко мне",
@@ -59,7 +59,7 @@ namespace Bot.Translations
             {
                 FoundHiddenCommand = "Эй, ты нашёл секретную команду :D",
                 Herobrine = "Всегда следим за тобой...",
-                Notch = "Minecraft был создан Нотчем aka Маркусом Перссоном"
+                Notch = "Minecraft был создан Нотчем / Маркусом Перссоном"
             },
 
             Wiki = new TWiki
@@ -80,35 +80,35 @@ namespace Bot.Translations
             {
                 Badges = "Значки",
                 BadgeInfo = "Информация о значке",
-                InvalidUserID = "Недопустимый идентификатор пользователя",
-                UnknownUser = "Не удалось найти пользователя",
+                InvalidUserID = "Неверный идентификатор пользователя",
+                UnknownUser = "Не удалось найти игрока",
                 NotInServer = "Вы не на сервере",
                 SetMCName = "Чтобы настроить использование учетной записи Minecraft"
             },
 
             AdminCommands = new TAdminCommands
             {
-                MCRole = "Create a Minecraft role for verified users",
-                AutoPost = "Auto post your Minecraft server status",
-                AddServer = "Добавить MC сервер в список серверов",
-                RemoveServer = "Удалить MC сервер из списка",
-                SetPrefix = "Set Custom Prefix",
-                ResetPrefix = "Remove Custom Prefix"
+                MCRole = "Создать роль для верифицированных пользователей",
+                AutoPost = "Автоматически получать информацию о вашем сервере",
+                AddServer = "Добавить Minecraft сервер в список серверов",
+                RemoveServer = "Удалить Minecraft сервер из списка",
+                SetPrefix = "Установить префикс",
+                ResetPrefix = "Удалить префикс"
             },
 
             Admin = new TAdmin
             {
-                WantTranslation = "Хотите перевести бота на другой язык? Соединитесь с нами",
-                ChangeLang = "Изменить язык сервера",
-                UseList = "Используйте mc/list для списка серверов в майнкрафте для данной гильдии",
-                AddServer = "Введите тэг, IP и название",
-                AddServerAdded = "Добавлен сервер {0} в список серверов",
+                WantTranslation = "Хотите перевести бота на другой язык? Напишите нам",
+                ChangeLang = "Изменить язык бота",
+                UseList = "Используйте mc/list для просмотра списка серверов Minecraft данного Discord сервера",
+                AddServer = "Введите тэг, IP и название сервера",
+                AddServerAdded = "Сервер {0} добавлен в список",
                 AddServerAlready = "Этот сервер уже добавлен",
-                DelServerEnter = "Удалить сервер с",
+                DelServerEnter = "Удалить сервер ",
                 DelServerNone = "Сервера нет в списке",
-                DelServerDeleted = "Удалён сервер {0} из списка серверов данной гильдии",
-                PrefixReset = "Использовать префикс сервера mc/",
-                LanguageSet = "Набор языка сообщества"
+                DelServerDeleted = "Сервер {0} из списка серверов",
+                PrefixReset = "Префикс сервера сброшен, используйте mc/",
+                LanguageSet = "Установлен Русский язык!"
             }
 
         };
