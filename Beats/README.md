@@ -1,3 +1,7 @@
+# This project has been shutdown!
+
+
+
 # Info
 Translation work for Beats Bot on Discord
 
