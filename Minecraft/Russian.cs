@@ -32,24 +32,24 @@ namespace Bot.Translations
                 NameHistory = "История аккаунта по никнейму",
                 UserProfile = "Ваш Mincraft аккаунт, статистика и скин",
                 Ping = "Проверка Ping у сервера",
-                Version = "Информация версии Minecraft",
+                Version = "Информация о версиях Minecraft",
                 Rcon = "Удалённая консоль для вашего сервера Minecraft",
                 Achievement = "Генератор достижений",
-                Playing = "Игроков Minecraft в данный момент",
+                Playing = "Количество игроков Minecraft в данный момент",
                 List = "Список серверов Minecraft",
                 Admin = "Команды для Администратора сервера",
-                Invite = "Добавить бота на свой сервер!"
+                Invite = "Добавить бота на свой сервер"
             },
 
             Main = new TMain
             {
                 HelpFooter = "Также здесь есть несколько секретных команд ;)",
-                MultiMC = "MultiMC позволяет запускать любые версии игры, также можно легко установить Forge и моды",
+                MultiMC = "MultiMC позволяет запускать любые версии Minecraft, также можно легко установить Forge и моды",
                 PleaseWait = "Подождите, пожалуйста...",
                 ServerAdminUse = "Администратор сервера должен использовать",
                 StoleSkin = "Украден скин",
-                NameOnlyOne = "Игрок {0} не изменял свой никнейм никогда",
-                PlayingMinecraft = "Игроки в Minecraft",
+                NameOnlyOne = "{0} никогда не изменял свой никнейм",
+                PlayingMinecraft = "игроков в Minecraft",
                 Hi = "Привет",
                 BotDesc = "Если вы нашли неполадки или у вас есть предложения, обращайтесь ко мне",
                 First = "Первый"
@@ -58,8 +58,8 @@ namespace Bot.Translations
             Hidden = new THidden
             {
                 FoundHiddenCommand = "Эй, ты нашёл секретную команду :D",
-                Herobrine = "Всегда следим за тобой...",
-                Notch = "Minecraft был создан Нотчем / Маркусом Перссоном"
+                Herobrine = "Всегда следит за тобой...",
+                Notch = "Minecraft был создан Нотчем аkа Маркус Перссон"
             },
 
             Wiki = new TWiki
@@ -69,8 +69,8 @@ namespace Bot.Translations
                 Player = "Игрок",
                 Players = "Игроки",
                 Attack = "Атака",
-                Easy = "Легко",
-                Hard = "Жесткий",
+                Easy = "Легкий",
+                Hard = "Сложный",
                 Health = "Здоровье",
                 Height = "Высота",
                 Width = "Ширина",
@@ -83,32 +83,32 @@ namespace Bot.Translations
                 InvalidUserID = "Неверный идентификатор пользователя",
                 UnknownUser = "Не удалось найти игрока",
                 NotInServer = "Вы не на сервере",
-                SetMCName = "Чтобы настроить использование учетной записи Minecraft"
+                SetMCName = "Используйте команду **mc/verify** для привязки своего Minecraft акканута"
             },
 
             AdminCommands = new TAdminCommands
             {
                 MCRole = "Создать роль для верифицированных пользователей",
-                AutoPost = "Автоматически получать информацию о вашем сервере",
+                AutoPost = "Автоматическое получение информации о вашем сервере",
                 AddServer = "Добавить Minecraft сервер в список серверов",
                 RemoveServer = "Удалить Minecraft сервер из списка",
                 SetPrefix = "Установить префикс",
-                ResetPrefix = "Удалить префикс"
+                ResetPrefix = "Сбросить префикс"
             },
 
             Admin = new TAdmin
             {
                 WantTranslation = "Хотите перевести бота на другой язык? Напишите нам",
                 ChangeLang = "Изменить язык бота",
-                UseList = "Используйте mc/list для просмотра списка серверов Minecraft данного Discord сервера",
+                UseList = "Используйте **mc/list** для просмотра списка серверов Minecraft данного Discord сервера",
                 AddServer = "Введите тэг, IP и название сервера",
                 AddServerAdded = "Сервер {0} добавлен в список",
                 AddServerAlready = "Этот сервер уже добавлен",
                 DelServerEnter = "Удалить сервер ",
                 DelServerNone = "Сервера нет в списке",
-                DelServerDeleted = "Сервер {0} из списка серверов",
-                PrefixReset = "Префикс сервера сброшен, используйте mc/",
-                LanguageSet = "Установлен Русский язык!"
+                DelServerDeleted = "Сервер {0} удален из списка серверов",
+                PrefixReset = "Префикс сервера сброшен, используйте: mc/",
+                LanguageSet = "**Установлен Русский язык!**"
             }
 
         };
