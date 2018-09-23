@@ -46,7 +46,7 @@ namespace Bot.Translations
                 HelpFooter = "Также здесь есть несколько секретных команд ;)",
                 MultiMC = "MultiMC позволяет запускать любые версии Minecraft, также можно легко установить Forge и моды",
                 PleaseWait = "Подождите, пожалуйста...",
-                ServerAdminUse = "Администратор сервера должен использовать",
+                ServerAdminUse = "Если вы администратор сервера Discord и хотите добавить сервер в этот спискок, используйте команду:",
                 StoleSkin = "Украден скин",
                 NameOnlyOne = "{0} никогда не изменял свой никнейм",
                 PlayingMinecraft = "игроков в Minecraft",
@@ -83,7 +83,7 @@ namespace Bot.Translations
                 InvalidUserID = "Неверный идентификатор пользователя",
                 UnknownUser = "Не удалось найти игрока",
                 NotInServer = "Вы не на сервере",
-                SetMCName = "Используйте команду **mc/verify** для привязки своего Minecraft акканута"
+                SetMCName = "Для привязки своего Minecraft акканута используйте:"
             },
 
             AdminCommands = new TAdminCommands
@@ -105,7 +105,7 @@ namespace Bot.Translations
                 AddServerAdded = "Сервер {0} добавлен в список",
                 AddServerAlready = "Этот сервер уже добавлен",
                 DelServerEnter = "Удалить сервер ",
-                DelServerNone = "Сервера нет в списке",
+                DelServerNone = "Сервера с таким тегом нет в списке",
                 DelServerDeleted = "Сервер {0} удален из списка серверов",
                 PrefixReset = "Префикс сервера сброшен, используйте: mc/",
                 LanguageSet = "**Установлен Русский язык!**"
