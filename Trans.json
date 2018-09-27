@@ -1,4 +1,10 @@
 {
+  "Translation": {
+    "Name": "English",
+    "Url": "https://raw.githubusercontent.com/xXBuilderBXx/Translation/master/Trans.json",
+    "User": "xXBuilderBXx#8265",
+    "UserID": 190590364871032834
+  }
   "Error": {
     "APIError": "Test",
     "NoList": "",
