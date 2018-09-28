@@ -14,19 +14,6 @@
     "NameOnlyOne": "",
     "TextLimit": ""
   },
-  "Ping": {
-    "EnterIP": "",
-    "Java": "",
-    "PE": "",
-    "Full": "",
-    "Banner": "",
-    "Wait": "",
-    "NoEnableQuery": "",
-    "InvalidIP": "",
-    "InvalidPort": "",
-    "OnCooldown": "",
-    "NoPlayers": ""
-  },
   "MainCommands": {
     "UserCmd": "ahsrtertghjk",
     "VerifyCmd": "",
