@@ -1,9 +1,12 @@
 {
   "Translation": {
     "NAME__": "English",
-    "URL__": "https://github.com/xXBuilderBXx/Translation/blob/master/Trans.json",
-    "Users": {}
+    "URL__": "",
+    "Users": {
+      { 190590364871032834, "xXBuilderBXx#8265" }
+    }
   },
+
   "Error": {
     "API_ERROR__": "API Error",
     "NO_LIST__": "This community has no servers listed",
