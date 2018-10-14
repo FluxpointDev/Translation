@@ -5,22 +5,22 @@ Translation work for Minecraft Bot on Discord
 
 Current Translations
 - English (Main Language)
-- French
-- Spanish
-- Russian
-- Portugues
-- German
-- Dutch
-- Italian
-- Polish
-- Indonesian
-- Turkish
-- Swedish
-- Czech
-- Finnish
-- Japanese
+- French | Needs a translator
+- Spanish | Needs a translator
+- Russian | Needs a translator
+- Portugues | Needs a translator
+- German | Needs a translator
+- Dutch | Needs a translator
+- Italian | Needs a translator
+- Polish | Needs a translator
+- Indonesian | Needs a translator
+- Turkish | Needs a translator
+- Swedish | Needs a translator
+- Czech | Needs a translator
+- Finnish | Needs a translator
+- Japanese | Needs a translator
 
-# Helpers
+# Old Helpers
 A list of translator contributers use mc/lang
 
 Manteex#6804 | 240841342723424256 | Russian
