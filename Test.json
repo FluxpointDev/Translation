@@ -12,7 +12,9 @@
     "PlayerNotFound": "TEST",
     "NoAttachFiles": "TEST",
     "NameOnlyOne": "TEST",
-    "TextLimit": "TEST"
+    "TextLimit": "TEST",
+    "UserNotFound": "TEST",
+    "NotLinked": "TEST"
   },
   "Ping": {
     "EnterIP": "TEST",
@@ -76,7 +78,8 @@
     "Voted": "TEST",
     "Translator": "TEST",
     "Verified": "TEST",
-    "PlayedOn": "TEST"
+    "PlayedOn": "TEST",
+    "Hidden": "TEST"
   },
   "Misc": {
     "Stats": "TEST",
@@ -101,18 +104,16 @@
     "First": "TEST",
     "Hi": "TEST"
   },
+  "RconSetup": {
+    "Info": "TEST",
+    "Info2": "TEST"
+  },
   "Rcon": {
     "Title": "TEST",
     "Info": "TEST",
-    "NotSetup": "TEST",
-    "Execute": "TEST",
-    "ConfigCmd": "TEST",
-    "BlacklistCmd": "TEST",
-    "AccessCmd": "TEST",
-    "EnableCmd": "TEST",
-    "DisableCmd": "TEST",
-    "FixCmd": "TEST",
-    "ResetCmd": "TEST",
+    "Executed": "TEST",
+    "AccessInfo": "TEST",
+    "AccessWarn": "TEST",
     "AccessList": "TEST",
     "AccessOwner": "TEST",
     "AccessAdmin": "TEST",
@@ -123,7 +124,36 @@
     "Disabled": "TEST",
     "FixAttempt": "TEST",
     "ResetConfirm": "TEST",
+    "Reset": "TEST",
+    "SelectRole": "TEST",
+    "UnknownRole": "TEST",
+    "GivenAccess": "TEST",
+    "AddAlready": "TEST",
+    "RemoveAlready": "TEST",
+    "RemoveMainOwner": "TEST",
+    "RemoveOwner": "TEST",
+    "Removed": "TEST"
+  },
+  "RconCmd": {
+    "Config": "TEST",
+    "Blacklist": "TEST",
+    "Access": "TEST",
+    "Enable": "TEST",
+    "Disable": "TEST",
+    "Fix": "TEST",
     "Reset": "TEST"
+  },
+  "RconError": {
+    "NotSetup": "TEST",
+    "NoAccess": "TEST",
+    "Blacklisted": "TEST",
+    "NotMainOwner": "TEST",
+    "NotOwner": "TEST",
+    "NotAdmin": "TEST",
+    "AlreadyConnected": "TEST",
+    "RconWait": "TEST",
+    "WrongPassword": "TEST",
+    "CmdError": "TEST"
   },
   "Wiki": {
     "UnknownItem": "TEST",
