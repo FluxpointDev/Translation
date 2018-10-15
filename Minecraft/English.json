@@ -125,7 +125,7 @@
     "REMOVED__": "User has been removed from remote console access"
   },
   "RconBlacklist": {
-    "INFO__": "Only owners can use blacklisted commands__",
+    "INFO__": "Only owners can use blacklisted commands",
     "ALREADY_BLACKLISTED__": "This command is already blacklisted",
     "NO_BLACKLIST__": "No commands are blacklisted",
     "NOT_BLACKLISTED__": "This command is not blacklisted",
