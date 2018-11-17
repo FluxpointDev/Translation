@@ -28,7 +28,7 @@
     "WAIT_": "Attendez un peu ...",
     "NO_ENABLE_QUERY_": "Le serveur n'a pas activé le Query dans server.proprieties",
     "INVALID_IP_": "IP invalide",
-    "INVALID_PORT_": "PORT invalide
+    "INVALID_PORT_": "PORT invalide",
     "ON_COOLDOWN_": "Attendez une minute ...",
     "NO_PLAYERS_": "Pas de joueurs en ligne"
   },
