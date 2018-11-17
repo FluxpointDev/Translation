@@ -4,7 +4,6 @@ This github is for translation work for my Discord bots. [Discord Server](https:
 
 ### Bots
 - Minecraft
-- Beats
 
 ### Want to translate?
 Join my Discord server or contact me xXBuilderBXx#8265
