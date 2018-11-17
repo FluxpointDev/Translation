@@ -1,0 +1,227 @@
+{
+  "Translation": {
+    "NAME__": "Français",
+    "URL__": "",
+    "Users": {
+      "287390198260563969": "🔥 fire🔥#5549"
+    }
+  },
+
+  "Error": {
+    "API_ERROR__": "Erreur d'api",
+    "NO_LIST__": "Cette communautée n'est pas listée",
+    "NOT_VOTED__": "Vous n'avez pas voté pour le bot",
+    "PLAYER_NOT_FOUND__": "Joueur introuvable",
+    "PLAYER_NO_STATS__": "Pas de statistiques disponibles pour ce joueur",
+    "NO_ATTACH_FILES__": "Le bot n'a pas la permission d'ajouter des fichiers",
+    "NO_MANAGE_ROLES__": "Le bot n'a pas la permission de gérer les roles",
+    "NO_READ_MESSAGES__": "Le bot n'a pas la permission de lire les messages",
+    "NO_SEND_MESSAGES__": "Le bot n'a pas la permission d'envoyer des messages",
+    "NO_EMBED_LINKS__": "Le bot n'a pas la permission d'intégrer un lien",
+    "NOT_LINKED__": "Ce joueur n'a pas vérifié son compte"
+  },
+  "Ping": {
+    "CMD_JAVA__": "Tester la latence d'un serveur minecraft JAVA",
+    "CMD_PE__": "Tester la latence d'un serveur minecraft BEDROCK",
+    "CMD_FULL__": "Afficher la liste des joueurs pour un serveur minecraft",
+    "CMD_BANNER__": "Afficher la bannière d'un serveur",
+    "WAIT__": "Attendez un peu ...",
+    "NO_ENABLE_QUERY__": "Le serveur n'a pas activé le Query dans server.proprieties",
+    "INVALID_IP__": "IP invalide",
+    "INVALID_PORT__": "PORT invalide
+    "ON_COOLDOWN__": "Attendez une minute ...",
+    "NO_PLAYERS__": "Pas de joueurs en ligne"
+  },
+  "Help": {
+    "CMD_USER__": "Utilisateur",
+    "CMD_VERIFY__": "Vérifier votre compte",
+    "CMD_BOT__": "Infos sur le bot",
+    "CMD_QUIZ__": "Quiz minecraft",
+    "CMD_COLOR__": "Codes couleurs minecraft",
+    "CMD_LIST__": "Serveurs communautaires",
+    "CMD_UUID__": "UUID d'un joueur",
+    "MULTI_MC__": "Permet de modifier et charger minecraft plus rapidement",
+    "CMD_SKIN__": "Skin d'un joueur",
+    "CMD_NAME__": "Historique des pseudos d'un joueur",
+    "CMD_GET__": "Afficher un succès",
+    "CMD_CHANGELOG__": "Dernière version de minecraft",
+    "CMD_VERSION__": "Information sur la version",
+    "CMD_WIKI__": "Guide complet de minecraft",
+    "CMD_GALLERY__": "Bannières et arts",
+    "CMD_RCON__": "Accèder à la console de votre serveur via le bot",
+    "CMD_PLAYING__": "Utilisateur jouant à minecraft",
+    "CMD_ADMIN__": "Commandes d'administration",
+    "CMD_INVITE__": "Inviter le bot",
+    "FOOTER__": "Il y a quelques secrets ici ;) ; translation by @fire#5549"
+  },
+  "Main": {
+    "HAVE_ISSUES__": "Si vous avez des problèmes, contactez moi sur discord",
+    "PLAYER_STATS__": "Statistiques du joueur",
+    "GET_STATS__": "Statistiques de",
+    "STOLE_SKIN__": "Vous avez pris ce skin",
+    "FOUND_HIDDEN__": "Vous avez trouvé la commande secrete"
+  },
+  "User": {
+    "NOT_VERIFIED__": "Ce joueur n'a pas vérifié son compte",
+    "LAST_PLAYED__": "Dernièrement joué :",
+    "BADGES__": "Badges",
+    "BADGES_INFO__": "Voir les badges",
+    "NO_BADGES__": "Vous n'avez aucun badge",
+    "INVALID_ID__": "Mauvais ID"
+  },
+  "Badges": {
+    "OWNER__": "Propriétaire du bot",
+    "MOB_HUNTER__": "Chasseur de monstres",
+    "VOTED__": "A voté pour ce bot",
+    "TRANSLATOR__": "A aidé à traduire le bot",
+    "VERIFIED__": "A vérifié son compte",
+    "PLAYED_ON__": "Obtenu le :",
+    "HIDDEN__": "Des badges sont cachés"
+  },
+  "Get": {
+    "HI__": "Salut",
+    "TEXT_LIMIT__": "Le texte est trop long (+ de 22 caractères)"
+  },
+  "Names": {
+    "FIRST__": "Premier",
+    "ONLY_ONE__": "Cette personne n'a qu'un compte"
+  },
+  "Misc": {
+    "SOFTWARE__": "Software",
+    "YES__": "Oui",
+    "NO__": "Non",
+    "PLAYER__": "Joueur",
+    "PLAYERS__": "Joueurs",
+    "ENABLED__": "Activé",
+    "DISABLED__": "Désactivé"
+  },
+  "RconSetup": {
+    "INFO__": "Permet d'éxécuter des commandes via le bot sur votre serveur sans s'y connecter",
+    "INFO2__": "Pour commencer"
+  },
+  "Rcon": {
+    "TITLE__": "Console RCON",
+    "INFO__": "Exécutez des commandes avec ",
+    "EXECUTED__": "Command exécutée",
+    "ENABLED__": "RCON Activé !",
+    "DISABLED__": "RCON Désactivé !",
+    "FIX_ATTEMPT__": "Tentative de reconnexion en cours ...",
+    "RESET_CONFIRM__": "Pour confirmer,faites ",
+    "RESET__": "Le protocole d'RCON est reste"
+  },
+  "RconAccess": {
+    "ADD_ALREADY__": "Ce joueur à déja cet accès",
+    "WARN__": "Certaines commandes sont désactivées par défaut",
+    "OWNER__": "Accès complet aux commandes",
+    "ADMIN__": "Access aux commandes actives",
+    "MOD__": "Accès au ban, kick et unban seulement .",
+    "INFO__": "Autorise des joueurs a utiliser le RCON",
+    "SELECT_ROLE__": "Séléctionnez un role pour le joueur",
+    "UNKNOWN_ROLE__": "Role séléctionné",
+    "GIVEN__": "Ce joueur à maintenant accès au RCON !",
+    "REMOVE_ALREADY__": "Il vous manque la permission",
+    "REMOVE_MAIN_OWNER__": "Vous ne pouvez pas retirer le propriétaire",
+    "REMOVE_OWNER__": "Vous ne pouvez pas retirer un propriétaire",
+    "REMOVED__": "Ce joueur n'aura plus accès au RCON !"
+  },
+  "RconBlacklist": {
+    "INFO__": "Seuls les propriétaires peuvent utiliser les commandes inactives",
+    "ALREADY_BLACKLISTED__": "Commande déja désactivée",
+    "NO_BLACKLIST__": "Aucune commande désactivée",
+    "NOT_BLACKLISTED__": "Commande active",
+    "ADDED__": "Cette commande est maintenant inactive",
+    "REMOVED__": "Cette commande est désormais activée "
+  },
+  "RconCmd": {
+    "CONFIG__": "Visualiser la console du RCON",
+    "BLACKLIST__": "Commandes inactives autorisées que pour les propriétaires",
+    "ACCESS__": "Autoriser l'accès aux autres joueurs",
+    "ENABLE__": "Activer le RCON",
+    "DISABLE__": "Désactiver le RCON",
+    "FIX__": "Réparer le RCON",
+    "RESET__": "Supprimer l'accès RCON"
+  },
+  "RconError": {
+    "NOT_SETUP__": "Le RCON n'a pas été setup",
+    "NO_ACCESS__": "Vous n'avez pas d'accès à cette commande",
+    "BLACKLISTED__": "Cette commande est inactive, seul le propriétaire peut l'utiliser",
+    "NOT_MAIN_OWNER__": "Seul le propriétaire peut l'utiliser",
+    "NOT_OWNER__": "Seul le propriétaire peut l'utiliser",
+    "NOT_ADMIN__": "Seul les administateurs peuvent l'utiliser",
+    "ALREADY_CONNECTED__": "Le RCON est déjà activé !",
+    "RCON_WAIT__": "Le RCON est déjà activé ! Attendez un peu ...",
+    "WRONG_PASSWORD__": "Mauvais mot de passe",
+    "CMD_ERROR__": "Erreur de commande . Vérifiez l'orthographe ..."
+  },
+  "Wiki": {
+    "UNKNOWN_ITEM__": "Item de wiki introuvable"
+  },
+  "Version": {
+    "UNKNOWN_VERSION__": "Version inconnue de minecraft",
+    "NO_CLIENT_MODS__": "Pas de mods disponibles pour cette version",
+    "RELEASED__": "Le",
+    "COMING_SOON__": "Prochainement disponible",
+    "VERSIONS__": "Versions",
+    "RECOMMENDED__": "Recommandé"
+  },
+  "Mob": {
+    "ATTACK__": "Attaque",
+    "EASY__": "Facile",
+    "NORMAL__": "Normal",
+    "HARD__": "Difficile",
+    "HEALTH__": "Vie",
+    "HEIGHT__": "Hauteur",
+    "WIDTH__": "Largeur",
+    "BLOCKS__": "Blocs",
+    "UNKNOWN__": "Inconnu"
+  },
+  "Gallery": {
+    "BANNER_RANDOM__": "Bannière aléatoire",
+    "BANNER_NAME__": "Bannière par nom",
+    "BANNER_UNKNOWN__": "Bannière introuvable",
+    "ART_RANDOM__": "Art aléatoire",
+    "WALLPAPER_RANDOM__": "Fond d'écran aléatoire"
+  },
+  "Verify": {
+    "TITLE__": "Vérification de compte minecraft",
+    "INFO__": "Vérifiez votre compte minecraft pour plus d'options",
+    "USERS__": "Vérifiés",
+    "STEP1__": "Chargez minecraft 1.12.2",
+    "STEP2__": "Rejoignez ce serveur",
+    "STEP3__": "Ecrivez sur discord : ",
+    "ALREADY__": "Ce joueur est déja verifié",
+    "SERVER_DOWN__": "Le serveur de vérification est hors ligne",
+    "NOT_IN_SERVER__": "Vous n'êtes pas connecté sur le serveur !",
+    "THANKS__": "Merci d'utiliser le bot minecraft, votre compte est désormais vérifié !",
+    "FAILED_ROLE__": "Le rôle n'a pas pu être donné à cause d'une erreur",
+    "VERIFIED__": "Compte vérifié !",
+    "GIVEN_ROLE__": "Vous avez désormais le rôle vérifié"
+  },
+  "AdminCommands": {
+    "CMD_LANG__": "Changer la langue",
+    "CMD_ROLE__": "Creer un role pour les vérifiés",
+    "CMD_AUTOPOST__": "Poster automatiquement les statistiques d'un serveur",
+    "CMD_ADD__": "Ajouter un serveur minecraft à la liste",
+    "CMD_DEL__": "Retirer un serveur minecraft à la liste",
+    "CMD_SET_PREFIX__": "Définir un nouveau préfix personalisé",
+    "CMD_RESET_PREFIX__": "Retirer un prefix personalisé"
+  },
+  "Admin": {
+    "ENTER_IP__": "Entrez l'adresse (IP) du serveur .",
+    "NOT_ADMIN__": "Vous n'êtes pas administrateur",
+    "WANT_TRANSLATED__": "Une traduction ? contactez moi sur discord ! (Traduction par @fire#5549)",
+    "LANG_SET__": "Langage de la coummunautée définie à",
+    "PREFIX_SET__": "Préfix personalisé défini à : ",
+    "PREFIX_RESET__": "Préfix retiré !",
+    "WANT_TO_ADD__": "Voulez vous ajouter un serveur ? {0}/{1}",
+    "ENTER_NAME__": "Entrez le nom du serveur",
+    "SERVER_ADDED__": "Serveur ajouté à",
+    "SERVER_REMOVED__": "Serveur retiré de ",
+    "ALREADY_ADDED__": "Ce serveur est déja dans la liste !",
+    "SELECT_NUMBER__": "Séléctionnez un nombre",
+    "INVALID_NUMBER__": "Nombre invalide",
+    "TRANSLATORS__": "Traducteurs",
+    "HAS_ROLE__": "Ce joueur à déja le rôle vérifié",
+    "INVALID_CHANNEL__": "Salon invalide"
+  }
+}
