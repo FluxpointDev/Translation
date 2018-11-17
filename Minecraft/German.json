@@ -1,0 +1,227 @@
+{
+  "Translation": {
+    "NAME": "German",
+    "URL": "https://github.com/xXBuilderBXx/Translation/blob/master/Minecraft/German.json",
+    "Users": {
+      "204232208049766400": "Andre_601#0601"
+    }
+  },
+
+  "Error": {
+    "API_ERROR_": "API Error",
+    "NO_LIST_": "Diese Community hat keinen Server gelistet",
+    "NOT_VOTED_": "Du hast nicht für den Bot gevotet",
+    "PLAYER_NOT_FOUND_": "Spieler nicht gefunden",
+    "PLAYER_NO_STATS_": "Spieler hat keine Statistiken",
+    "NO_ATTACH_FILES_": "Bot hat keine Berechtigung zum anhängen von Dateien",
+    "NO_MANAGE_ROLES_": "Bot hat keine Berechtigung zum verwalten von Rollen",
+    "NO_READ_MESSAGES_": "Bot hat keine Berechtigung zum lesen von Nachrichten",
+    "NO_SEND_MESSAGES_": "Bot hat keine Berechtigung zum senden von Nachrichten",
+    "NO_EMBED_LINKS_": "Bot hat keine Berechtigung zum einbetten von Links",
+    "NOT_LINKED_": "User hat keinen verlinkten Account"
+  },
+  "Ping": {
+    "CMD_JAVA_": "Einen Minecraft Server anpingen",
+    "CMD_PE_": "Einen Poket Edition Server anpingen",
+    "CMD_FULL_": "Einen Minecraft Server mit Spielerliste anpingen",
+    "CMD_BANNER_": "Bannerversion des Pings",
+    "WAIT_": "Bitte warte, während ich anpinge",
+    "NO_ENABLE_QUERY_": "Server hat enable-query in der server.properties nicht aktiviert",
+    "INVALID_IP_": "Ungültige IP adresse",
+    "INVALID_PORT_": "Ungültiger Server Port",
+    "ON_COOLDOWN_": "Du bist auf einem cooldown für 1 Minute",
+    "NO_PLAYERS_": "Keine Spieler online"
+  },
+  "Help": {
+    "CMD_USER_": "User Profil",
+    "CMD_VERIFY_": "Bestätige deinen Minecraft-Account",
+    "CMD_BOT_": "Bot information",
+    "CMD_QUIZ_": "Minecraft Quiz",
+    "CMD_COLOR_": "Minecraft Farbcodes",
+    "CMD_LIST_": "Community Server",
+    "CMD_UUID_": "UUID eines Spielers erhalten",
+    "MULTI_MC_": "Erlaubt dir das verwalten und laden von verschiedenen Minecraft versionen mit einfacher Mod installation",
+    "CMD_SKIN_": "Erhalte einen Spielerskin",
+    "CMD_NAME_": "Erhalte die Namens-Geschichte eines Spielers",
+    "CMD_GET_": "Erhalte ein Minecraft Achievement",
+    "CMD_CHANGELOG_": "Neuste Minecraft version",
+    "CMD_VERSION_": "Versionsinfo",
+    "CMD_WIKI_": "Kompletter Minecraft Guide",
+    "CMD_GALLERY_": "Banner und Artwork",
+    "CMD_RCON_": "Remote-Konsole für deinen Minecraft Server",
+    "CMD_PLAYING_": "Spieler spielen Minecraft",
+    "CMD_ADMIN_": "Discord admin Befehle",
+    "CMD_INVITE_": "Bot einladen",
+    "FOOTER_": "Es gibt auch einige geheime Befehle"
+  },
+  "Main": {
+    "HAVE_ISSUES_": "Wenn du irgendwelche Probleme hast, kontaktiere mich in Discord",
+    "PLAYER_STATS_": "Spieler Statistiken",
+    "GET_STATS_": "Erhalte Spieler Statistiken von",
+    "STOLE_SKIN_": "Du hast einen Skin gestohlen",
+    "FOUND_HIDDEN_": "Du hast einen geheimen Befehl gefunden"
+  },
+  "User": {
+    "NOT_VERIFIED_": "Dieser Spieler hat keinen bestätigten Minecraft Account, verwende",
+    "LAST_PLAYED_": "Zuletzt gespielt;",
+    "BADGES_": "Abzeichen",
+    "BADGES_INFO_": "Siehe Abzeichen mit",
+    "NO_BADGES_": "Du hast keine Abzeichen",
+    "INVALID_ID_": "Ungültige User ID"
+  },
+  "Badges": {
+    "OWNER_": "Besitzer des Bots",
+    "MOB_HUNTER_": "Expertenwissen über Monster",
+    "VOTED_": "Vote für den Bot",
+    "TRANSLATOR_": "Half beim übersetzen des Bots",
+    "VERIFIED_": "Hat einen bestätigten Minecraft Account",
+    "PLAYED_ON_": "Spielte auf",
+    "HIDDEN_": "Einige Abzeichen sind versteckt"
+  },
+  "Get": {
+    "HI_": "Hi",
+    "TEXT_LIMIT_": "Text kann nicht länger als 22 Zeichen sein"
+  },
+  "Names": {
+    "FIRST_": "Erster",
+    "ONLY_ONE_": "Spieler hat nur einen Benutzernamen"
+  },
+  "Misc": {
+    "SOFTWARE_": "Software",
+    "YES_": "Ja",
+    "NO_": "Nein",
+    "PLAYER_": "Spieler",
+    "PLAYERS_": "Spieler",
+    "ENABLED_": "Aktiviert",
+    "DISABLED_": "Deaktiviert"
+  },
+  "RconSetup": {
+    "INFO_": "Erlaubt Besitzern von Minecraft Servern, Befehle von Discord aus auszuführen, ohne irgendwelche Plugins oder Mods",
+    "INFO2_": "Um zu beginnen, verwende"
+  },
+  "Rcon": {
+    "TITLE_": "Remote-Konsole",
+    "INFO_": "Zum ausführen von Minecraft Befehlen, verwende",
+    "EXECUTED_": "Befehl ausgeführt",
+    "ENABLED_": "Remote-Konsole wurde aktiviert",
+    "DISABLED_": "Remote-Konsole wurde deaktiviert",
+    "FIX_ATTEMPT_": "Versuche Verbindung der Remote-Konsole zu beheben",
+    "RESET_CONFIRM_": "Um den Reset zu bestätigen, verwende",
+    "RESET_": "Remote-Konsolen Konfiguration wurde gelöscht"
+  },
+  "RconAccess": {
+    "ADD_ALREADY_": "Dieser User hat bereits zugriff",
+    "WARN_": "Einige Befehle sind standartmässig geblacklistet",
+    "OWNER_": "Voller zugriff auf Befehle und Konfiguration",
+    "ADMIN_": "Zugriff auf Befehle, welche nicht geblacklistet sind",
+    "MOD_": "Zugriff nur auf ban, unban und kick Befehle",
+    "INFO_": "Erlaube Spielern, Remote-Konsolenbefehle zu verwenden",
+    "SELECT_ROLE_": "Wähle eine Rolle für den User",
+    "UNKNOWN_ROLE_": "Unbekannte Rolle ausgewählt",
+    "GIVEN_": "User hat zugriff auf die Remote-Konsole erhalten",
+    "REMOVE_ALREADY_": "Dieser User hat keinen zugriff",
+    "REMOVE_MAIN_OWNER_": "Du kannst den Haupt-Besitzer nicht entfernen",
+    "REMOVE_OWNER_": "Du kannst einen Besitzer nicht entfernen",
+    "REMOVED_": "User wurde vom zugriff zur Remote-Konsole entfernt"
+  },
+  "RconBlacklist": {
+    "INFO_": "Nur Besitzer können blacklistet Befehle verwenden",
+    "ALREADY_BLACKLISTED_": "Dieser Befehl ist bereits geblacklistet",
+    "NO_BLACKLIST_": "Keine Befehle sind geblacklistet",
+    "NOT_BLACKLISTED_": "Dieser Befehl ist nicht geblacklistet",
+    "ADDED_": "Befehl wurde zur blacklist hinzugefügt",
+    "REMOVED_": "Befehl wurde von der blacklist entfernt"
+  },
+  "RconCmd": {
+    "CONFIG_": "Zeige die Remote-Konsolen Konfiguration",
+    "BLACKLIST_": "Blacklist-Befehle nur für den Besitzer",
+    "ACCESS_": "Gib anderen Usern zugriff",
+    "ENABLE_": "Aktivere Remote-Konsole",
+    "DISABLE_": "Deaktiviere Remote-Konsole",
+    "FIX_": "Versuche die Remote-Konsole zu fixen",
+    "RESET_": "Lösche die Remote-Konsolen Konfiguration"
+  },
+  "RconError": {
+    "NOT_SETUP_": "Remote-Konsole wurde nicht eingerichtet, verwende",
+    "NO_ACCESS_": "Du hast keinen Zugriff zur Remote-Konsole",
+    "BLACKLISTED_": "Befehl ist geblacklistet. Nur der Besitzer kann ihn ausführen",
+    "NOT_MAIN_OWNER_": "Nur der Haupt-Besitzer kann dies verwenden",
+    "NOT_OWNER_": "Nur ein Besitzer kann das verwenden",
+    "NOT_ADMIN_": "Hur ein Admin kann das verwenden",
+    "ALREADY_CONNECTED_": "Remote-Konsole ist bereits verbunden",
+    "RCON_WAIT_": "Remote-Konsole ist bereits am verbinden, bitte warte",
+    "WRONG_PASSWORD_": "Passwort der Remote-Konsole ist falsch",
+    "CMD_ERROR_": "Konnte Befehl nicht ausführen"
+  },
+  "Wiki": {
+    "UNKNOWN_ITEM_": "Unbekanntes Wiki Item"
+  },
+  "Version": {
+    "UNKNOWN_VERSION_": "Unbekannte Minecraft Version",
+    "NO_CLIENT_MODS_": "Keine Klient-Modifikationen erhältlich für diese Version",
+    "RELEASED_": "Veröffentlich am",
+    "COMING_SOON_": "Demnächst",
+    "VERSIONS_": "Versionen",
+    "RECOMMENDED_": "Empfohlen"
+  },
+  "Mob": {
+    "ATTACK_": "Attack",
+    "EASY_": "Einfach",
+    "NORMAL_": "Normal",
+    "HARD_": "Hart",
+    "HEALTH_": "Gesundheit",
+    "HEIGHT_": "Grösse",
+    "WIDTH_": "Breite",
+    "BLOCKS_": "Blöcke",
+    "UNKNOWN_": "Unbekannt"
+  },
+  "Gallery": {
+    "BANNER_RANDOM_": "Erhalte einen random Banner",
+    "BANNER_NAME_": "Erhalte einen Banner durch einen Namen",
+    "BANNER_UNKNOWN_": "Unbekannter Banner name",
+    "ART_RANDOM_": "Erhalte ein zufälliges Kunstwerk",
+    "WALLPAPER_RANDOM_": "Erhalte ein zufälliges Poster"
+  },
+  "Verify": {
+    "TITLE_": "Minecraft Account verifizierung",
+    "INFO_": "Bestätige deinen Minecraft Account für coole Features und Rollen",
+    "USERS_": "Bestätigte User",
+    "STEP1_": "Lade Minecraft 1.12.2",
+    "STEP2_": "Joine diesem Server",
+    "STEP3_": "Schreibe das in Discord",
+    "ALREADY_": "Dieser Spieler ist bereits bestätigt",
+    "SERVER_DOWN_": "Verifizierungs-Server ist offline. Kontaktiere",
+    "NOT_IN_SERVER_": "Du bist nicht im Server",
+    "THANKS_": "Danke fürs verwenden von Minecraft Bot. Du bist nun bestätigt",
+    "FAILED_ROLE_": "Geben der Minecraft Rolle fehlgeschlagen",
+    "VERIFIED_": "Dein Minecraft Account wurde bestätigt",
+    "GIVEN_ROLE_": "Dir wurde die Minecraft Rolle gegeben"
+  },
+  "AdminCommands": {
+    "CMD_LANG_": "Wechsle die Community Sprache",
+    "CMD_ROLE_": "Erstelle eine Minecraft Rolle für bestätigte User",
+    "CMD_AUTOPOST_": "Auto-poste den Status deines Servers",
+    "CMD_ADD_": "Füge einen Minecraft Server zur Liste hinzu",
+    "CMD_DEL_": "Entferne einen Minecraft Server von der Liste",
+    "CMD_SET_PREFIX_": "Setze einen eigenen Prefix",
+    "CMD_RESET_PREFIX_": "Entferne den eigenen Prefix"
+  },
+  "Admin": {
+    "ENTER_IP_": "Gib eine IP Adresse ein",
+    "NOT_ADMIN_": "Du bist kein Server Admin",
+    "WANT_TRANSLATED_": "Möchtest du eine Sprache übersetzt haben? Kontaktiere mich auf Discord",
+    "LANG_SET_": "Community Sprache geändert zu",
+    "PREFIX_SET_": "Eigenen Prefix gesetzt zu",
+    "PREFIX_RESET_": "Eigenen Prefix entfernt, verwende",
+    "WANT_TO_ADD_": "Möchtest du gerne einen Server hinzufügen? {0}/{1}",
+    "ENTER_NAME_": "Gib einen Namen für den Server ein",
+    "SERVER_ADDED_": "Server wurde hinzugefügt zu",
+    "SERVER_REMOVED_": "Server wurde entfernt von",
+    "ALREADY_ADDED_": "Dieser Server ist bereits gelistet auf",
+    "SELECT_NUMBER_": "Wähle eine Nummer",
+    "INVALID_NUMBER_": "Ungültige Nummer",
+    "TRANSLATORS_": "Übersetzer",
+    "HAS_ROLE_": "Dieser Server hat bereits eine Minecraft Rolle",
+    "INVALID_CHANNEL_": "Ungültiger Channel"
+  }
+}
