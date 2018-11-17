@@ -5,9 +5,10 @@ Translation work for Minecraft Bot on Discord
 
 Current Translations
 - English (Main Language)
-- French | Needs a translator
+- French | 🔥 fire🔥#5549 | 287390198260563969
+- Bulgarian | EasyThe#2836 | 171675309177831424
 - Spanish | Needs a translator
-- Russian | Needs a translator
+- Russian | !𝓩𝓲𝓵𝓵𝓪👽#1127 | 342146975065702400
 - Portugues | Needs a translator
 - German | Needs a translator
 - Dutch | Needs a translator
