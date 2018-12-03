@@ -78,7 +78,9 @@
     "PLAYED_ON_": "Jugado en",
     "HIDDEN_": "Algunas insignias están escondidas"
   },
-  "GXT_LIMIT_": "El texto no pude sobrepasar los 22 carácteres"
+   "Get": {
+    "HI__": "Hola", 
+  "TEXT_LIMIT_": "El texto no pude sobrepasar los 22 carácteres"
   },
   "Names": {
     "FIRST_": "Primero",
@@ -109,9 +111,7 @@
   },
   "RconAccess": {
     "ADD_ALREADY_": "Este usuario ya tiene acceso",
-et": {
-    "HI_": "Hola",
-    "TE    "WARN_": "Algunos comandos están en la lista negra por defecto",
+    "WARN_": "Algunos comandos están en la lista negra por defecto",
     "OWNER_": "Acceso completo a los comandos y configuración",
     "ADMIN_": "Acceso a comandos que no están en la lista negra",
     "MOD_": "Acceso a los comandos ban, unban y kick únicamente",
