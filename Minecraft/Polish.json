@@ -1,0 +1,227 @@
+{
+  "Translation": {
+    "NAME": "Polish",
+    "URL": "https://github.com/xXBuilderBXx/Translation/blob/master/Minecraft/Polish.json",
+    "Users": {
+      "301062520679170066": "TheUsedGamer#3578"
+    }
+  },
+
+  "Error": {
+    "API_ERROR_": "Blad interfejsu API",
+    "NO_LIST_": "Ta spolecznosc nie ma wymienionych serwerów",
+    "NOT_VOTED_": "Nie zaglosowales na bota",
+    "PLAYER_NOT_FOUND_": "Gracz nie znaleziony",
+    "PLAYER_NO_STATS_": "Gracz nie ma statystk",
+    "NO_ATTACH_FILES_": "Bot nie ma uprawnien do dolaczania plików",
+    "NO_MANAGE_ROLES_": "Bot nie ma uprawnien do zarzadzania rolami",
+    "NO_READ_MESSAGES_": "Bot nie ma uprawnien do czytania wiadomosci",
+    "NO_SEND_MESSAGES_": "Bot nie ma uprawnien do wysylania wiadomosci",
+    "NO_EMBED_LINKS_": "Bot nie ma uprawnien do umieszczania linków",
+    "NOT_LINKED_": "Uzytkownik nie ma polaczonego konta"
+  },
+  "Ping": {
+    "CMD_JAVA_": "Pinguj serwer Minecraft",
+    "CMD_PE_": "Pinguj serwer Pocket Edition",
+    "CMD_FULL_": "Ping serwer Minecraft z lista graczy",
+    "CMD_BANNER_": "Wersja banera ping",
+    "WAIT_": "Prosze Czekac w czasie gdy pinguje",
+    "NO_ENABLE_QUERY_": "Serwer nie ma ustawionego enable-query w pliku server.properties",
+    "INVALID_IP_": "Niepoprawny adres IP",
+    "INVALID_PORT_": "Niepoprawny port serwera",
+    "ON_COOLDOWN_": "Masz cooldown przez 1 minute",
+    "NO_PLAYERS_": "Brak graczy online"
+  },
+  "Help": {
+    "CMD_USER_": "Profil uzytkownika",
+    "CMD_VERIFY_": "Zweryfikuj swoje konto Minecraft",
+    "CMD_BOT_": "Informacje o bocie",
+    "CMD_QUIZ_": "Quiz o Minecraft",
+    "CMD_COLOR_": "Kody Koloru Minecraft",
+    "CMD_LIST_": "Serwery spolecznosci",
+    "CMD_UUID_": "Zdobadz UUID graczy",
+    "MULTI_MC_": "Pozwala zarzadzac i ladowac rózne wersje Minecrafta z latwa instalacja modów",
+    "CMD_SKIN_": "Uzyskaj skórke graczy",
+    "CMD_NAME_": "Zdobadz historie nazw graczy",
+    "CMD_GET_": "Zdobadz osiagniecie w Minecrafcie",
+    "CMD_CHANGELOG_": "Najnowsza wersja Minecrafta",
+    "CMD_VERSION_": "Informacje o wersji",
+    "CMD_WIKI_": "Pelny przewodnik Minecraft",
+    "CMD_GALLERY_": "Banery i grafiki",
+    "CMD_RCON_": "Zdalna konsola do twojego serwera Minecraft",
+    "CMD_PLAYING_": "Uzytkownicy grajacy w Minecrafta",
+    "CMD_ADMIN_": "Discord komendy admina",
+    "CMD_INVITE_": "Zapros bota",
+    "FOOTER_": "Istnieje równiez kilka tajnych komend"
+  },
+  "Main": {
+    "HAVE_ISSUES_": "Jesli masz jakies problemy, skontaktuj sie ze mna na Discordzie",
+    "PLAYER_STATS_": "statystyki gracza",
+    "GET_STATS_": "Uzyskaj statystyki gracza od",
+    "STOLE_SKIN_": "Ukradles skóre",
+    "FOUND_HIDDEN_": "Znalazles tajna komende"
+  },
+  "User": {
+    "NOT_VERIFIED_": "Ten uzytkownik nie ma zweryfikowanego konta Minecraft uzyj",
+    "LAST_PLAYED_": "Ostatnio grane;",
+    "BADGES_": "Odznaki",
+    "BADGES_INFO_": "Wyswietl odznaki z",
+    "NO_BADGES_": "Nie masz odznak",
+    "INVALID_ID_": "Niepoprawne ID uzytkownika"
+  },
+  "Badges": {
+    "OWNER_": "Wlasciciel bota",
+    "MOB_HUNTER_": "Ekspertowa wiedza na temat potworów",
+    "VOTED_": "Glosuj na bota",
+    "TRANSLATOR_": "Pomogli przetlumaczyc bota",
+    "VERIFIED_": "Ma zweryfikowane konto Minecraft",
+    "PLAYED_ON_": "Zagrano",
+    "HIDDEN_": "Niektóre odznaki sa ukryte"
+  },
+  "Get": {
+    "HI_": "Czeœæ",
+    "TEXT_LIMIT_": "Tekst nie mo¿e byæ wiecej ni¿ 22 Liter"
+  },
+  "Names": {
+    "FIRST_": "Pierwsze",
+    "ONLY_ONE_": "Gracz ma tylko jedn¹ nazwe u¿ytkownika"
+  },
+  "Misc": {
+    "SOFTWARE_": "Oprogramowanie",
+    "YES_": "Tak",
+    "NO_": "Nie",
+    "PLAYER_": "Gracz",
+    "PLAYERS_": "Gracze",
+    "ENABLED_": "W³¹czone",
+    "DISABLED_": "Wy³¹czone"
+  },
+  "RconSetup": {
+    "INFO_": "Zezwala wlascicielom serwerów Minecraft na uruchamianie polecen z Discord bez uzycia wtyczek i modów",
+    "INFO2_": "Aby Zacz¹æ U¿yj"
+  },
+  "Rcon": {
+    "TITLE_": "Zdalna Konsola",
+    "INFO_": "Uruchamiaj polecenia serwera Minecraft za pomoc¹",
+    "EXECUTED_": "Kommenda Wykonana",
+    "ENABLED_": "Zdalna konsola zosta³a w³¹czona",
+    "DISABLED_": "Zdalna konsola zosta³a wy³¹czona ",
+    "FIX_ATTEMPT_": "Próba naprawienia po³¹czenia z konsol¹ zdaln¹",
+    "RESET_CONFIRM_": "Aby potwierdzic reset prosze u¿yj",
+    "RESET_": "Config zdalnej konsoli zosta³ usuniety"
+  },
+  "RconAccess": {
+    "ADD_ALREADY_": "Ten uzytkownik ma juz dostep",
+    "WARN_": "Niektóre komendy sa domyslnie umieszczone na czarnej liscie",
+    "OWNER_": "Pelny dostep do komend i konfiguracji",
+    "ADMIN_": "Dostep do komend, które nie sa umieszczone na czarnej liscie",
+    "MOD_": "Dostep tylko do komend ban, unban i kick",
+    "INFO_": "Zezwól innym uzytkownikom na uzywanie komend konsoli zdalnego sterowania",
+    "SELECT_ROLE_": "Wybierz role dla uzytkownika",
+    "UNKNOWN_ROLE_": "Wybrano nieznana role",
+    "GIVEN_": "Uzytkownik otrzymal zdalny dostep do konsoli",
+    "REMOVE_ALREADY_": "Ten uzytkownik nie ma dostepu",
+    "REMOVE_MAIN_OWNER_": "Nie mozesz usunac glównego wlasciciela",
+    "REMOVE_OWNER_": "Nie mozesz usunac wlasciciela",
+    "REMOVED_": "Uzytkownik zostal usuniety z dostepu do zdalnej konsoli"
+  },
+  "RconBlacklist": {
+    "INFO_": "Tylko wlasciciele moga korzystac z komend umieszczonych na czarnej liscie",
+    "ALREADY_BLACKLISTED_": "Ta komenda jest juz na czarnej liscie",
+    "NO_BLACKLIST_": "Zadne komendy nie sa na czarnej liscie",
+    "NOT_BLACKLISTED_": "Ta komenda nie jest na czarnej liscie",
+    "ADDED_": "Komenda zostala dodana do czarnej listy",
+    "REMOVED_": "Command has been removed from the blacklist"
+  },
+  "RconCmd": {
+    "CONFIG_": "Zobacz config zdalnej konsoli",
+    "BLACKLIST_": "Czarna lista kommend tylko do w³aœciciela",
+    "ACCESS_": "Daj innym u¿ytkownikom dostêp",
+    "ENABLE_": "W³¹cz zdaln¹ konsolê",
+    "DISABLE_": "Wy³¹cz zdaln¹ konsolê",
+    "FIX_": "Spróbuj naprawic zdalna konsole",
+    "RESET_": "Usun konfiguracje konsoli zdalnej"
+  },
+  "RconError": {
+    "NOT_SETUP_": "Zdalna konsola nie zosta³a skonfigurowana u¿yj",
+    "NO_ACCESS_": "Nie masz dostêpu do zdalnej konsoli",
+    "BLACKLISTED_": "Kommenda jest na czarnej liœcie, tylko w³aœciciel mo¿e uruchomic kommende",
+    "NOT_MAIN_OWNER_": "Tylko g³ówny w³aœciciel mo¿e z tego korzystaæ",
+    "NOT_OWNER_": "Tylko w³aœciciel mo¿e tego u¿yc",
+    "NOT_ADMIN_": "Tylko admin mo¿e tego u¿yc",
+    "ALREADY_CONNECTED_": "Zdalna konsola jest juz po³¹czona",
+    "RCON_WAIT_": "Zdalna konsola siê juz po³acza prosze czekaæ",
+    "WRONG_PASSWORD_": "Has³o do zdalnej konsoli jest niepoprawne",
+    "CMD_ERROR_": "Nie mo¿na wykonaæ polecenia"
+  },
+  "Wiki": {
+    "UNKNOWN_ITEM_": "Nieznany element wiki"
+  },
+  "Version": {
+    "UNKNOWN_VERSION_": "Nieznana wersja Minecrafta",
+    "NO_CLIENT_MODS_": "Brak dostêpnych modów klienta dla tej wersji",
+    "RELEASED_": "Wydane w dniu",
+    "COMING_SOON_": "Wkrótce",
+    "VERSIONS_": "Wersje",
+    "RECOMMENDED_": "Rekomendowane"
+  },
+  "Mob": {
+    "ATTACK_": "Atak",
+    "EASY_": "£atwy",
+    "NORMAL_": "Œredni",
+    "HARD_": "Trudny",
+    "HEALTH_": "¯ycie",
+    "HEIGHT_": "Wysokoœæ",
+    "WIDTH_": "Szerokoœæ",
+    "BLOCKS_": "Bloki",
+    "UNKNOWN_": "Nieznany"
+  },
+  "Gallery": {
+    "BANNER_RANDOM_": "Zdob¹d¿ randomowy baner",
+    "BANNER_NAME_": "Zdob¹d¿ baner po imieniu",
+    "BANNER_UNKNOWN_": "Nieznana nazwa banera",
+    "ART_RANDOM_": "Zdob¹d¿ losow¹ grafikê",
+    "WALLPAPER_RANDOM_": "Zdob¹d¿ losow¹ tapetê"
+  },
+  "Verify": {
+    "TITLE_": "Weryfikacja Konta Minecraft",
+    "INFO_": "Zweryfikuj twoje konto Minecraft aby dostaæ fajne funkcje i role",
+    "USERS_": "Zweryfikowani u¿ytkownicy",
+    "STEP1_": "Za³aduj Minecraft 1.12.2",
+    "STEP2_": "Do³¹cz do tego serwera",
+    "STEP3_": "Wpisz to w Discord",
+    "ALREADY_": "Ten Gracz jest ju¿ zweryfikowany",
+    "SERVER_DOWN_": "Serwer veryfikacyjny nie dzia³a skontaktuj",
+    "NOT_IN_SERVER_": "Nie jestes w Serwerze",
+    "THANKS_": "Dziekujemy za u¿ywanie Minecraft bot jestes teraz zweryfikowany",
+    "FAILED_ROLE_": "Nie uda³o siê daæ ci role Minecraftowa",
+    "VERIFIED_": "Twoje konto Minecraftowe zosta³o zweryfikowane",
+    "GIVEN_ROLE_": "Dosta³eœ rolê Minecraft"
+  },
+  "AdminCommands": {
+    "CMD_LANG_": "Zmieñ jêzyk spo³ecznoœci",
+    "CMD_ROLE_": "Stworz role Minecraftowa dla zweryfikowanych u¿ytkowników",
+    "CMD_AUTOPOST_": "Automatycznie postuj status twojego serwera Minecraft",
+    "CMD_ADD_": "Dodaj serwer Minecraftowy do listy",
+    "CMD_DEL_": "Usuñ serwer Minecraftowy od listy",
+    "CMD_SET_PREFIX_": "Ustaw niestandardowy prefiks",
+    "CMD_RESET_PREFIX_": "Usuñ niestandardowy prefiks"
+  },
+  "Admin": {
+    "ENTER_IP_": "WprowadŸ adres IP",
+    "NOT_ADMIN_": "Nie jesteœ adminem serwera",
+    "WANT_TRANSLATED_": "Want a language translated? contact me on Discord",
+    "LANG_SET_": "Ustawiono jêzyk spo³ecznoœciowy na",
+    "PREFIX_SET_": "Niestandardowy prefiks ustawiony na",
+    "PREFIX_RESET_": "Niestandardowy prefiks usuniety u¿yj",
+    "WANT_TO_ADD_": "Czy chcesz dodaæ serwer? {0}/{1}",
+    "ENTER_NAME_": "WprowadŸ nazwê dla serwera",
+    "SERVER_ADDED_": "Serwer zosta³ dodany do",
+    "SERVER_REMOVED_": "Serwer zosta³ usuniety z",
+    "ALREADY_ADDED_": "Ten Serwer jest juz na liœcie",
+    "SELECT_NUMBER_": "Wybierz Liczbe",  
+    "INVALID_NUMBER_": "Niepoprawna liczba",
+    "TRANSLATORS_": "T³umacze",
+    "HAS_ROLE_": "Ten serwer ma ju¿ role Minecraftowa",
+    "INVALID_CHANNEL_": "Niepoprawny kana³"
+  }
+}
