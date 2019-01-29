@@ -3,48 +3,49 @@
     "NAME": "French",
     "URL": "https://github.com/xXBuilderBXx/Translation/blob/master/Minecraft/French.json",
     "Users": {
-      "287390198260563969": "🔥 fire🔥#5549"
+      "287390198260563969": "🔥 fire🔥#5549",
+      "304541381798658048": "Mister_KoRo *pat pat*#0001" // correcting this file 
     }
   },
 
   "Error": {
     "API_ERROR_": "Erreur d'api",
-    "NO_LIST_": "Cette communautée n'est pas listée",
-    "NOT_VOTED_": "Vous n'avez pas voté pour le bot",
-    "PLAYER_NOT_FOUND_": "Joueur introuvable",
-    "PLAYER_NO_STATS_": "Pas de statistiques disponibles pour ce joueur",
-    "NO_ATTACH_FILES_": "Le bot n'a pas la permission d'ajouter des fichiers",
-    "NO_MANAGE_ROLES_": "Le bot n'a pas la permission de gérer les roles",
-    "NO_READ_MESSAGES_": "Le bot n'a pas la permission de lire les messages",
-    "NO_SEND_MESSAGES_": "Le bot n'a pas la permission d'envoyer des messages",
-    "NO_EMBED_LINKS_": "Le bot n'a pas la permission d'intégrer un lien",
-    "NOT_LINKED_": "Ce joueur n'a pas vérifié son compte"
+    "NO_LIST_": "Cette communautée n'est pas listée.",
+    "NOT_VOTED_": "Vous n'avez pas voté pour le bot.",
+    "PLAYER_NOT_FOUND_": "Joueur introuvable.",
+    "PLAYER_NO_STATS_": "Ce joueur n'a aucune statistique.",
+    "NO_ATTACH_FILES_": "Le bot n'a pas la permission d'attacher des fichiers au message.",
+    "NO_MANAGE_ROLES_": "Le bot n'a pas la permission de gérer les roles.",
+    "NO_READ_MESSAGES_": "Le bot n'a pas la permission de lire les messages.",
+    "NO_SEND_MESSAGES_": "Le bot n'a pas la permission d'envoyer des messages.",
+    "NO_EMBED_LINKS_": "Le bot n'a pas la permission d'intégrer un lien.",
+    "NOT_LINKED_": "Ce joueur n'a pas de compte associé."
   },
   "Ping": {
     "CMD_JAVA_": "Tester la latence d'un serveur minecraft JAVA",
     "CMD_PE_": "Tester la latence d'un serveur minecraft BEDROCK",
     "CMD_FULL_": "Afficher la liste des joueurs pour un serveur minecraft",
     "CMD_BANNER_": "Afficher la bannière d'un serveur",
-    "WAIT_": "Attendez un peu ...",
-    "NO_ENABLE_QUERY_": "Le serveur n'a pas activé le Query dans server.proprieties",
-    "INVALID_IP_": "IP invalide",
-    "INVALID_PORT_": "PORT invalide",
-    "ON_COOLDOWN_": "Attendez une minute ...",
-    "NO_PLAYERS_": "Pas de joueurs en ligne"
+    "WAIT_": "S'il vous plait, attendez pendant que j'envoie la demande de latence...",
+    "NO_ENABLE_QUERY_": "Le serveur n'a pas activé le Query dans le fichier server.proprieties",
+    "INVALID_IP_": "IP invalide.",
+    "INVALID_PORT_": "PORT invalide.",
+    "ON_COOLDOWN_": "Vous êtes en attente pour une minute.",
+    "NO_PLAYERS_": "Aucun joueur détecté en ligne."
   },
   "Help": {
-    "CMD_USER_": "Utilisateur",
-    "CMD_VERIFY_": "Vérifier votre compte",
-    "CMD_BOT_": "Infos sur le bot",
-    "CMD_QUIZ_": "Quiz minecraft",
+    "CMD_USER_": "Profil utilisateur.",
+    "CMD_VERIFY_": "Vérifier votre compte Minecraft.",
+    "CMD_BOT_": "Informations sur le bot",
+    "CMD_QUIZ_": "Quizz sur Minecraft",
     "CMD_COLOR_": "Codes couleurs minecraft",
     "CMD_LIST_": "Serveurs communautaires",
-    "CMD_UUID_": "UUID d'un joueur",
-    "MULTI_MC_": "Permet de modifier et charger minecraft plus rapidement",
-    "CMD_SKIN_": "Skin d'un joueur",
-    "CMD_NAME_": "Historique des pseudos d'un joueur",
-    "CMD_GET_": "Afficher un succès",
-    "CMD_CHANGELOG_": "Dernière version de minecraft",
+    "CMD_UUID_": "Récuperer l'UUID d'un joueur",
+    "MULTI_MC_": "Vous permet de gérer et de charger différentes versions de Minecraft avec une installation facile de mods",
+    "CMD_SKIN_": "Avoir le skin d'un joueur",
+    "CMD_NAME_": "Avoir l'historique des pseudos d'un joueur",
+    "CMD_GET_": "Afficher un succès Minecraft.",
+    "CMD_CHANGELOG_": "Donne la dernière version de minecraft",
     "CMD_VERSION_": "Information sur la version",
     "CMD_WIKI_": "Guide complet de minecraft",
     "CMD_GALLERY_": "Bannières et arts",
@@ -52,22 +53,22 @@
     "CMD_PLAYING_": "Utilisateur jouant à minecraft",
     "CMD_ADMIN_": "Commandes d'administration",
     "CMD_INVITE_": "Inviter le bot",
-    "FOOTER_": "Il y a quelques secrets ici ;) ; translation by @fire#5549"
+    "FOOTER_": "Il y a quelques commande secrètes ici ;) ; traduction par @fire#5549 et @Mister_KoRo *pat pat*#0001"
   },
   "Main": {
     "HAVE_ISSUES_": "Si vous avez des problèmes, contactez moi sur discord",
     "PLAYER_STATS_": "Statistiques du joueur",
-    "GET_STATS_": "Statistiques de",
-    "STOLE_SKIN_": "Vous avez pris ce skin",
-    "FOUND_HIDDEN_": "Vous avez trouvé la commande secrete"
+    "GET_STATS_": "Statistiques venant de",
+    "STOLE_SKIN_": "Vous avez pris un skin",
+    "FOUND_HIDDEN_": "Vous avez trouvé une commande secrête"
   },
   "User": {
-    "NOT_VERIFIED_": "Ce joueur n'a pas vérifié son compte",
+    "NOT_VERIFIED_": "Ce joueur n'a pas vérifié son compte Minecraft",
     "LAST_PLAYED_": "Dernièrement joué :",
     "BADGES_": "Badges",
-    "BADGES_INFO_": "Voir les badges",
+    "BADGES_INFO_": "Voir les badges de",
     "NO_BADGES_": "Vous n'avez aucun badge",
-    "INVALID_ID_": "Mauvais ID"
+    "INVALID_ID_": "Identifiant d'utilisateur invalide"
   },
   "Badges": {
     "OWNER_": "Propriétaire du bot",
@@ -75,19 +76,19 @@
     "VOTED_": "A voté pour ce bot",
     "TRANSLATOR_": "A aidé à traduire le bot",
     "VERIFIED_": "A vérifié son compte",
-    "PLAYED_ON_": "Obtenu le :",
-    "HIDDEN_": "Des badges sont cachés"
+    "PLAYED_ON_": "Joué le :",
+    "HIDDEN_": "Plusieurs badges sont cachés."
   },
   "Get": {
     "HI_": "Salut",
-    "TEXT_LIMIT_": "Le texte est trop long (+ de 22 caractères)"
+    "TEXT_LIMIT_": "Le texte est trop long (plus de 22 carractères)"
   },
   "Names": {
     "FIRST_": "Premier",
     "ONLY_ONE_": "Cette personne n'a qu'un compte"
   },
   "Misc": {
-    "SOFTWARE_": "Software",
+    "SOFTWARE_": "Logiciel",
     "YES_": "Oui",
     "NO_": "Non",
     "PLAYER_": "Joueur",
@@ -97,20 +98,20 @@
   },
   "RconSetup": {
     "INFO_": "Permet d'éxécuter des commandes via le bot sur votre serveur sans s'y connecter",
-    "INFO2_": "Pour commencer"
+    "INFO2_": "Pour commencer l'utilisation"
   },
   "Rcon": {
-    "TITLE_": "Console RCON",
-    "INFO_": "Exécutez des commandes avec ",
+    "TITLE_": "Console RCON", // RCON is not really necessary so you can delete it
+    "INFO_": "Executez des commandes que votre serveur utilise",
     "EXECUTED_": "Command exécutée",
-    "ENABLED_": "RCON Activé !",
+    "ENABLED_": "RCON activé !",
     "DISABLED_": "RCON Désactivé !",
-    "FIX_ATTEMPT_": "Tentative de reconnexion en cours ...",
-    "RESET_CONFIRM_": "Pour confirmer,faites ",
-    "RESET_": "Le protocole d'RCON est reste"
-  },
+    "FIX_ATTEMPT_": "Tentative de reconnection en cours...",
+    "RESET_CONFIRM_": "Pour confirmer, faites ",
+    "RESET_": "Le protocole de RCON est réinitialisé !"
+},
   "RconAccess": {
-    "ADD_ALREADY_": "Ce joueur à déja cet accès",
+    "ADD_ALREADY_": "Ce joueur à déja cet accès au RCON",
     "WARN_": "Certaines commandes sont désactivées par défaut",
     "OWNER_": "Accès complet aux commandes",
     "ADMIN_": "Access aux commandes actives",
@@ -128,13 +129,13 @@
     "INFO_": "Seuls les propriétaires peuvent utiliser les commandes inactives",
     "ALREADY_BLACKLISTED_": "Commande déja désactivée",
     "NO_BLACKLIST_": "Aucune commande désactivée",
-    "NOT_BLACKLISTED_": "Commande active",
-    "ADDED_": "Cette commande est maintenant inactive",
-    "REMOVED_": "Cette commande est désormais activée "
+    "NOT_BLACKLISTED_": "Commande activée",
+    "ADDED_": "Cette commande a été ajoutée à la Blacklist",
+    "REMOVED_": "Cette commande a été supprimée de la Blacklist"
   },
   "RconCmd": {
-    "CONFIG_": "Visualiser la console du RCON",
-    "BLACKLIST_": "Commandes inactives autorisées que pour les propriétaires",
+    "CONFIG_": "Visualiser la console du RCON", // Here, du RCON is not necessary too. You can delete it.
+    "BLACKLIST_": "Commandes inactives autorisées uniquement aux propriétaires",
     "ACCESS_": "Autoriser l'accès aux autres joueurs",
     "ENABLE_": "Activer le RCON",
     "DISABLE_": "Désactiver le RCON",
@@ -154,12 +155,12 @@
     "CMD_ERROR_": "Erreur de commande . Vérifiez l'orthographe ..."
   },
   "Wiki": {
-    "UNKNOWN_ITEM_": "Item de wiki introuvable"
+    "UNKNOWN_ITEM_": "Objet du wiki introuvable."
   },
   "Version": {
-    "UNKNOWN_VERSION_": "Version inconnue de minecraft",
+    "UNKNOWN_VERSION_": "Version de minecraft inconnue",
     "NO_CLIENT_MODS_": "Pas de mods disponibles pour cette version",
-    "RELEASED_": "Le",
+    "RELEASED_": "Sortie le",
     "COMING_SOON_": "Prochainement disponible",
     "VERSIONS_": "Versions",
     "RECOMMENDED_": "Recommandé"
@@ -176,48 +177,48 @@
     "UNKNOWN_": "Inconnu"
   },
   "Gallery": {
-    "BANNER_RANDOM_": "Bannière aléatoire",
-    "BANNER_NAME_": "Bannière par nom",
-    "BANNER_UNKNOWN_": "Bannière introuvable",
-    "ART_RANDOM_": "Art aléatoire",
-    "WALLPAPER_RANDOM_": "Fond d'écran aléatoire"
+    "BANNER_RANDOM_": "fficher une bannière aléatoire",
+    "BANNER_NAME_": "Affincher les bannières par noms",
+    "BANNER_UNKNOWN_": "Nom de bannière inconnu.",
+    "ART_RANDOM_": "Afficher un artwork aléatoire",
+    "WALLPAPER_RANDOM_": "Afficher un fond d'écran aléatoire"
   },
   "Verify": {
     "TITLE_": "Vérification de compte minecraft",
-    "INFO_": "Vérifiez votre compte minecraft pour plus d'options",
-    "USERS_": "Vérifiés",
+    "INFO_": "Vérifiez votre compte minecraft pour plus d'options cool et des roles !",
+    "USERS_": "Utilisateur vérifiés",
     "STEP1_": "Chargez minecraft 1.12.2",
     "STEP2_": "Rejoignez ce serveur",
     "STEP3_": "Ecrivez sur discord : ",
-    "ALREADY_": "Ce joueur est déja verifié",
+    "ALREADY_": "Cet utilisateur est déja verifié", // It's better to use "Cet utilisateur". "Ce joueur" is "This player" and not "This user".
     "SERVER_DOWN_": "Le serveur de vérification est hors ligne",
     "NOT_IN_SERVER_": "Vous n'êtes pas connecté sur le serveur !",
-    "THANKS_": "Merci d'utiliser le bot minecraft, votre compte est désormais vérifié !",
+    "THANKS_": "Merci d'utiliser le bot Minecraft ! Votre compte est désormais vérifié !",
     "FAILED_ROLE_": "Le rôle n'a pas pu être donné à cause d'une erreur",
     "VERIFIED_": "Compte vérifié !",
     "GIVEN_ROLE_": "Vous avez désormais le rôle vérifié"
   },
   "AdminCommands": {
-    "CMD_LANG_": "Changer la langue",
-    "CMD_ROLE_": "Creer un role pour les vérifiés",
+    "CMD_LANG_": "Changer la langue de la communauté",
+    "CMD_ROLE_": "Créer un role pour les vérifiés",
     "CMD_AUTOPOST_": "Poster automatiquement les statistiques d'un serveur",
     "CMD_ADD_": "Ajouter un serveur minecraft à la liste",
-    "CMD_DEL_": "Retirer un serveur minecraft à la liste",
-    "CMD_SET_PREFIX_": "Définir un nouveau préfix personalisé",
+    "CMD_DEL_": "Retirer un serveur minecraft de la liste",
+    "CMD_SET_PREFIX_": "Définir un préfix personalisé",
     "CMD_RESET_PREFIX_": "Retirer un prefix personalisé"
   },
   "Admin": {
-    "ENTER_IP_": "Entrez l'adresse (IP) du serveur .",
-    "NOT_ADMIN_": "Vous n'êtes pas administrateur",
-    "WANT_TRANSLATED_": "Une traduction ? contactez moi sur discord ! (Traduction par @fire#5549)",
-    "LANG_SET_": "Langage de la coummunautée définie à",
-    "PREFIX_SET_": "Préfix personalisé défini à : ",
+    "ENTER_IP_": "Entrez l'adresse IP du serveur .",
+    "NOT_ADMIN_": "Vous n'êtes pas administrateur.",
+    "WANT_TRANSLATED_": "Une traduction ? Contactez moi sur discord ! (Traduction par @fire#5549 et @Mister_KoRo *pat pat*#0001)",
+    "LANG_SET_": "Langage de la coummunautée définie sur",
+    "PREFIX_SET_": "Préfix personalisé défini sur : ",
     "PREFIX_RESET_": "Préfix retiré !",
     "WANT_TO_ADD_": "Voulez vous ajouter un serveur ? {0}/{1}",
     "ENTER_NAME_": "Entrez le nom du serveur",
-    "SERVER_ADDED_": "Serveur ajouté à",
-    "SERVER_REMOVED_": "Serveur retiré de ",
-    "ALREADY_ADDED_": "Ce serveur est déja dans la liste !",
+    "SERVER_ADDED_": "Le serveur a bien été ajouté à",
+    "SERVER_REMOVED_": "Le serveur a bien été retiré de ",
+    "ALREADY_ADDED_": "Ce serveur est déja listé !",
     "SELECT_NUMBER_": "Séléctionnez un nombre",
     "INVALID_NUMBER_": "Nombre invalide",
     "TRANSLATORS_": "Traducteurs",
