@@ -53,7 +53,7 @@
     "CMD_PLAYING_": "Utilisateur jouant à minecraft",
     "CMD_ADMIN_": "Commandes d'administration",
     "CMD_INVITE_": "Inviter le bot",
-    "FOOTER_": "Il y a quelques commande secrètes ici ;) ; traduction par @fire#5549 et @Mister_KoRo *pat pat*#0001"
+    "FOOTER_": "Il y a quelques commande secrètes ici ;)"
   },
   "Main": {
     "HAVE_ISSUES_": "Si vous avez des problèmes, contactez moi sur discord",
@@ -101,7 +101,7 @@
     "INFO2_": "Pour commencer l'utilisation"
   },
   "Rcon": {
-    "TITLE_": "Console RCON", // RCON is not really necessary so you can delete it
+    "TITLE_": "Console RCON",
     "INFO_": "Executez des commandes que votre serveur utilise",
     "EXECUTED_": "Command exécutée",
     "ENABLED_": "RCON activé !",
@@ -134,7 +134,7 @@
     "REMOVED_": "Cette commande a été supprimée de la Blacklist"
   },
   "RconCmd": {
-    "CONFIG_": "Visualiser la console du RCON", // Here, du RCON is not necessary too. You can delete it.
+    "CONFIG_": "Visualiser la console du RCON",
     "BLACKLIST_": "Commandes inactives autorisées uniquement aux propriétaires",
     "ACCESS_": "Autoriser l'accès aux autres joueurs",
     "ENABLE_": "Activer le RCON",
@@ -190,7 +190,7 @@
     "STEP1_": "Chargez minecraft 1.12.2",
     "STEP2_": "Rejoignez ce serveur",
     "STEP3_": "Ecrivez sur discord : ",
-    "ALREADY_": "Cet utilisateur est déja verifié", // It's better to use "Cet utilisateur". "Ce joueur" is "This player" and not "This user".
+    "ALREADY_": "Cet utilisateur est déja verifié",
     "SERVER_DOWN_": "Le serveur de vérification est hors ligne",
     "NOT_IN_SERVER_": "Vous n'êtes pas connecté sur le serveur !",
     "THANKS_": "Merci d'utiliser le bot Minecraft ! Votre compte est désormais vérifié !",
@@ -210,7 +210,7 @@
   "Admin": {
     "ENTER_IP_": "Entrez l'adresse IP du serveur .",
     "NOT_ADMIN_": "Vous n'êtes pas administrateur.",
-    "WANT_TRANSLATED_": "Une traduction ? Contactez moi sur discord ! (Traduction par @fire#5549 et @Mister_KoRo *pat pat*#0001)",
+    "WANT_TRANSLATED_": "Une traduction ? Contactez moi sur discord!",
     "LANG_SET_": "Langage de la coummunautée définie sur",
     "PREFIX_SET_": "Préfix personalisé défini sur : ",
     "PREFIX_RESET_": "Préfix retiré !",
