@@ -1,0 +1,227 @@
+{
+  "Translation": {
+    "NAME": "Portuguese",
+    "URL": "https://github.com/xXBuilderBXx/Translation/blob/master/Minecraft/Portuguese.json",
+    "Users": {
+      "262007814048841729": "Def4lt#7648"
+    }
+  },
+
+  "Error": {
+    "API_ERROR_": "Erro de API",
+    "NO_LIST_": "Nada listado com esse nome",
+    "NOT_VOTED_": "Você não votou no bot",
+    "PLAYER_NOT_FOUND_": "Jogador não encontrado",
+    "PLAYER_NO_STATS_": "Jogador sem estatísticas",
+    "NO_ATTACH_FILES_": "Bot está sem permissão para anexar arquivos",
+    "NO_MANAGE_ROLES_": "Bot está sem permissão para gerenciar as funções",
+    "NO_READ_MESSAGES_": "Bot está sem permissão para ler mensagens",
+    "NO_SEND_MESSAGES_": "O Bot está sem permissão para enviar mensagens",
+    "NO_EMBED_LINKS_": "O Bot está sem permissão para mandar links",
+    "NOT_LINKED_": "Nenhum usuário com uma conta vinculada"
+  },
+  "Ping": {
+    "CMD_JAVA_": "Saiba o ping de um servidor de Minecraft",
+    "CMD_PE_": "Saiba o ping de um servidor de Minecraft Pocket Edition",
+    "CMD_FULL_": "Saiba o ping de um servidor de Minecraft e sua lista de usuários",
+    "CMD_BANNER_": "Versão de ping da região",
+    "WAIT_": "Espere um momento enquanto eu consigo o Ping!",
+    "NO_ENABLE_QUERY_": "O servidore não tem o conjunto de consultas em seu server.properties",
+    "INVALID_IP_": "IP inválido",
+    "INVALID_PORT_": "Porta de servidor inválida",
+    "ON_COOLDOWN_": "Você acionou o modo cooldown por 1 minuto",
+    "NO_PLAYERS_": "Não há jogadores online"
+  },
+  "Help": {
+    "CMD_USER_": "Perfil do usuário",
+    "CMD_VERIFY_": "Verifique sua conta de Minecraft",
+    "CMD_BOT_": "Informações do Bot",
+    "CMD_QUIZ_": "Quiz sobre minecraft",
+    "CMD_COLOR_": "Código de cores no Minecraft",
+    "CMD_LIST_": "Servidores da comunidade",
+    "CMD_UUID_": "Olhe o UUID de jogadores",
+    "MULTI_MC_": "Permite que você gerencie e use versões do Minecraft com facilidade",
+    "CMD_SKIN_": "Veja a skin de um jogador",
+    "CMD_NAME_": "Veja o histórico de nomes de um jogador",
+    "CMD_GET_": "Veja uma conquista de Minecraft",
+    "CMD_CHANGELOG_": "Veja a versão mais recente do Minecraft",
+    "CMD_VERSION_": "Informações sobre a versão",
+    "CMD_WIKI_": "Guia completa de Minecraft",
+    "CMD_GALLERY_": "Galeria",
+    "CMD_RCON_": "Console remoto para seu servidor de Minecraft",
+    "CMD_PLAYING_": "Usuários jogando Minecraft",
+    "CMD_ADMIN_": "Comandos de Administrador de Discord",
+    "CMD_INVITE_": "Convide o Bot",
+    "FOOTER_": "Há alguns comandos secretos..."
+  },
+  "Main": {
+    "HAVE_ISSUES_": "Se tem algum problema, me contate em meu Discord",
+    "PLAYER_STATS_": "Estatísticas de jogador",
+    "GET_STATS_": "Veja as estatísticas do jogador",
+    "STOLE_SKIN_": "Você roubou a skin de",
+    "FOUND_HIDDEN_": "Você encotrou um comando secreto :0"
+  },
+  "User": {
+    "NOT_VERIFIED_": "Esse usuário não tem uma conta verificada",
+    "LAST_PLAYED_": "Última vez que jogou foi;",
+    "BADGES_": "Insígnias",
+    "BADGES_INFO_": "Ver insígnias com",
+    "NO_BADGES_": "Você não possui nenhum insígnia",
+    "INVALID_ID_": "ID de usuário inválido"
+  },
+  "Badges": {
+    "OWNER_": "Dono do Bot",
+    "MOB_HUNTER_": "Excelente caçador de monstros",
+    "VOTED_": "Vote pelo Bot",
+    "TRANSLATOR_": "Ajude a traduzir o Bot",
+    "VERIFIED_": "Existe uma conta de Minecraft verificada",
+    "PLAYED_ON_": "O jogador está jogando em",
+    "HIDDEN_": "Existem algumas insígnias secretas..."
+  },
+   "Get": {
+    "HI_": "Olá", 
+  "TEXT_LIMIT_": "O texto não pode ultrapassar 22 caracteres"
+  },
+  "Names": {
+    "FIRST_": "Primeiro",
+    "ONLY_ONE_": "Jogador tem um nome de usuário"
+  },
+  "Misc": {
+    "SOFTWARE_": "Software",
+    "YES_": "Sim",
+    "NO_": "Não",
+    "PLAYER_": "Jogador",
+    "PLAYERS_": "Jogadores",
+    "ENABLED_": "Ativado",
+    "DISABLED_": "Desativado"
+  },
+  "RconSetup": {
+    "INFO_": "Permite que donos de servidores de Minecraft, executem comandos no Discord, sem a necessidade de plugins ou mods",
+    "INFO2_": "Para começar, use"
+  },
+  "Rcon": {
+    "TITLE_": "Console remoto",
+    "INFO_": "Execute comandos de servidor de Minecraft usando",
+    "EXECUTED_": "Comando executado",
+    "ENABLED_": "Console remoto está ativado",
+    "DISABLED_": "Console remoto está desativado",
+    "FIX_ATTEMPT_": "Tentando consertar a conexão do console remoto",
+    "RESET_CONFIRM_": "Para confirmar o reset, por favor use",
+    "RESET_": "O console remoto acabou de ser resetado"
+  },
+  "RconAccess": {
+    "ADD_ALREADY_": "Este usuário ja tem acesso",
+    "WARN_": "Alguns comandos não são permitidos por padrão",
+    "OWNER_": "Acesso completo a lista de comandos e para configurar",
+    "ADMIN_": "Acesso a comandos que não estejam banidos",
+    "MOD_": "Acesso a comandos de ban, unba e kick",
+    "INFO_": "Permitir que outros jogadores usem comandos no console remoto",
+    "SELECT_ROLE_": "Selecione uma função para este usuário",
+    "UNKNOWN_ROLE_": "Função não conhecida",
+    "GIVEN_": "Usuário acaba de receber acesso ao console remoto",
+    "REMOVE_ALREADY_": "Esse usuário não possue acesso",
+    "REMOVE_MAIN_OWNER_": "Você não pode retirar o proprietário principal",
+    "REMOVE_OWNER_": "Você não pode retirar um proprietário",
+    "REMOVED_": "As permissões sobre o console remoto, foram retiradas do proprietário"
+  },
+  "RconBlacklist": {
+    "INFO_": "Somente proprietários podem usar comandos banidos",
+    "ALREADY_BLACKLISTED_": "Este comando já está banido",
+    "NO_BLACKLIST_": "Nenhum comando foi banido",
+    "NOT_BLACKLISTED_": "Este comando não foi banido",
+    "ADDED_": "Comando banido",
+    "REMOVED_": "Comando desbanido"
+  },
+  "RconCmd": {
+    "CONFIG_": "Ver configuração do console remoto",
+    "BLACKLIST_": "Lista de comandos banidos, é somente para proprietários",
+    "ACCESS_": "Dar acesso a outros usuários",
+    "ENABLE_": "Habilitar console remoto",
+    "DISABLE_": "Desabilitar console remoto",
+    "FIX_": "Intenta arreglar la consola remota",
+    "RESET_": "Resetar a configuração do console remoto"
+  },
+  "RconError": {
+    "NOT_SETUP_": "Console remoto não foi habilitado",
+    "NO_ACCESS_": "Você não tem permissão para o usar o console remoto",
+    "BLACKLISTED_": "O comando está banido, somente o proprietário pode usa-lo",
+    "NOT_MAIN_OWNER_": "Somente o proprietário principal pode fazer isso",
+    "NOT_OWNER_": "Somente um proprietário pode fazer isso",
+    "NOT_ADMIN_": "Somente um administrador pode fazer isso",
+    "ALREADY_CONNECTED_": "Console remoto já está conectado",
+    "RCON_WAIT_": "O console remoto está conectando, por favor, espere",
+    "WRONG_PASSWORD_": "A senha do controle remoto está incorreta",
+    "CMD_ERROR_": "Este comando não pode ser executado"
+  },
+  "Wiki": {
+    "UNKNOWN_ITEM_": "Item desconhecido"
+  },
+  "Version": {
+    "UNKNOWN_VERSION_": "Versão desconhecida do Minecraft",
+    "NO_CLIENT_MODS_": "Não há mods disponíveis para esta versão",
+    "RELEASED_": "Lançado em",
+    "COMING_SOON_": "Em breve",
+    "VERSIONS_": "Versões",
+    "RECOMMENDED_": "Recomendado"
+  },
+  "Mob": {
+    "ATTACK_": "Atacar",
+    "EASY_": "Fácil",
+    "NORMAL_": "Normal",
+    "HARD_": "Difícil",
+    "HEALTH_": "Vida",
+    "HEIGHT_": "Altura",
+    "WIDTH_": "Largura",
+    "BLOCKS_": "Blocos",
+    "UNKNOWN_": "Desconhecido"
+  },
+  "Gallery": {
+    "BANNER_RANDOM_": "Veja um Banner aleátorio",
+    "BANNER_NAME_": "Pesquise um Banner pelo nome",
+    "BANNER_UNKNOWN_": "Nome de Banner desconhecido",
+    "ART_RANDOM_": "Veja uma arte aleátoria",
+    "WALLPAPER_RANDOM_": "Veja um Wallpaper aleátorio"
+  },
+  "Verify": {
+    "TITLE_": "Verificação de contas no Minecraft",
+    "INFO_": "Verifique sua conta do Minecraft para obter recursos e funções incriveis",
+    "USERS_": "Usuários verificados",
+    "STEP1_": "Carregando Minecraft 1.12.2",
+    "STEP2_": "Entre neste servidor",
+    "STEP3_": "Mande isso no Discord",
+    "ALREADY_": "Este jogador já está verificado",
+    "SERVER_DOWN_": "O servidor de verificação está fora do ar",
+    "NOT_IN_SERVER_": "Você não está no servidor",
+    "THANKS_": "Obrigado por usar Minecraft Bot, agora você está cadastrado",
+    "FAILED_ROLE_": "	Erro em verificar sua conta",
+    "VERIFIED_": "Sua conta foi verificada com sucesso",
+    "GIVEN_ROLE_": "Você recebeu a tag no Minecraft"
+  },
+  "AdminCommands": {
+    "CMD_LANG_": "Mudar a linguagem do Bot no servidor",
+    "CMD_ROLE_": "Criar uma tag no Minecraft, para usuários verificados",
+    "CMD_AUTOPOST_": "Publicar automaticamente",
+    "CMD_ADD_": "Adicionar um servidor de Minecraft à lista de servidores",
+    "CMD_DEL_": "Retire um servidor de Minecraft à lista de servidores",
+    "CMD_SET_PREFIX_": "Defina um prefixo personalizado",
+    "CMD_RESET_PREFIX_": "Retitar o prefixo personalizado"
+  },
+  "Admin": {
+    "ENTER_IP_": "Insira um IP",
+    "NOT_ADMIN_": "Você não é um administrador do servidor",
+    "WANT_TRANSLATED_": "Quer traduzir o Bot para algum idioma? Me contate no Discord",
+    "LANG_SET_": "Idioma do Bot foi alterado para",
+    "PREFIX_SET_": "Prefixo do Bot foi alterado para",
+    "PREFIX_RESET_": "Prefixo personalizado foi retirado, use",
+    "WANT_TO_ADD_": "Você gostaria de adicionar um servidor? {0}/{1}",
+    "ENTER_NAME_": "Adicione um nome para o servidor",
+    "SERVER_ADDED_": "Servidor foi adicionado ao",
+    "SERVER_REMOVED_": "O servidor foi removido de",
+    "ALREADY_ADDED_": "Esse servidor já está listado",
+    "SELECT_NUMBER_": "Selecione um número",
+    "INVALID_NUMBER_": "Número inválido",
+    "TRANSLATORS_": "Tradutores",
+    "HAS_ROLE_": "Este servidores já tem tag no Minecraft",
+    "INVALID_CHANNEL_": "Canal inválido"
+  }
+}
