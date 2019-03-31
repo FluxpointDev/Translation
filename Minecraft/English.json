@@ -8,32 +8,32 @@
   },
 
   "Error": {
-    "API_ERROR_": "API Error",
-    "NO_LIST_": "This community has no servers listed",
-    "NOT_VOTED_": "You have not voted for the bot",
-    "PLAYER_NOT_FOUND_": "Player not found",
-    "PLAYER_NO_STATS_": "Player has no stats",
+    "API_ERROR_": "API Ewwow",
+    "NO_LIST_": "This communyity has nyo sewvews wisted",
+    "NOT_VOTED_": "You have nyot voted fow the bot",
+    "PLAYER_NOT_FOUND_": "Pwayew nyot founyd",
+    "PLAYER_NO_STATS_": "Pwayew has nyo stats",
     "NO_ATTACH_FILES_": "Bot does not have permission to Attach Files",
     "NO_MANAGE_ROLES_": "Bot does not have permission to Manage Roles",
     "NO_READ_MESSAGES_": "Bot does not have permission to Read Messages",
     "NO_SEND_MESSAGES_": "Bot does not have permission to Send Messages",
     "NO_EMBED_LINKS_": "Bot does not have permission to Embed Links",
-    "NOT_LINKED_": "User does not have a linked account"
+    "NOT_LINKED_": "Usew does nyot have a winyked accounyt"
   },
   "Ping": {
-    "CMD_JAVA_": "Ping a Minecraft server",
-    "CMD_PE_": "Ping a pocket edition server",
-    "CMD_FULL_": "Ping a Minecraft server with player list",
+    "CMD_JAVA_": "Pinyg a Minyecwaft sewvew",
+    "CMD_PE_": "Pinyg a pocket editiony sewvew",
+    "CMD_FULL_": "Pinyg a Minyecwaft sewvew with pwayew wist",
     "CMD_BANNER_": "Banner version of ping",
-    "WAIT_": "Please wait while i ping",
-    "NO_ENABLE_QUERY_": "Server does not have enable-query set in server.properties",
-    "INVALID_IP_": "Invalid IP address",
-    "INVALID_PORT_": "Invalid server port",
-    "ON_COOLDOWN_": "You are on cooldown for 1 minute",
-    "NO_PLAYERS_": "No players online"
+    "WAIT_": "Pwease wait whiwe i pinyg",
+    "NO_ENABLE_QUERY_": "Sewvew does nyot have enyabwe-quewy set iny sewvew.pwopewties",
+    "INVALID_IP_": "Inyvawid IP addwess",
+    "INVALID_PORT_": "Inyvawid sewvew powt",
+    "ON_COOLDOWN_": "You awe ony coowdowny fow 1 minyute",
+    "NO_PLAYERS_": "NYo pwayews onywinye"
   },
   "Help": {
-    "CMD_USER_": "Test User profile",
+    "CMD_USER_": "User profile",
     "CMD_VERIFY_": "Verify your Minecraft account",
     "CMD_BOT_": "Bot information",
     "CMD_QUIZ_": "Minecraft quiz",
@@ -55,45 +55,45 @@
     "FOOTER_": "There are some secret commands aswell"
   },
   "Main": {
-    "HAVE_ISSUES_": "If you have any issues please contact me on Discord",
+    "HAVE_ISSUES_": "If you have anyy issues pwease conytact me ony Discowd",
     "PLAYER_STATS_": "player stats",
     "GET_STATS_": "Get player stats from",
-    "STOLE_SKIN_": "You stole a skin",
-    "FOUND_HIDDEN_": "You found a secret command"
+    "STOLE_SKIN_": "You stowe a skiny",
+    "FOUND_HIDDEN_": "You founyd a secwet commanyd"
   },
   "User": {
-    "NOT_VERIFIED_": "This user has no verified Minecraft account use",
-    "LAST_PLAYED_": "Last played;",
+    "NOT_VERIFIED_": "This usew has nyo vewified Minyecwaft accounyt use",
+    "LAST_PLAYED_": "Wast pwayed",
     "BADGES_": "Badges",
     "BADGES_INFO_": "View badges with",
-    "NO_BADGES_": "You have no badges",
-    "INVALID_ID_": "Invalid user ID"
+    "NO_BADGES_": "You have nyo badges",
+    "INVALID_ID_": "Inyvawid usew ID"
   },
   "Badges": {
-    "OWNER_": "Owner of the bot",
-    "MOB_HUNTER_": "Expert knowledge of monsters",
-    "VOTED_": "Vote for the bot",
-    "TRANSLATOR_": "Helped translate the bot",
-    "VERIFIED_": "Has a verified Minecraft account",
-    "PLAYED_ON_": "Played on",
-    "HIDDEN_": "Some badges are hidden"
+    "OWNER_": "Ownyew of the bot",
+    "MOB_HUNTER_": "Expewt knyowwedge of monystews",
+    "VOTED_": "Vote fow the bot",
+    "TRANSLATOR_": "Hewped twanyswate the bot",
+    "VERIFIED_": "Has a vewified Minyecwaft accounyt",
+    "PLAYED_ON_": "Pwayed ony",
+    "HIDDEN_": "Some badges awe hiddeny"
   },
   "Get": {
     "HI_": "Hi",
-    "TEXT_LIMIT_": "Text cannot be more than 22 letters"
+    "TEXT_LIMIT_": "Text canynyot be mowe thany 22 wettews"
   },
   "Names": {
-    "FIRST_": "First",
-    "ONLY_ONE_": "Player only has one username"
+    "FIRST_": "Fiwst",
+    "ONLY_ONE_": "Pwayew onywy has onye usewnyame"
   },
   "Misc": {
-    "SOFTWARE_": "Software",
+    "SOFTWARE_": "Softwawe",
     "YES_": "Yes",
-    "NO_": "No",
-    "PLAYER_": "Player",
-    "PLAYERS_": "Players",
-    "ENABLED_": "Enabled",
-    "DISABLED_": "Disabled"
+    "NO_": "NYo",
+    "PLAYER_": "Pwayew",
+    "PLAYERS_": "Pwayews",
+    "ENABLED_": "Enyabwed",
+    "DISABLED_": "Disabwed"
   },
   "RconSetup": {
     "INFO_": "Allows Minecraft server owners to run commands from Discord with no plugins or mods needed",
@@ -154,33 +154,33 @@
     "CMD_ERROR_": "Could not execute command"
   },
   "Wiki": {
-    "UNKNOWN_ITEM_": "Unknown wiki item"
+    "UNKNOWN_ITEM_": "Unyknyowny wiki item"
   },
   "Version": {
-    "UNKNOWN_VERSION_": "Unknown Minecraft version",
-    "NO_CLIENT_MODS_": "No client mods available for this version",
-    "RELEASED_": "Released on",
-    "COMING_SOON_": "Coming soon",
-    "VERSIONS_": "Versions",
-    "RECOMMENDED_": "Recommended"
+    "UNKNOWN_VERSION_": "Unyknyowny Minyecwaft vewsiony",
+    "NO_CLIENT_MODS_": "NYo cwienyt mods avaiwabwe fow this vewsiony",
+    "RELEASED_": "Weweased ony",
+    "COMING_SOON_": "Cominyg soony",
+    "VERSIONS_": "Vewsionys",
+    "RECOMMENDED_": "Wecommenyded"
   },
   "Mob": {
     "ATTACK_": "Attack",
     "EASY_": "Easy",
-    "NORMAL_": "Normal",
-    "HARD_": "Hard",
-    "HEALTH_": "Health",
+    "NORMAL_": "NYowmaw",
+    "HARD_": "Hawd",
+    "HEALTH_": "Heawth",
     "HEIGHT_": "Height",
     "WIDTH_": "Width",
-    "BLOCKS_": "Blocks",
-    "UNKNOWN_": "Unknown"
+    "BLOCKS_": "Bwocks",
+    "UNKNOWN_": "Unyknyowny"
   },
   "Gallery": {
-    "BANNER_RANDOM_": "Get a random banner",
-    "BANNER_NAME_": "Get a banner by name",
-    "BANNER_UNKNOWN_": "Unknown banner name",
-    "ART_RANDOM_": "Get a random artwork",
-    "WALLPAPER_RANDOM_": "Get a random wallpaper"
+    "BANNER_RANDOM_": "Get a wanydom banynyew",
+    "BANNER_NAME_": "Get a banynyew by nyame",
+    "BANNER_UNKNOWN_": "Unyknyowny banynyew nyame",
+    "ART_RANDOM_": "Get a wanydom awtwowk",
+    "WALLPAPER_RANDOM_": "Get a wanydom wawwpapew"
   },
   "Verify": {
     "TITLE_": "Minecraft account verification",
