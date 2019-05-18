@@ -10,3 +10,5 @@ Current Translations
 
 # Want to translate?
 Contact me on my Discord or by friend request xXBuilderBXx#8265
+
+![Image](https://i.imgur.com/FgrdIAU.png)
