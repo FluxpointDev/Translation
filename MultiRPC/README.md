@@ -8,6 +8,7 @@ Current Translations
 - Spanish | jxvier#8604 | 304541381798658048
 - French | Koro~#0004 | 304541381798658048
 - Russian | !𝓩𝓲𝓵𝓵𝓪👽#9692 | 342146975065702400
+- Hungarian | SplitXPlayZ#2071 | 440475713523417088
 
 # Want to translate?
 Contact me on my Discord or by friend request xXBuilderBXx#8265
