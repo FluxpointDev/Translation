@@ -7,6 +7,7 @@ Current Translations
 - English (Main Language) | Azy#6477 | 277462722214363136
 - Spanish | jxvier#8604 | 304541381798658048
 - French | Koro~#0004 | 304541381798658048
+- Russian | !𝓩𝓲𝓵𝓵𝓪👽#9692 | 342146975065702400
 
 # Want to translate?
 Contact me on my Discord or by friend request xXBuilderBXx#8265
