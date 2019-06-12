@@ -1,6 +1,6 @@
 # Info
 
-This github is for translation work for my Discord bots. [Discord Server](https://discord.gg/susQ6XA)
+This github is for translation work for my Discord bots. Discord server https://discord.gg/TjF6QDC
 
 ### Projects
 - Minecraft (Discord Bot)
