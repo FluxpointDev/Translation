@@ -21,7 +21,7 @@
   },
   "Ping": {
     "CMD_JAVA_": "Ping a Minecraft server",
-    "CMD_PE_": "Ping a pocket edition server",
+    "CMD_PE_": "Ping a Bedrock edition server",
     "CMD_FULL_": "Ping a Minecraft server with player list",
     "CMD_BANNER_": "Banner version of ping",
     "WAIT_": "Please wait while i ping",
@@ -51,10 +51,10 @@
     "CMD_PLAYING_": "Users playing Minecraft",
     "CMD_ADMIN_": "Discord admin commands",
     "CMD_INVITE_": "Invite the bot",
-    "FOOTER_": "There are some secret commands aswell"
+    "FOOTER_": "There are some secret commands as well"
   },
   "Main": {
-    "HAVE_ISSUES_": "If you have any issues please contact me on Discord",
+    "HAVE_ISSUES_": "If you have any issues, please contact me on Discord",
     "PLAYER_STATS_": "player stats",
     "GET_STATS_": "Get player stats from",
     "STOLE_SKIN_": "You stole a skin",
@@ -95,7 +95,7 @@
     "DISABLED_": "Disabled"
   },
   "RconSetup": {
-    "INFO_": "Allows Minecraft server owners to run commands from Discord with no plugins or mods needed",
+    "INFO_": "Allows Minecraft server owners to run commands from Discord with no plugins or mods required",
     "INFO2_": "To get started use"
   },
   "Rcon": {
@@ -191,7 +191,7 @@
     "ALREADY_": "This player is already verified",
     "SERVER_DOWN_": "Verification server is down contact",
     "NOT_IN_SERVER_": "You are not in the server",
-    "THANKS_": "Thanks for using Minecraft bot you are now verified",
+    "THANKS_": "Thanks for using Minecraft bot - You are now verified",
     "FAILED_ROLE_": "Failed to give you the Minecraft role",
     "VERIFIED_": "Your Minecraft account has been verified",
     "GIVEN_ROLE_": "You were given the Minecraft role"
@@ -208,7 +208,7 @@
   "Admin": {
     "ENTER_IP_": "Enter an IP address",
     "NOT_ADMIN_": "You are not a server admin",
-    "WANT_TRANSLATED_": "Want a language translated? contact me on Discord",
+    "WANT_TRANSLATED_": "Want a language translated? Contact me on Discord",
     "LANG_SET_": "Community language set to",
     "PREFIX_SET_": "Custom prefix set to",
     "PREFIX_RESET_": "Custom prefix removed use",
