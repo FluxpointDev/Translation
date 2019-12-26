@@ -1,0 +1,83 @@
+{
+  "Core": {
+    "Perms": {
+      "add_reactions": "Reaktionen hinzufügen",
+      "administrator": "Administrator",
+      "attach_files": "Dateien anhängen",
+      "ban_members": "Mitglieder Bannen",
+      "change_nickname": "Nickname ändern",
+      "voice_connect": "Sprachchat verbinden",
+      "create_invite": "Einladung erstellen",
+      "voice_deafen_members": "Mitglieder taub schalten",
+      "embed_links": "Links einbetten",
+      "kick_members": "Mitglieder kicken",
+      "manage_channels": "Kanal verwalten",
+      "manage_emojis": "Emojis verwalten",
+      "manage_server": "Server verwalten",
+      "manage_messages": "Nachrichten verwalten",
+      "manage_nicknames": "Nicknamen verwalten",
+      "manage_roles": "Rollen verwalten",
+      "manage_webhooks": "Webhooks verwalten",
+      "mention_everyone": "Alle erwähnen",
+      "voice_move_members": "Mitglieder verschieben",
+      "voice_mute_members": "Mitglieder stumm schalten",
+      "voice_priority_speaker": "Sprachpriorität",
+      "read_message_history": "Nachrichtenverlauf lesen",
+      "read_channel": "Textkanäle sehen",
+      "view_channel": "Sprachkanäle sehen",
+      "send_messages": "Nachrichten senden",
+      "send_tts_message": "Text-zu-Sprache Nachrichten senden",
+      "voice_speak": "Sprechen",
+      "external_emojis": "Externe Emojis verwenden",
+      "voice_activity": "Sprachaktivierung verwenden",
+      "audit_log": "Audit Logs ansehen",
+      "go_live": "Live gehen"
+    },
+    "Errors": {
+      "private_only": "Dieser Befehl kann nur in Direktnachrichten verwendet werden. Sende einfach den Befehl an den Bot",
+      "nsfw_only": "Du musst einen NSFW-Kanal für diesen Befehl verwenden",
+      "nsfw_private_only": "Du musst einen Discord Server mit einem NSFW-Kanal für diesen Befehl verwenden. Lade den Bot ein mit",
+      "bot_no_perms": "Bot benötigt Server-Berechtigung für",
+      "bot_no_chan_perms": "Bot benötigt Kanal-Berechtigung für",
+      "user_no_perms": "Du benötigst Server-Berechtigungen für",
+      "user_no_chan_perms": "Du benötigst Kanal-Berechtigungen für"
+    },
+    "Misc": {
+      "support_links": "Support Links",
+      "discord_server": "Discord Server",
+      "bot_owner": "Bot Eigentümer",
+      "email": "E-Mail",
+      "yes": "Ja",
+      "no": "Nein",
+      "enabled": "Aktiviert",
+      "disabled": "Deaktiviert",
+      "website": "Webseite",
+      "twitter": "Twitter",
+      "add_bot": "Klick hier, um den Bot hinzuzufügen",
+      "visit_website": "Besuche die Fluxpoint Development Webseite für weitere informationen, Projekte und andere Service"
+    },
+    "Donator": {
+      "donate": "Spende",
+      "consider_donating": "Wenn du die Bots und Service von Fluxpoint Development geniesst, kannst du etwas spenden, um den Entwickler zu unterstützen und neue Features sowie neue Projekte zu verwirklichen",
+      "check_donating": "Für weitere Informationen übers Spenden und Perks die du erhalten kannst, siehe hier",
+      "donator_only": "Du musst ein Spender sein um diesen Befehl zu verwenden. Du kannst helfen diesen Bot und den Entwickler zu unterstützen durch verwenden von",
+      "yes": "Du bist ein Spender",
+      "yes_special": "Du bist ein Spezieller Benutzer",
+      "yes_server": "Dieser Server hat Spender aktiviert",
+      "yes_spserver": "Dies ist ein spezieller Server",
+      "no": "Du bist kein Spender",
+      "thanks": "Danke fürs Spenden und unterstützen von mir un meinen Projekten. Du hast nun zugang zu allen Spender-Perks in all meinen Bots und Service, welche du hier sehen kannst"
+    },
+    "CommandHandler": {
+      "invalid_args": "Ungültige Argumente",
+      "something_broke": "Etwas ging kaputt. Bitte melde dies durch verwenden von",
+      "missing_perms": "Vermisse Standart Berechtigungen",
+      "database_error": "Datenbankfehler",
+      "join_support": "Besuche den Discord Support-Server für weitere Informationen",
+      "maintenance": "Bot Wartung",
+      "disabled_cmd": "Dieser Befehl ist in diesem Server deaktiviert",
+      "disabled_mod": "Das Modul für diesen Befehl ist auf diesem Server deaktiviert",
+      "disabled_owner": "Befehl vom Bot Eigentümer deaktiviert"
+    }
+  }
+}
