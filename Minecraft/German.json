@@ -6,7 +6,6 @@
       "204232208049766400": "Andre_601#0601"
     }
   },
-
   "Error": {
     "API_ERROR_": "API Error",
     "NO_LIST_": "Diese Community hat keinen Server gelistet",
@@ -186,8 +185,8 @@
     "TITLE_": "Minecraft Account verifizierung",
     "INFO_": "Bestätige deinen Minecraft Account für coole Features und Rollen",
     "USERS_": "Bestätigte User",
-    "STEP1_": "Lade Minecraft 1.12.2",
-    "STEP2_": "Joine diesem Server",
+    "STEP1_": "Lade eine Minecraft Version zwischen 1.8 und 1.12",
+    "STEP2_": "Besuche diesen Server",
     "STEP3_": "Schreibe das in Discord",
     "ALREADY_": "Dieser Spieler ist bereits bestätigt",
     "SERVER_DOWN_": "Verifizierungs-Server ist offline. Kontaktiere",
