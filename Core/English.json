@@ -1,4 +1,5 @@
 {
+  "Name": "English",
   "Core": {
     "Perms": {
       "add_reactions": "Add Reactions",
@@ -72,11 +73,12 @@
       "invalid_args": "Invalid arguments",
       "something_broke": "Something broke please report this using",
       "missing_perms": "Missing basic permissions",
-      "database_error": "Database Error",
+      "database_error": "Database error",
       "join_support": "Join the Discord support server for more information",
-      "maintenance": "Bot Maintenance",
+      "maintenance": "Bot maintenance",
       "disabled_cmd": "That command is disabled in this server",
-      "disabled_mod": "The module for that command is disabled in this server",
+      "disabled_mod": "The module for this command is disabled in this server",
+      "disabled_nsfw": "Nsfw commands have been disabled in this server",
       "disabled_owner": "Command disabled by bot owner"
     }
   }
