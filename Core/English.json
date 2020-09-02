@@ -33,7 +33,7 @@
       "external_emojis": "Use External Emojis",
       "voice_activity": "Use Voice Activity",
       "audit_log": "View Audit Log",
-      "go_live": "Go Live"
+      "video": "Video"
     },
     "Errors": {
       "private_only": "This command can only be used in private messages, just message the bot with the same command.",
