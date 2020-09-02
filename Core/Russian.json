@@ -33,6 +33,7 @@
       "external_emojis": "Использовать внешние эмодзи",
       "voice_activity": "Использовать режим активации по голосу",
       "audit_log": "Просматривать журнал аудита",
+	  
       "video": "Video"
     },
     "Errors": {
@@ -42,13 +43,14 @@
       "bot_no_perms": "Боту нужны права",
       "bot_no_chan_perms": "Боту нужны права канала",
       "user_no_perms": "Вам нужны права сервера",
-      "user_no_chan_perms": "Вам нужны права канала"
+      "user_no_chan_perms": "Вам нужны права канала",
+	  
+      "invalid_number": "Invalid number."
     },
     "Misc": {
       "support_links": "Помощь",
       "discord_server": "Discord сервер",
       "bot_owner": "Владелец бота",
-      "email": "Email",
       "yes": "Да",
       "no": "Нет",
       "enabled": "Включена",
@@ -56,12 +58,18 @@
       "website": "Сайт",
       "twitter": "Twitter",
       "add_bot": "Нажмите здесь, чтобы добавить бота",
-      "visit_website": "Зайдите на сайт Fluxpoint Development для большей информации о проектах и помощи по ним"
+      "visit_website": "Зайдите на сайт Fluxpoint Development для большей информации о проектах и помощи по ним",
+	  
+	  "email": "Email",
+      "version": "Version",
+      "test": "Test",
+      "client": "Client",
+      "shard": "Shard"
     },
     "Donator": {
       "donate": "Пожертвовать",
-      "consider_donating": "Если вам нравятся боты и сервисы Fluxpoint Development, вы можете сделать пожертвование разработчику для их поддержки и финансировать новых функции и будущие проектов, которые мы могли бы выпустить",
-      "check_donating": "Для большей информации о пожертвованиях и какие возможности за это вы получите, можно увидеть здесь",
+	    "consider_donating": "Если вам нравятся боты и сервисы Fluxpoint Development, вы можете сделать пожертвование разработчику для их поддержки и финансировать новых функции и будущие проектов, которые мы могли бы выпустить",
+	    "check_donating": "Для большей информации о пожертвованиях и какие возможности за это вы получите, можно увидеть здесь",
       "donator_only": "Вы должны быть донатером, чтобы использовать эту команду, вы можете поддержать бота и разработчика, при помощи",
       "yes": "Вы донатер",
       "yes_special": "Вы специальный пользователь",
@@ -69,6 +77,14 @@
       "yes_spserver": "Это специальный сервер",
       "no": "Вы не донатер",
       "thanks": "Спасибо за пожертвование и поддержку меня и моих проектов, теперь у вас есть доступ к возможностям для донатеров у всех моих ботов и сервисах, полный список которых вы можете увидеть здесь"
+	  
+      "howto_donate": "How to donate",
+      "onetime": "One-time",
+      "patreon_tip": "You will keep donator if your first Patreon donation is successful.",
+      "boost_tip": "Boost our Discord server for temp donator perks.",
+      "monthly": "Monthly",
+      "more_info": "More info"
+      
     },
     "CommandHandler": {
       "invalid_args": "Неверный аргумент",
@@ -79,7 +95,27 @@
       "maintenance": "Тех. перерыв",
       "disabled_cmd": "Эта команда отключена на сервере",
       "disabled_mod": "Этот модуль или команда отключены на сервере",
-      "disabled_owner": "Команда отключена владельцем"
+      "disabled_owner": "Команда отключена владельцем",
+	  
+	    "disabled_nsfw": "Nsfw commands have been disabled in this server.",
+    },
+    "Language": {
+      "change_language": "Change server language",
+      "current": "Current language",
+      "full": "Full translation",
+      "partial": "Partial translation",
+      "change_info": "Users with manage server permission can change the server language.",
+      "invalid_language": "Invalid language selected.",
+      "changed": "Server language has been changed.",
+      "changed_partial": "This language translation is not fully complete."
+    },
+    "Config": {
+      "set_prefix": "Set the server prefix",
+      "no_prefix": "This server does not have a custom prefix set.",
+      "prefix_limit": "Custom prefix can only be 30 characters long.",
+      "prefix_set": "Custom server prefix has been set to",
+      "prefix_tip": "You can still use the default prefix or mention the bot.",
+      "prefix_reset": "Server prefix has been reset."
     }
   }
 }
