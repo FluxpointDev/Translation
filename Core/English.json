@@ -36,13 +36,14 @@
       "go_live": "Go Live"
     },
     "Errors": {
-      "private_only": "This command can only be used in private messages, just message the bot with the same command",
-      "nsfw_only": "You need to use an nsfw channel for this command",
+      "private_only": "This command can only be used in private messages, just message the bot with the same command.",
+      "nsfw_only": "You need to use an nsfw channel for this command.",
       "nsfw_private_only": "You need to use a Discord server with an nsfw channel for this command, invite the bot using",
       "bot_no_perms": "Bot requires server permissions for",
       "bot_no_chan_perms": "Bot required channel permissions for",
       "user_no_perms": "You require server permissions for",
-      "user_no_chan_perms": "You require channel permissions for"
+      "user_no_chan_perms": "You require channel permissions for",
+      "invalid_number": "Invalid number."
     },
     "Misc": {
       "support_links": "Support Links",
@@ -56,12 +57,22 @@
       "website": "Website",
       "twitter": "Twitter",
       "add_bot": "Click here to add this bot",
-      "visit_website": "Visit the Fluxpoint Development website for more information, projects and other services"
+      "visit_website": "Visit the Fluxpoint Development website for more information, projects and other services.",
+      "version": "Version",
+      "test": "Test",
+      "client": "Client",
+      "shard": "Shard"
     },
     "Donator": {
       "donate": "Donate",
-      "consider_donating": "If you enjoy Fluxpoint Development bots and services you can donate to help support the developer and to fund new features and upcoming projects we might release",
-      "check_donating": "For more information about donating and the perks you can get see here",
+      "howto_donate": "How to donate",
+      "onetime": "One-time",
+      "patreon_tip": "You will keep donator if your first Patreon donation is successful.",
+      "boost_tip": "Boost our Discord server for temp donator perks.",
+      "monthly": "Monthly",
+      "consider_donating": "If you enjoy Fluxpoint Development bots and services you can donate to help support the developer and to fund new features and upcoming projects we might release.",
+      "more_info": "More info",
+      "check_donating": "For more information about donating and the perks you can get see here.",
       "donator_only": "You need to be a donator to use this command, you can help support the bot and developer using",
       "yes": "You are a donator",
       "yes_special": "You are a special user",
@@ -71,16 +82,34 @@
       "thanks": "Thanks for donating and supporting me and my projects, you now have access to donator perks on all bots and services which you can see here"
     },
     "CommandHandler": {
-      "invalid_args": "Invalid arguments",
+      "invalid_args": "Invalid arguments.",
       "something_broke": "Something broke please report this using",
       "missing_perms": "Missing basic permissions",
       "database_error": "Database error",
-      "join_support": "Join the Discord support server for more information",
+      "join_support": "Join the Discord support server for more information.",
       "maintenance": "Bot maintenance",
-      "disabled_cmd": "That command is disabled in this server",
-      "disabled_mod": "The module for this command is disabled in this server",
-      "disabled_nsfw": "Nsfw commands have been disabled in this server",
-      "disabled_owner": "Command disabled by bot owner"
+      "disabled_cmd": "That command is disabled in this server.",
+      "disabled_mod": "The module for this command is disabled in this server.",
+      "disabled_nsfw": "Nsfw commands have been disabled in this server.",
+      "disabled_owner": "Command disabled by bot owner."
+    },
+    "Language": {
+      "change_language": "Change server language",
+      "current": "Current language",
+      "full": "Full translation",
+      "partial": "Partial translation",
+      "change_info": "Users with manage server permission can change the server language.",
+      "invalid_language": "Invalid language selected.",
+      "changed": "Server language has been changed.",
+      "changed_partial": "This language translation is not fully complete."
+    },
+    "Config": {
+      "set_prefix": "Set the server prefix",
+      "no_prefix": "This server does not have a custom prefix set.",
+      "prefix_limit": "Custom prefix can only be 30 characters long.",
+      "prefix_set": "Custom server prefix has been set to",
+      "prefix_tip": "You can still use the default prefix or mention the bot.",
+      "prefix_reset": "Server prefix has been reset."
     }
   }
 }
