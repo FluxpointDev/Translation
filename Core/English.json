@@ -1,5 +1,6 @@
 {
   "Name": "English",
+  "Flag": ":flag_gb:",
   "Core": {
     "Perms": {
       "add_reactions": "Add Reactions",
