@@ -1,5 +1,6 @@
 {
   "Name": "Russian",
+  "Flag": ":flag_ru:",
   "Core": {
     "Perms": {
       "add_reactions": "Добавления реакций",
