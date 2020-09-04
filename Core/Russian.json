@@ -34,7 +34,7 @@
       "voice_activity": "Использовать режим активации по голосу",
       "audit_log": "Просматривать журнал аудита",
 	  
-      "video": "Video"
+      "video": "Видео"
     },
     "Errors": {
       "private_only": "Эту команду можно использовать только в личных сообщениях, отправьте личное сообщение боту c этой же командой",
@@ -45,7 +45,7 @@
       "user_no_perms": "Вам нужны права сервера",
       "user_no_chan_perms": "Вам нужны права канала",
 	  
-      "invalid_number": "Invalid number."
+      "invalid_number": "Неверный номер."
     },
     "Misc": {
       "support_links": "Помощь",
@@ -61,10 +61,10 @@
       "visit_website": "Зайдите на сайт Fluxpoint Development для большей информации о проектах и помощи по ним",
 	  
       "email": "Email",
-      "version": "Version",
-      "test": "Test",
-      "client": "Client",
-      "shard": "Shard"
+      "version": "Версия",
+      "test": "Тест",
+      "client": "Клиент",
+      "shard": "Шард"
     },
     "Donator": {
       "donate": "Пожертвовать",
@@ -78,12 +78,12 @@
       "no": "Вы не донатер",
       "thanks": "Спасибо за пожертвование и поддержку меня и моих проектов, теперь у вас есть доступ к возможностям для донатеров у всех моих ботов и сервисах, полный список которых вы можете увидеть здесь",
 	  
-      "howto_donate": "How to donate",
-      "onetime": "One-time",
-      "patreon_tip": "You will keep donator if your first Patreon donation is successful.",
-      "boost_tip": "Boost our Discord server for temp donator perks.",
-      "monthly": "Monthly",
-      "more_info": "More info"
+      "howto_donate": "Как пожертвовать",
+      "onetime": "Один раз",
+      "patreon_tip": "Вы продолжите быть донатером, если ваше первое пожертвование на Patreon будет успешным.",
+      "boost_tip": "Улучшите свой Discord сервер с временными привилегиями.",
+      "monthly": "Ежемесячно",
+      "more_info": "Больше информации"
       
     },
     "CommandHandler": {
@@ -97,25 +97,25 @@
       "disabled_mod": "Этот модуль или команда отключены на сервере",
       "disabled_owner": "Команда отключена владельцем",
 	  
-      "disabled_nsfw": "Nsfw commands have been disabled in this server.",
+      "disabled_nsfw": "Nsfw команды отключены на этом сервере.",
     },
     "Language": {
-      "change_language": "Change server language",
-      "current": "Current language",
-      "full": "Full translation",
-      "partial": "Partial translation",
-      "change_info": "Users with manage server permission can change the server language.",
-      "invalid_language": "Invalid language selected.",
-      "changed": "Server language has been changed.",
-      "changed_partial": "This language translation is not fully complete."
+      "change_language": "Изменить язык сервера",
+      "current": "Текуший язык",
+      "full": "Полный перевод",
+      "partial": "Частичный перевод",
+      "change_info": "Изменять язык могут только пользователи с правом управления сервером.",
+      "invalid_language": "Выбран неверный язык.",
+      "changed": "Язык сервера успешно изменён.",
+      "changed_partial": "Этот перевод неполный."
     },
     "Config": {
-      "set_prefix": "Set the server prefix",
-      "no_prefix": "This server does not have a custom prefix set.",
-      "prefix_limit": "Custom prefix can only be 30 characters long.",
-      "prefix_set": "Custom server prefix has been set to",
-      "prefix_tip": "You can still use the default prefix or mention the bot.",
-      "prefix_reset": "Server prefix has been reset."
+      "set_prefix": "Установить префикс сервера",
+      "no_prefix": "На этом сервере используется префик по-умолчанию.",
+      "prefix_limit": "Длинна префикса не может быть больше 30 символов.",
+      "prefix_set": "Префикс сервера установлен на",
+      "prefix_tip": "Вы можете продолжать использовать префикс по-умолчанию или упоминание бота.",
+      "prefix_reset": "Префикс сервера сброшен."
     }
   }
 }
