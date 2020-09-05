@@ -1,0 +1,204 @@
+{
+  "Commands": {
+    "Admin": {
+      "add_server": "Add a Minecraft server to the list",
+      "autopost": "Auto post your Minecraft server status",
+      "remove_server": "Remove a Minecraft server from the list",
+      "create_role": "Create a Minecraft role for verified users",
+      "not_admin": "You are not a server admin",
+      "enter_ip": "Enter an IP address",
+      "enter_name": "Enter a name for the server",
+      "already_added": "This server is already listed on",
+      "server_added": "Server has been added to",
+      "server_removed": "Server has been removed from",
+      "select_number": "Select a number",
+      "has_role": "This server already has a Minecraft role",
+      "invalid_channel": "Invalid channel"
+    },
+    "Badges": {
+      "owner": "Owner of the bot",
+      "mob_hunter": "Expert knowledge of monsters",
+      "translator": "Helped translate the bot",
+      "verified": "Has a verified Minecraft account",
+      "voted": "Vote for the bot",
+      "played": "Played on",
+      "hidden": "Some badges are hidden"
+    },
+    "Get": {
+      "text_limit": "Text cannot be more than 22 letters",
+      "hi": "Hi"
+    },
+    "Help": {
+      "user": "User profile",
+      "verify": "Verify your Minecraft account",
+      "bot": "Bot information",
+      "color": "Minecraft color codes",
+      "quiz": "Minecraft quiz",
+      "list": "Community servers",
+      "uuid": "Get a players UUID",
+      "skin": "Get a players skin",
+      "name": "Get a players name history",
+      "get": "Get a Minecraft achievement",
+      "changelog": "Latest Minecraft version",
+      "gallery": "Banners and artwork",
+      "version": "Version information",
+      "rcon": "Remote console for your Minecraft server",
+      "playing": "Users playing Minecraft",
+      "wiki": "Full Minecraft guide",
+      "admin": "Discord admin commands",
+      "invite": "Invite the bot",
+      "footer": "There are some secret commands aswell",
+      "multimc": "allows you to manage and load different Minecraft versions with easy mod installation"
+    },
+    "Main": {
+      "have_issues": "If you have any issues please contact me on Discord",
+      "player_stats": "player stats",
+      "get_stats": "Get player stats from",
+      "stole_skin": "You stole a skin",
+      "found_hidden": "You found a secret command"
+    },
+    "Names": {
+      "only_one": "Player only has one username",
+      "first": "First"
+    },
+    "Ping": {
+      "java": "Ping a Minecraft server",
+      "pe": "Ping a pocket edition server",
+      "full": "Ping a Minecraft server with player list",
+      "banner": "Banner version of ping",
+      "wait": "Please wait while i ping",
+      "no_query": "Server does not have enable-query set in server.properties",
+      "invalid_ip": "Invalid IP address",
+      "invalid_port": "Invalid server port",
+      "on_cooldown": "You are on cooldown for 1 minute",
+      "no_players": "No players online"
+    },
+    "User": {
+      "not_verified": "This user has no verified Minecraft account use",
+      "last_played": "Last played",
+      "badges": "Badges",
+      "badges_info": "View badges with",
+      "no_badges": "You have no badges",
+      "invalid_id": "Invalid user ID"
+    },
+    "Verify": {
+      "title": "Minecraft account verification",
+      "info": "Verify your Minecraft account for cool features and roles",
+      "step1": "Load Minecraft",
+      "step2": "Join this server",
+      "step3": "Type this in Discord",
+      "already_verified": "This player is already verified",
+      "failed_role": "Failed to give you the Minecraft role",
+      "verified": "Your Minecraft account has been verified",
+      "given_role": "You were given the Minecraft role",
+      "not_in_server": "You are not in the server",
+      "server_down": "Verification server is down contact",
+      "thanks": "Thanks for using Minecraft bot you are now verified",
+      "users": "Verified users"
+    }
+  },
+  "Error": {
+    "api_error": "API Error",
+    "no_list": "This community has no servers listed",
+    "not_voted": "You have not voted for the bot",
+    "player_not_found": "Player not found",
+    "account_not_linked": "User does not have a linked account",
+    "player_no_stats": "Player has no stats"
+  },
+  "Misc": {
+    "software": "Software",
+    "player": "Player",
+    "players": "Players"
+  },
+  "Rcon": {
+    "Access": {
+      "info": "Allow other users to use remote console commands",
+      "blacklisted": "Some commands are blacklisted by default",
+      "owner_access": "Full access to commands and config",
+      "admin_access": "Access to commands that are not blacklisted",
+      "mod_access": "Access to ban, unban and kick commands only",
+      "select_role": "Select a role for the user",
+      "unknown_role": "Unknown role selected",
+      "given_access": "User has been given remote console access",
+      "add_already": "This user already has access",
+      "remove_already": "This user does not have access",
+      "remove_main_owner": "You cannot remove the main owner",
+      "remove_owner": "You cannot remove an owner",
+      "removed": "User has been removed from remote console access"
+    },
+    "Blacklist": {
+      "info": "Only owners can use blacklisted commands",
+      "already_blacklisted": "This command is already blacklisted",
+      "no_blacklist": "No commands are blacklisted",
+      "not_blacklisted": "This command is not blacklisted",
+      "blacklist_add": "Command has been added to the blacklist",
+      "blacklist_remove": "Command has been removed from the blacklist"
+    },
+    "Commands": {
+      "config": "View the remote console config",
+      "blacklist": "Blacklist commands to owner only",
+      "access": "Give other users access",
+      "enable": "Enable remote console",
+      "disable": "Disable remote console",
+      "fix": "Attempt to fix the remote console",
+      "reset": "Delete the remote console config"
+    },
+    "Error": {
+      "not_setup": "Remote console has not been setup use",
+      "no_access": "You do not have remote console access",
+      "not_main_owner": "Only the main owner can use this",
+      "not_owner": "Only an owner can use this",
+      "not_admin": "Only an admin can use this",
+      "blacklisted": "Command is blacklisted, only the owner can run it",
+      "already_connected": "Remote console is already connected",
+      "cmd_error": "Could not execute command",
+      "wrong_password": "Remote console password is wrong",
+      "rcon_wait": "Remote console is already connecting please wait"
+    },
+    "Info": {
+      "title": "Remote console",
+      "info": "Run Minecraft server commands using",
+      "executed": "Command executed",
+      "enabled": "Remote console has been enabled",
+      "disabled": "Remote console has been disabled",
+      "fix": "Attempting to fix remote console connection",
+      "reset_done": "To confirm reset please use",
+      "reset_confirm": "Remote console config has been deleted"
+    },
+    "Setup": {
+      "info": "Allows Minecraft server owners to run commands from Discord with no plugins or mods needed",
+      "info2": "To get started use"
+    }
+  },
+  "Wiki": {
+    "Gallery": {
+      "banner_random": "Get a random banner",
+      "banner_name": "Get a banner by name",
+      "banner_unknown": "Unknown banner name",
+      "art_random": "Get a random artwork",
+      "wallpaper_random": "Get a random wallpaper"
+    },
+    "Mobs": {
+      "attack": "Attack",
+      "easy": "Easy",
+      "normal": "Normal",
+      "hard": "Hard",
+      "health": "Health",
+      "height": "Height",
+      "width": "Width",
+      "blocks": "Blocks",
+      "unknown": "Unknown"
+    },
+    "Version": {
+      "unknown_version": "Unknown Minecraft version",
+      "no_client_mods": "No client mods available for this version",
+      "released": "Released on",
+      "coming_soon": "Coming soon",
+      "versions": "Versions",
+      "recommended": "Recommended"
+    },
+    "Info": {
+      "unknown_item": "Unknown wiki item"
+    }
+  }
+}
