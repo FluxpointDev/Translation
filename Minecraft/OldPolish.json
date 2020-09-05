@@ -9,15 +9,15 @@
 
   "Error": {
     "API_ERROR_": "Blad interfejsu API",
-    "NO_LIST_": "Ta spolecznosc nie ma wymienionych serwerÛw",
+    "NO_LIST_": "Ta spolecznosc nie ma wymienionych serwer√≥w",
     "NOT_VOTED_": "Nie zaglosowales na bota",
     "PLAYER_NOT_FOUND_": "Gracz nie znaleziony",
     "PLAYER_NO_STATS_": "Gracz nie ma statystk",
-    "NO_ATTACH_FILES_": "Bot nie ma uprawnien do dolaczania plikÛw",
+    "NO_ATTACH_FILES_": "Bot nie ma uprawnien do dolaczania plik√≥w",
     "NO_MANAGE_ROLES_": "Bot nie ma uprawnien do zarzadzania rolami",
     "NO_READ_MESSAGES_": "Bot nie ma uprawnien do czytania wiadomosci",
     "NO_SEND_MESSAGES_": "Bot nie ma uprawnien do wysylania wiadomosci",
-    "NO_EMBED_LINKS_": "Bot nie ma uprawnien do umieszczania linkÛw",
+    "NO_EMBED_LINKS_": "Bot nie ma uprawnien do umieszczania link√≥w",
     "NOT_LINKED_": "Uzytkownik nie ma polaczonego konta"
   },
   "Ping": {
@@ -40,8 +40,8 @@
     "CMD_COLOR_": "Kody Koloru Minecraft",
     "CMD_LIST_": "Serwery spolecznosci",
     "CMD_UUID_": "Zdobadz UUID graczy",
-    "MULTI_MC_": "Pozwala zarzadzac i ladowac rÛzne wersje Minecrafta z latwa instalacja modÛw",
-    "CMD_SKIN_": "Uzyskaj skÛrke graczy",
+    "MULTI_MC_": "Pozwala zarzadzac i ladowac r√≥zne wersje Minecrafta z latwa instalacja mod√≥w",
+    "CMD_SKIN_": "Uzyskaj sk√≥rke graczy",
     "CMD_NAME_": "Zdobadz historie nazw graczy",
     "CMD_GET_": "Zdobadz osiagniecie w Minecrafcie",
     "CMD_CHANGELOG_": "Najnowsza wersja Minecrafta",
@@ -52,13 +52,13 @@
     "CMD_PLAYING_": "Uzytkownicy grajacy w Minecrafta",
     "CMD_ADMIN_": "Discord komendy admina",
     "CMD_INVITE_": "Zapros bota",
-    "FOOTER_": "Istnieje rÛwniez kilka tajnych komend"
+    "FOOTER_": "Istnieje r√≥wniez kilka tajnych komend"
   },
   "Main": {
     "HAVE_ISSUES_": "Jesli masz jakies problemy, skontaktuj sie ze mna na Discordzie",
     "PLAYER_STATS_": "statystyki gracza",
     "GET_STATS_": "Uzyskaj statystyki gracza od",
-    "STOLE_SKIN_": "Ukradles skÛre",
+    "STOLE_SKIN_": "Ukradles sk√≥re",
     "FOUND_HIDDEN_": "Znalazles tajna komende"
   },
   "User": {
@@ -71,20 +71,20 @@
   },
   "Badges": {
     "OWNER_": "Wlasciciel bota",
-    "MOB_HUNTER_": "Ekspertowa wiedza na temat potworÛw",
+    "MOB_HUNTER_": "Ekspertowa wiedza na temat potwor√≥w",
     "VOTED_": "Glosuj na bota",
     "TRANSLATOR_": "Pomogli przetlumaczyc bota",
     "VERIFIED_": "Ma zweryfikowane konto Minecraft",
     "PLAYED_ON_": "Zagrano",
-    "HIDDEN_": "NiektÛre odznaki sa ukryte"
+    "HIDDEN_": "Niekt√≥re odznaki sa ukryte"
   },
   "Get": {
-    "HI_": "CzeúÊ",
-    "TEXT_LIMIT_": "Tekst nie moøe byÊ wiecej niø 22 Liter"
+    "HI_": "Cze≈õƒá",
+    "TEXT_LIMIT_": "Tekst nie mo≈ºe byƒá wiecej ni≈º 22 Liter"
   },
   "Names": {
     "FIRST_": "Pierwsze",
-    "ONLY_ONE_": "Gracz ma tylko jednπ nazwe uøytkownika"
+    "ONLY_ONE_": "Gracz ma tylko jednƒÖ nazwe u≈ºytkownika"
   },
   "Misc": {
     "SOFTWARE_": "Oprogramowanie",
@@ -92,35 +92,35 @@
     "NO_": "Nie",
     "PLAYER_": "Gracz",
     "PLAYERS_": "Gracze",
-    "ENABLED_": "W≥πczone",
-    "DISABLED_": "Wy≥πczone"
+    "ENABLED_": "W≈ÇƒÖczone",
+    "DISABLED_": "Wy≈ÇƒÖczone"
   },
   "RconSetup": {
-    "INFO_": "Zezwala wlascicielom serwerÛw Minecraft na uruchamianie polecen z Discord bez uzycia wtyczek i modÛw",
-    "INFO2_": "Aby ZaczπÊ Uøyj"
+    "INFO_": "Zezwala wlascicielom serwer√≥w Minecraft na uruchamianie polecen z Discord bez uzycia wtyczek i mod√≥w",
+    "INFO2_": "Aby ZaczƒÖƒá U≈ºyj"
   },
   "Rcon": {
     "TITLE_": "Zdalna Konsola",
-    "INFO_": "Uruchamiaj polecenia serwera Minecraft za pomocπ",
+    "INFO_": "Uruchamiaj polecenia serwera Minecraft za pomocƒÖ",
     "EXECUTED_": "Kommenda Wykonana",
-    "ENABLED_": "Zdalna konsola zosta≥a w≥πczona",
-    "DISABLED_": "Zdalna konsola zosta≥a wy≥πczona ",
-    "FIX_ATTEMPT_": "PrÛba naprawienia po≥πczenia z konsolπ zdalnπ",
-    "RESET_CONFIRM_": "Aby potwierdzic reset prosze uøyj",
-    "RESET_": "Config zdalnej konsoli zosta≥ usuniety"
+    "ENABLED_": "Zdalna konsola zosta≈Ça w≈ÇƒÖczona",
+    "DISABLED_": "Zdalna konsola zosta≈Ça wy≈ÇƒÖczona ",
+    "FIX_ATTEMPT_": "Pr√≥ba naprawienia po≈ÇƒÖczenia z konsolƒÖ zdalnƒÖ",
+    "RESET_CONFIRM_": "Aby potwierdzic reset prosze u≈ºyj",
+    "RESET_": "Config zdalnej konsoli zosta≈Ç usuniety"
   },
   "RconAccess": {
     "ADD_ALREADY_": "Ten uzytkownik ma juz dostep",
-    "WARN_": "NiektÛre komendy sa domyslnie umieszczone na czarnej liscie",
+    "WARN_": "Niekt√≥re komendy sa domyslnie umieszczone na czarnej liscie",
     "OWNER_": "Pelny dostep do komend i konfiguracji",
-    "ADMIN_": "Dostep do komend, ktÛre nie sa umieszczone na czarnej liscie",
+    "ADMIN_": "Dostep do komend, kt√≥re nie sa umieszczone na czarnej liscie",
     "MOD_": "Dostep tylko do komend ban, unban i kick",
-    "INFO_": "ZezwÛl innym uzytkownikom na uzywanie komend konsoli zdalnego sterowania",
+    "INFO_": "Zezw√≥l innym uzytkownikom na uzywanie komend konsoli zdalnego sterowania",
     "SELECT_ROLE_": "Wybierz role dla uzytkownika",
     "UNKNOWN_ROLE_": "Wybrano nieznana role",
     "GIVEN_": "Uzytkownik otrzymal zdalny dostep do konsoli",
     "REMOVE_ALREADY_": "Ten uzytkownik nie ma dostepu",
-    "REMOVE_MAIN_OWNER_": "Nie mozesz usunac glÛwnego wlasciciela",
+    "REMOVE_MAIN_OWNER_": "Nie mozesz usunac gl√≥wnego wlasciciela",
     "REMOVE_OWNER_": "Nie mozesz usunac wlasciciela",
     "REMOVED_": "Uzytkownik zostal usuniety z dostepu do zdalnej konsoli"
   },
@@ -134,94 +134,94 @@
   },
   "RconCmd": {
     "CONFIG_": "Zobacz config zdalnej konsoli",
-    "BLACKLIST_": "Czarna lista kommend tylko do w≥aúciciela",
-    "ACCESS_": "Daj innym uøytkownikom dostÍp",
-    "ENABLE_": "W≥πcz zdalnπ konsolÍ",
-    "DISABLE_": "Wy≥πcz zdalnπ konsolÍ",
-    "FIX_": "SprÛbuj naprawic zdalna konsole",
+    "BLACKLIST_": "Czarna lista kommend tylko do w≈Ça≈õciciela",
+    "ACCESS_": "Daj innym u≈ºytkownikom dostƒôp",
+    "ENABLE_": "W≈ÇƒÖcz zdalnƒÖ konsolƒô",
+    "DISABLE_": "Wy≈ÇƒÖcz zdalnƒÖ konsolƒô",
+    "FIX_": "Spr√≥buj naprawic zdalna konsole",
     "RESET_": "Usun konfiguracje konsoli zdalnej"
   },
   "RconError": {
-    "NOT_SETUP_": "Zdalna konsola nie zosta≥a skonfigurowana uøyj",
-    "NO_ACCESS_": "Nie masz dostÍpu do zdalnej konsoli",
-    "BLACKLISTED_": "Kommenda jest na czarnej liúcie, tylko w≥aúciciel moøe uruchomic kommende",
-    "NOT_MAIN_OWNER_": "Tylko g≥Ûwny w≥aúciciel moøe z tego korzystaÊ",
-    "NOT_OWNER_": "Tylko w≥aúciciel moøe tego uøyc",
-    "NOT_ADMIN_": "Tylko admin moøe tego uøyc",
-    "ALREADY_CONNECTED_": "Zdalna konsola jest juz po≥πczona",
-    "RCON_WAIT_": "Zdalna konsola siÍ juz po≥acza prosze czekaÊ",
-    "WRONG_PASSWORD_": "Has≥o do zdalnej konsoli jest niepoprawne",
-    "CMD_ERROR_": "Nie moøna wykonaÊ polecenia"
+    "NOT_SETUP_": "Zdalna konsola nie zosta≈Ça skonfigurowana u≈ºyj",
+    "NO_ACCESS_": "Nie masz dostƒôpu do zdalnej konsoli",
+    "BLACKLISTED_": "Kommenda jest na czarnej li≈õcie, tylko w≈Ça≈õciciel mo≈ºe uruchomic kommende",
+    "NOT_MAIN_OWNER_": "Tylko g≈Ç√≥wny w≈Ça≈õciciel mo≈ºe z tego korzystaƒá",
+    "NOT_OWNER_": "Tylko w≈Ça≈õciciel mo≈ºe tego u≈ºyc",
+    "NOT_ADMIN_": "Tylko admin mo≈ºe tego u≈ºyc",
+    "ALREADY_CONNECTED_": "Zdalna konsola jest juz po≈ÇƒÖczona",
+    "RCON_WAIT_": "Zdalna konsola siƒô juz po≈Çacza prosze czekaƒá",
+    "WRONG_PASSWORD_": "Has≈Ço do zdalnej konsoli jest niepoprawne",
+    "CMD_ERROR_": "Nie mo≈ºna wykonaƒá polecenia"
   },
   "Wiki": {
     "UNKNOWN_ITEM_": "Nieznany element wiki"
   },
   "Version": {
     "UNKNOWN_VERSION_": "Nieznana wersja Minecrafta",
-    "NO_CLIENT_MODS_": "Brak dostÍpnych modÛw klienta dla tej wersji",
+    "NO_CLIENT_MODS_": "Brak dostƒôpnych mod√≥w klienta dla tej wersji",
     "RELEASED_": "Wydane w dniu",
-    "COMING_SOON_": "WkrÛtce",
+    "COMING_SOON_": "Wkr√≥tce",
     "VERSIONS_": "Wersje",
     "RECOMMENDED_": "Rekomendowane"
   },
   "Mob": {
     "ATTACK_": "Atak",
-    "EASY_": "£atwy",
-    "NORMAL_": "åredni",
+    "EASY_": "≈Åatwy",
+    "NORMAL_": "≈öredni",
     "HARD_": "Trudny",
-    "HEALTH_": "Øycie",
-    "HEIGHT_": "WysokoúÊ",
-    "WIDTH_": "SzerokoúÊ",
+    "HEALTH_": "≈ªycie",
+    "HEIGHT_": "Wysoko≈õƒá",
+    "WIDTH_": "Szeroko≈õƒá",
     "BLOCKS_": "Bloki",
     "UNKNOWN_": "Nieznany"
   },
   "Gallery": {
-    "BANNER_RANDOM_": "Zdobπdø randomowy baner",
-    "BANNER_NAME_": "Zdobπdø baner po imieniu",
+    "BANNER_RANDOM_": "ZdobƒÖd≈º randomowy baner",
+    "BANNER_NAME_": "ZdobƒÖd≈º baner po imieniu",
     "BANNER_UNKNOWN_": "Nieznana nazwa banera",
-    "ART_RANDOM_": "Zdobπdø losowπ grafikÍ",
-    "WALLPAPER_RANDOM_": "Zdobπdø losowπ tapetÍ"
+    "ART_RANDOM_": "ZdobƒÖd≈º losowƒÖ grafikƒô",
+    "WALLPAPER_RANDOM_": "ZdobƒÖd≈º losowƒÖ tapetƒô"
   },
   "Verify": {
     "TITLE_": "Weryfikacja Konta Minecraft",
-    "INFO_": "Zweryfikuj twoje konto Minecraft aby dostaÊ fajne funkcje i role",
-    "USERS_": "Zweryfikowani uøytkownicy",
-    "STEP1_": "Za≥aduj Minecraft 1.12.2",
-    "STEP2_": "Do≥πcz do tego serwera",
+    "INFO_": "Zweryfikuj twoje konto Minecraft aby dostaƒá fajne funkcje i role",
+    "USERS_": "Zweryfikowani u≈ºytkownicy",
+    "STEP1_": "Za≈Çaduj Minecraft 1.12.2",
+    "STEP2_": "Do≈ÇƒÖcz do tego serwera",
     "STEP3_": "Wpisz to w Discord",
-    "ALREADY_": "Ten Gracz jest juø zweryfikowany",
-    "SERVER_DOWN_": "Serwer veryfikacyjny nie dzia≥a skontaktuj",
+    "ALREADY_": "Ten Gracz jest ju≈º zweryfikowany",
+    "SERVER_DOWN_": "Serwer veryfikacyjny nie dzia≈Ça skontaktuj",
     "NOT_IN_SERVER_": "Nie jestes w Serwerze",
-    "THANKS_": "Dziekujemy za uøywanie Minecraft bot jestes teraz zweryfikowany",
-    "FAILED_ROLE_": "Nie uda≥o siÍ daÊ ci role Minecraftowa",
-    "VERIFIED_": "Twoje konto Minecraftowe zosta≥o zweryfikowane",
-    "GIVEN_ROLE_": "Dosta≥eú rolÍ Minecraft"
+    "THANKS_": "Dziekujemy za u≈ºywanie Minecraft bot jestes teraz zweryfikowany",
+    "FAILED_ROLE_": "Nie uda≈Ço siƒô daƒá ci role Minecraftowa",
+    "VERIFIED_": "Twoje konto Minecraftowe zosta≈Ço zweryfikowane",
+    "GIVEN_ROLE_": "Dosta≈Çe≈õ rolƒô Minecraft"
   },
   "AdminCommands": {
-    "CMD_LANG_": "ZmieÒ jÍzyk spo≥ecznoúci",
-    "CMD_ROLE_": "Stworz role Minecraftowa dla zweryfikowanych uøytkownikÛw",
+    "CMD_LANG_": "Zmie≈Ñ jƒôzyk spo≈Çeczno≈õci",
+    "CMD_ROLE_": "Stworz role Minecraftowa dla zweryfikowanych u≈ºytkownik√≥w",
     "CMD_AUTOPOST_": "Automatycznie postuj status twojego serwera Minecraft",
     "CMD_ADD_": "Dodaj serwer Minecraftowy do listy",
-    "CMD_DEL_": "UsuÒ serwer Minecraftowy od listy",
+    "CMD_DEL_": "Usu≈Ñ serwer Minecraftowy od listy",
     "CMD_SET_PREFIX_": "Ustaw niestandardowy prefiks",
-    "CMD_RESET_PREFIX_": "UsuÒ niestandardowy prefiks"
+    "CMD_RESET_PREFIX_": "Usu≈Ñ niestandardowy prefiks"
   },
   "Admin": {
-    "ENTER_IP_": "Wprowadü adres IP",
-    "NOT_ADMIN_": "Nie jesteú adminem serwera",
+    "ENTER_IP_": "Wprowad≈∫ adres IP",
+    "NOT_ADMIN_": "Nie jeste≈õ adminem serwera",
     "WANT_TRANSLATED_": "Want a language translated? contact me on Discord",
-    "LANG_SET_": "Ustawiono jÍzyk spo≥ecznoúciowy na",
+    "LANG_SET_": "Ustawiono jƒôzyk spo≈Çeczno≈õciowy na",
     "PREFIX_SET_": "Niestandardowy prefiks ustawiony na",
-    "PREFIX_RESET_": "Niestandardowy prefiks usuniety uøyj",
-    "WANT_TO_ADD_": "Czy chcesz dodaÊ serwer? {0}/{1}",
-    "ENTER_NAME_": "Wprowadü nazwÍ dla serwera",
-    "SERVER_ADDED_": "Serwer zosta≥ dodany do",
-    "SERVER_REMOVED_": "Serwer zosta≥ usuniety z",
-    "ALREADY_ADDED_": "Ten Serwer jest juz na liúcie",
+    "PREFIX_RESET_": "Niestandardowy prefiks usuniety u≈ºyj",
+    "WANT_TO_ADD_": "Czy chcesz dodaƒá serwer? {0}/{1}",
+    "ENTER_NAME_": "Wprowad≈∫ nazwƒô dla serwera",
+    "SERVER_ADDED_": "Serwer zosta≈Ç dodany do",
+    "SERVER_REMOVED_": "Serwer zosta≈Ç usuniety z",
+    "ALREADY_ADDED_": "Ten Serwer jest juz na li≈õcie",
     "SELECT_NUMBER_": "Wybierz Liczbe",  
     "INVALID_NUMBER_": "Niepoprawna liczba",
-    "TRANSLATORS_": "T≥umacze",
-    "HAS_ROLE_": "Ten serwer ma juø role Minecraftowa",
-    "INVALID_CHANNEL_": "Niepoprawny kana≥"
+    "TRANSLATORS_": "T≈Çumacze",
+    "HAS_ROLE_": "Ten serwer ma ju≈º role Minecraftowa",
+    "INVALID_CHANNEL_": "Niepoprawny kana≈Ç"
   }
 }
