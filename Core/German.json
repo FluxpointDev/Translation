@@ -31,7 +31,8 @@
       "external_emojis": "Externe Emojis verwenden",
       "voice_activity": "Sprachaktivierung verwenden",
       "audit_log": "Audit Logs ansehen",
-      "go_live": "Live gehen"
+
+      "video": "Video"
     },
     "Errors": {
       "private_only": "Dieser Befehl kann nur in Direktnachrichten verwendet werden. Sende einfach den Befehl an den Bot",
@@ -40,7 +41,9 @@
       "bot_no_perms": "Bot benötigt Server-Berechtigung für",
       "bot_no_chan_perms": "Bot benötigt Kanal-Berechtigung für",
       "user_no_perms": "Du benötigst Server-Berechtigungen für",
-      "user_no_chan_perms": "Du benötigst Kanal-Berechtigungen für"
+      "user_no_chan_perms": "Du benötigst Kanal-Berechtigungen für",
+      
+      "invalid_number": "Invalid number."
     },
     "Misc": {
       "support_links": "Support Links",
@@ -54,7 +57,12 @@
       "website": "Webseite",
       "twitter": "Twitter",
       "add_bot": "Klick hier, um den Bot hinzuzufügen",
-      "visit_website": "Besuche die Fluxpoint Development Webseite für weitere informationen, Projekte und andere Service"
+      "visit_website": "Besuche die Fluxpoint Development Webseite für weitere informationen, Projekte und andere Service",
+      
+       "version": "Version",
+      "test": "Test",
+      "client": "Client",
+      "shard": "Shard"
     },
     "Donator": {
       "donate": "Spende",
@@ -66,7 +74,14 @@
       "yes_server": "Dieser Server hat Spender aktiviert",
       "yes_spserver": "Dies ist ein spezieller Server",
       "no": "Du bist kein Spender",
-      "thanks": "Danke fürs Spenden und unterstützen von mir un meinen Projekten. Du hast nun zugang zu allen Spender-Perks in all meinen Bots und Service, welche du hier sehen kannst"
+      "thanks": "Danke fürs Spenden und unterstützen von mir un meinen Projekten. Du hast nun zugang zu allen Spender-Perks in all meinen Bots und Service, welche du hier sehen kannst",
+      
+      "more_info": "More info",
+      "howto_donate": "How to donate",
+      "onetime": "One-time",
+      "patreon_tip": "You will keep donator if your first Patreon donation is successful.",
+      "boost_tip": "Boost our Discord server for temp donator perks.",
+      "monthly": "Monthly"
     },
     "CommandHandler": {
       "invalid_args": "Ungültige Argumente",
@@ -77,7 +92,27 @@
       "maintenance": "Bot Wartung",
       "disabled_cmd": "Dieser Befehl ist in diesem Server deaktiviert",
       "disabled_mod": "Das Modul für diesen Befehl ist auf diesem Server deaktiviert",
-      "disabled_owner": "Befehl vom Bot Eigentümer deaktiviert"
+      "disabled_owner": "Befehl vom Bot Eigentümer deaktiviert",
+      
+       "disabled_nsfw": "Nsfw commands have been disabled in this server.",
+    },
+    "Language": {
+      "change_language": "Change server language",
+      "current": "Current language",
+      "full": "Full translation",
+      "partial": "Partial translation",
+      "change_info": "Users with manage server permission can change the server language.",
+      "invalid_language": "Invalid language selected.",
+      "changed": "Server language has been changed.",
+      "changed_partial": "This language translation is not fully complete."
+    },
+    "Config": {
+      "set_prefix": "Set the server prefix",
+      "no_prefix": "This server does not have a custom prefix set.",
+      "prefix_limit": "Custom prefix can only be 30 characters long.",
+      "prefix_set": "Custom server prefix has been set to",
+      "prefix_tip": "You can still use the default prefix or mention the bot.",
+      "prefix_reset": "Server prefix has been reset."
     }
   }
 }
