@@ -16,13 +16,13 @@
       "invalid_channel": "Érvénytelen csatorna"
     },
     "Badges": {
-      "owner": "A bot tulajdonosa",
+      "owner": "Bot tulajdonos",
       "mob_hunter": "A szörnyek szakértői ismerete",
       "translator": "Akik segítették a fordítást a botban",
       "verified": "Van egy ellenőrzött Minecraft fiókja",
-      "voted": "Szavazz a botra",
+      "voted": "Botra szavazott",
       "played": "Játszott",
-      "hidden": "Néhány jelvény elrejtve van"
+      "hidden": "Néhány jelvény elvan rejtve."
     },
     "Get": {
       "text_limit": "A szöveg nem lehet több, mint 22 betű",
@@ -51,7 +51,7 @@
       "multimc": "lehetővé teszi, hogy kezelje és betöltse a különböző Minecraft változatokat egyszerű mod telepítéssel"
     },
     "Main": {
-      "have_issues": "Ha van önnek baja a bottal kérjük vegye fel a kapcsolatot Discordon",
+      "have_issues": "Ha van neked bármi bajod akkor a bottal kérjük vedd fel a kapcsolatot Discordon",
       "player_stats": "játékos statiztikája",
       "get_stats": "Kapj adatokat játékosokról:",
       "stole_skin": "Te elloptál egy minecraft skint",
@@ -62,15 +62,15 @@
       "first": "Első"
     },
     "Ping": {
-      "java": "Ping a Minecraft szerver",
-      "pe": "Ping a pocket edition server",
-      "full": "Ping a Minecraft szerver egy játékos számlálóval",
+      "java": "Pingeljen egy Minecraft szervert",
+      "pe": "Pingeljen egy pocket edition szervert",
+      "full": "Pingelj meg egy Minecraft szerver egy játékos számlálóval.",
       "banner": "Banner verziója a pingről",
       "wait": "Please wait while i ping",
-      "no_query": "A szervernek nincs beállítva enable-query a server.properties fájlban!",
+      "no_query": "A szervernek nincs beállítva enable-query a server.properties nevű fájlban!",
       "invalid_ip": "Hibás IP cím",
       "invalid_port": "Hibás szerver port",
-      "on_cooldown": "You are on cooldown for 1 minute",
+      "on_cooldown": "Te lassítás alatt vagy 1 percig.",
       "no_players": "Nincsen játékos online"
     },
     "User": {
@@ -99,7 +99,7 @@
   },
   "Error": {
     "api_error": "API Hiba",
-    "no_list": "Ennek a közönségnek nincsen sxervere",
+    "no_list": "Ennek a közönségnek jelenleg nincsen szervere",
     "not_voted": "Te nem szavaztál a botra",
     "player_not_found": "Játékos nem található",
     "account_not_linked": "Ennek a felhasználónak nincsen linkelt fiókja",
@@ -127,8 +127,8 @@
       "removed": "A felhasználó eltávolításra került a távoli konzol hozzáférésről"
     },
     "Blacklist": {
-      "info": "Only owners can use blacklisted commands",
-      "already_blacklisted": "This command is already blacklisted",
+      "info": "Csak a tulajdonos tud feketelistára tett parancsokat használni!",
+      "already_blacklisted": "Ez a parancs már szerepel a feketelistán!",
       "no_blacklist": "No commands are blacklisted",
       "not_blacklisted": "This command is not blacklisted",
       "blacklist_add": "Command has been added to the blacklist",
@@ -200,5 +200,5 @@
     "Info": {
       "unknown_item": "Ismeretlen wiki item!"
     }
-  },
+  }
 }
