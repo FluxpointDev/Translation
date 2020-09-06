@@ -1,6 +1,6 @@
 {
   "Name": "German",
-  "Flag": ":flag_de:",
+  "Flag": "\uD83C\uDDE9\uD83C\uDDEA",
   "Core": {
     "Perms": {
       "add_reactions": "Reaktionen hinzufügen",
@@ -33,7 +33,6 @@
       "external_emojis": "Externe Emojis verwenden",
       "voice_activity": "Sprachaktivierung verwenden",
       "audit_log": "Audit Logs ansehen",
-
       "video": "Video"
     },
     "Errors": {
@@ -44,8 +43,7 @@
       "bot_no_chan_perms": "Bot benötigt Kanal-Berechtigung für",
       "user_no_perms": "Du benötigst Server-Berechtigungen für",
       "user_no_chan_perms": "Du benötigst Kanal-Berechtigungen für",
-      
-      "invalid_number": "Invalid number."
+      "invalid_number": "Ungültige Nummer."
     },
     "Misc": {
       "support_links": "Support Links",
@@ -60,10 +58,9 @@
       "twitter": "Twitter",
       "add_bot": "Klick hier, um den Bot hinzuzufügen",
       "visit_website": "Besuche die Fluxpoint Development Webseite für weitere informationen, Projekte und andere Service",
-      
-       "version": "Version",
+      "version": "Version",
       "test": "Test",
-      "client": "Client",
+      "client": "Klient",
       "shard": "Shard"
     },
     "Donator": {
@@ -77,13 +74,12 @@
       "yes_spserver": "Dies ist ein spezieller Server",
       "no": "Du bist kein Spender",
       "thanks": "Danke fürs Spenden und unterstützen von mir un meinen Projekten. Du hast nun zugang zu allen Spender-Perks in all meinen Bots und Service, welche du hier sehen kannst",
-      
-      "more_info": "More info",
-      "howto_donate": "How to donate",
-      "onetime": "One-time",
-      "patreon_tip": "You will keep donator if your first Patreon donation is successful.",
-      "boost_tip": "Boost our Discord server for temp donator perks.",
-      "monthly": "Monthly"
+      "more_info": "Mehr Infos",
+      "howto_donate": "How-to Spenden",
+      "onetime": "Einmalig",
+      "patreon_tip": "Du behälst Spender when deine erste Patreon Spende erfolgreich war.",
+      "boost_tip": "Booste unseren Server für temporäre Spender Perks.",
+      "monthly": "Monatlich"
     },
     "CommandHandler": {
       "invalid_args": "Ungültige Argumente",
@@ -95,26 +91,25 @@
       "disabled_cmd": "Dieser Befehl ist in diesem Server deaktiviert",
       "disabled_mod": "Das Modul für diesen Befehl ist auf diesem Server deaktiviert",
       "disabled_owner": "Befehl vom Bot Eigentümer deaktiviert",
-      
-       "disabled_nsfw": "Nsfw commands have been disabled in this server.",
+      "disabled_nsfw": "Nsfw Befehle wurden für diesen Server deaktiviert.",
     },
     "Language": {
-      "change_language": "Change server language",
-      "current": "Current language",
-      "full": "Full translation",
-      "partial": "Partial translation",
-      "change_info": "Users with manage server permission can change the server language.",
-      "invalid_language": "Invalid language selected.",
-      "changed": "Server language has been changed.",
-      "changed_partial": "This language translation is not fully complete."
+      "change_language": "Serversprache ändern",
+      "current": "Aktuelle Sprache",
+      "full": "Komplette Übersetzung",
+      "partial": "Teilweise übersetzt",
+      "change_info": "Benutzer mit Server Verwalten Berechtigung können die Serversprache ändern.",
+      "invalid_language": "Ungültige Sprache ausgewählt.",
+      "changed": "Serversprache wurde geändert.",
+      "changed_partial": "Diese Übersetzung ist nicht komplett."
     },
     "Config": {
-      "set_prefix": "Set the server prefix",
-      "no_prefix": "This server does not have a custom prefix set.",
-      "prefix_limit": "Custom prefix can only be 30 characters long.",
-      "prefix_set": "Custom server prefix has been set to",
-      "prefix_tip": "You can still use the default prefix or mention the bot.",
-      "prefix_reset": "Server prefix has been reset."
+      "set_prefix": "Setze den Serverprefix.",
+      "no_prefix": "Dieser Server hat keinen eigenen Prefix gesetzt.",
+      "prefix_limit": "Benutzerdefinierte Prefixe können maximal 30 Charaktere lang sein.",
+      "prefix_set": "Benutzerdefinierter Prefix gesetzt zu",
+      "prefix_tip": "Du kannst weiterhin den standard Prefix vewenden oder den Bot erwähnen.",
+      "prefix_reset": "Serverprefix zurückgesetzt."
     }
   }
 }
