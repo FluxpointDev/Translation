@@ -1,4 +1,6 @@
 {
+  "Name": "German",
+  "Flag": ":flag_de:",
   "Core": {
     "Perms": {
       "add_reactions": "Reaktionen hinzufügen",
