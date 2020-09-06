@@ -76,14 +76,14 @@
       "donator_only": "You need to be a donator to use this command, you can help support the bot and developer using",
       "yes": "You are a donator",
       "yes_special": "You are a special user",
-      "yes_server": "This server has donator acitvated",
+      "yes_server": "This server has donator activated",
       "yes_spserver": "This is a special server",
       "no": "You are not a donator",
       "thanks": "Thanks for donating and supporting me and my projects, you now have access to donator perks on all bots and services which you can see here"
     },
     "CommandHandler": {
       "invalid_args": "Invalid arguments.",
-      "something_broke": "Something broke please report this using",
+      "something_broke": "Something broke, please report this using",
       "missing_perms": "Missing basic permissions",
       "database_error": "Database error",
       "join_support": "Join the Discord support server for more information.",
