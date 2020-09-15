@@ -1,0 +1,62 @@
+{
+  "Commands": {
+    "Help": {
+      "misc": "Misc",
+      "howto": "How to use the bot.",
+      "list": "List of emote parts.",
+      "create": "Create an emote using parts.",
+      "credits": "Credits",
+      "idea": "Original idea by",
+      "assets": "Assets and parts by"
+    },
+    "Guide": {
+      "bot_info": "A fun bot to generate and create emotes using different parts so that you can share them or save them to your Discord server.",
+      "parts_info": "Use the list command to get emote parts for base, eyes, mouth and extras.",
+      "generate_info": "You can generate an emote using the part numbers and the example below.",
+      "generate_try": "Try generate an emote using",
+      "color_info": "You can also add a color tint to emote parts using this.",
+      "color_warn": "Some colors may not work well with different parts.",
+      "share_info": "Share your emote with friends by copying the image link or use the save command to add it to your server.",
+      "share": "Share",
+      "example": "Example",
+      "baseid": "Base ID",
+      "eyeid": "Eye ID",
+      "mouthid": "Mouth ID",
+      "extraid": "Extra ID",
+      "extra_optional": "Extra part is optional."
+    },
+    "Server": {
+      "no_emotes": "This server does not have any custom emotes.",
+      "emotes": "Emotes",
+      "animated": "Animated"
+    },
+    "Stats": {
+      "stats": "Stats",
+      "servers": "Servers"
+    },
+    "Search": {
+      "info": "Search for an emote",
+      "no_emote": "Could not find an emote with that name.",
+      "author": "Author"
+    },
+    "Gen": {
+      "list_info": "Use the list command for parts",
+      "unknown_base": "Unknown base part number.",
+      "unknown_eye": "Unknown eye part number.",
+      "unknown_mouth": "Unknown mouth part number.",
+      "unknown_extra": "Unknown extra part number.",
+      "unknown_color": "Unknown color name."
+    }
+  },
+  "Misc": {
+    "links": "Links",
+    "emotes": "Emotes",
+    "base_parts": "Base parts",
+    "eye_parts": "Eye parts",
+    "mouth_parts": "Mouth parts",
+    "extra_parts": "Extra parts",
+    "parts": "Parts",
+    "colors": "Colors",
+    "generate": "Generate"
+  }
+}
