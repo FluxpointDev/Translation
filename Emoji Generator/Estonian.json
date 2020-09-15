@@ -1,0 +1,62 @@
+{
+  "Commands": {
+    "Help": {
+      "misc": "Muu",
+      "howto": "Kuidas kasutada botti.",
+      "list": "Nimekiri emotide osadest.",
+      "create": "Loo emote kasutades osi.",
+      "credits": "Viited",
+      "idea": "Originaalne idee",
+      "assets": "Lisad ja osad"
+    },
+    "Guide": {
+      "bot_info": " Lõbus bot emotide loomiseks kasutades erinevaid osi, et sa saaksid jagada või salvestada neid enda Discordi serverisse.",
+      "parts_info": "Kasuta nimekirja käsklust, et saada emotide osi baasiks, silmadeks, suuks ja lisaks.",
+      "generate_info": "Sa saad emoti genereerida, kasudades osade numbreid ja vastavat näidist allpool.",
+      "generate_try": "Proovi emoti genereerida kasutades",
+      "color_info": "Sa saad ka emotidele lisada tindivärvi kasudades seda.",
+      "color_warn": "Mõned värvid ei pruugi erinevate osadega hästi töötata.",
+      "share_info": "Jaga oma emoti sõpradega, kopeerides pildi linki või kasutades salvestamise käsklust, et lisada see enda serverisse.",
+      "share": "Jaga",
+      "example": "Näidis",
+      "baseid": "Baasi ID",
+      "eyeid": "Silmade ID",
+      "mouthid": "Suu ID",
+      "extraid": "Lisa ID",
+      "extra_optional": "Lisa osa on valikuline."
+    },
+    "Server": {
+      "no_emotes": "Sellel serveril ei ole kohandatud emote.",
+      "emotes": "Emotid",
+      "animated": "Animeeritud"
+    },
+    "Stats": {
+      "stats": "Statistika",
+      "servers": "Serverid"
+    },
+    "Search": {
+      "info": "Otsi emoti",
+      "no_emote": "Ei leidnud selle nimega emoti.",
+      "author": "Autor"
+    },
+    "Gen": {
+      "list_info": "Kasuta osade saamiseks nimekirja käsklust",
+      "unknown_base": "Tundmatu baasi osa number.",
+      "unknown_eye": "Tundmatu silmade osa number.",
+      "unknown_mouth": "Tundmatu suu osa number.",
+      "unknown_extra": "Tundmatu lisa osa number.",
+      "unknown_color": "Tundmatu värvi nimi."
+    }
+  },
+  "Misc": {
+    "links": "Lingid",
+    "emotes": "Emotid",
+    "base_parts": "Baas osad",
+    "eye_parts": "Silmade osad",
+    "mouth_parts": "Suu osad",
+    "extra_parts": "Lisa osad",
+    "parts": "Osad",
+    "colors": "Värvid",
+    "generate": "Genereeri"
+  }
+}
