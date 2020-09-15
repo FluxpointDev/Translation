@@ -1,0 +1,62 @@
+{
+  "Commands": {
+    "Help": {
+      "misc": "Разное",
+      "howto": "Как использовать бота.",
+      "list": "Список частей эмоций.",
+      "create": "Создать эмоцию используя разные часты.",
+      "credits": "Создатели",
+      "idea": "Оригинальная идея",
+      "assets": "Материалы и части"
+    },
+    "Guide": {
+      "bot_info": "Забавный бот для генерации и создания эмоций из разных частей, чтобы вы могли поделиться ими или сохранить на своем сервере Discord.",
+      "parts_info": "Use the list command to get emote parts for base, eyes, mouth and extras.",
+      "generate_info": "You can generate an emote using the part numbers and the example below.",
+      "generate_try": "Попробуйте сгенерировать эмоцию используя",
+      "color_info": "You can also add a color tint to emote parts using this.",
+      "color_warn": "Некоторые цвета могут не сочетаться с разными деталями.",
+      "share_info": "Share your emote with friends by copying the image link or use the save command to add it to your server.",
+      "share": "Поделиться",
+      "example": "Пример",
+      "baseid": "ID Лица",
+      "eyeid": "ID Глаз",
+      "mouthid": "ID Рта",
+      "extraid": "ID Дополнительной части",
+      "extra_optional": "Дополнительная часть является не обязательной."
+    },
+    "Server": {
+      "no_emotes": "На этом сервере нет пользовательских эмоций.",
+      "emotes": "Эмоции",
+      "animated": "Анимированные"
+    },
+    "Stats": {
+      "stats": "Статистика",
+      "servers": "Сервера"
+    },
+    "Search": {
+      "info": "Поиск эмоций",
+      "no_emote": "Не удалось найти эмоцию с данным именем.",
+      "author": "Автор"
+    },
+    "Gen": {
+      "list_info": "Используйте для получения списка доступных частей",
+      "unknown_base": "Незвестный номер лица.",
+      "unknown_eye": "Незвестный номер глаз.",
+      "unknown_mouth": "Неизвестный номер рта.",
+      "unknown_extra": "Неизвестный номер дополнительной части.",
+      "unknown_color": "Неизвестное название цвета."
+    }
+  },
+  "Misc": {
+    "links": "Ссылки",
+    "emotes": "Эмоции",
+    "base_parts": "Лица",
+    "eye_parts": "Глаза",
+    "mouth_parts": "Рты",
+    "extra_parts": "Дополнительные части",
+    "parts": "Части",
+    "colors": "Цвета",
+    "generate": "Генератор"
+  }
+}
