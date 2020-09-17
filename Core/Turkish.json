@@ -1,7 +1,6 @@
 {
   "Name": "Turkish",
   "Flag": ":flag_tr:",
-  "Custom": "",
   "Core": {
     "Perms": {
       "add_reactions": "Add Reactions",
