@@ -1,62 +1,62 @@
 {
   "Commands": {
     "Help": {
-      "misc": "Misc",
-      "howto": "How to use the bot.",
-      "list": "List of emote parts.",
-      "create": "Create an emote using parts.",
-      "credits": "Credits",
-      "idea": "Original idea by",
-      "assets": "Assets and parts by"
+      "misc": "Çeşitli",
+      "howto": "Botu nasıl kullanırım?",
+      "list": "Emojileri Listele.",
+      "create": "Parçaları kullanarak bir ifade oluştur.",
+      "credits": "Teşekkürler",
+      "idea": "Fikir Veren",
+      "assets": "Parçalar ve Varlıklar"
     },
     "Guide": {
-      "bot_info": "A fun bot to generate and create emotes using different parts so that you can share them or save them to your Discord server.",
-      "parts_info": "Use the list command to get emote parts for base, eyes, mouth and extras.",
-      "generate_info": "You can generate an emote using the part numbers and the example below.",
-      "generate_try": "Try generate an emote using",
-      "color_info": "You can also add a color tint to emote parts using this.",
-      "color_warn": "Some colors may not work well with different parts.",
-      "share_info": "Share your emote with friends by copying the image link or use the save command to add it to your server.",
-      "share": "Share",
-      "example": "Example",
-      "baseid": "Base ID",
-      "eyeid": "Eye ID",
-      "mouthid": "Mouth ID",
-      "extraid": "Extra ID",
-      "extra_optional": "Extra part is optional."
+      "bot_info": "Paylaşabilmeniz veya Discord sunucunuza kaydedebilmeniz için farklı parçaları kullanarak emojiler oluşturmak ve  eğlenceli bir bottur.",
+      "parts_info": "Temel, gözler, ağız ve ekstralar için emoji parçalarını almak için liste komutunu kullanın.",
+      "generate_info": "Parça Numaralarını kullanarak emoji oluşturabilirsin aşşağıdaki örnek gibi",
+      "generate_try": "Kullanarak bir emoji oluşturmayı deneyin",
+      "color_info": "Ayrıca bunu kullanarak bir renk tonu ekleyebilirsin..",
+      "color_warn": "Farklı Parçalar ile bazı renkler çalışmayabilir..",
+      "share_info": "Resimdeki linki kopyalayarak arkadaşlarınızla emojilerinizi paylaşın yada sunucunuza eklemek için Kaydet tuşuna basın.",
+      "share": "Paylaş",
+      "example": "Örnek",
+      "baseid": "Genel ID",
+      "eyeid": "Göz ID",
+      "mouthid": "Ağız ID",
+      "extraid": "Ekstra ID",
+      "extra_optional": "Ekstra parça isteğe bağlı."
     },
     "Server": {
-      "no_emotes": "This server does not have any custom emotes.",
-      "emotes": "Emotes",
-      "animated": "Animated"
+      "no_emotes": "Bu sunucunun bir emojisi yok.",
+      "emotes": "Emojiler",
+      "animated": "Hareketli"
     },
     "Stats": {
-      "stats": "Stats",
-      "servers": "Servers"
+      "stats": "İstatistikler",
+      "servers": "Sunucular"
     },
     "Search": {
-      "info": "Search for an emote",
-      "no_emote": "Could not find an emote with that name.",
-      "author": "Author"
+      "info": "Bir emoji ara",
+      "no_emote": "Bu isimli bir emoji bulunamadı.",
+      "author": "Sahip"
     },
     "Gen": {
-      "list_info": "Use the list command for parts",
-      "unknown_base": "Unknown base part number.",
-      "unknown_eye": "Unknown eye part number.",
-      "unknown_mouth": "Unknown mouth part number.",
-      "unknown_extra": "Unknown extra part number.",
-      "unknown_color": "Unknown color name."
+      "list_info": "Parçalar için liste komutunu kullanın",
+      "unknown_base": "Bilinmeyen temel parça numarası.",
+      "unknown_eye": "Bilinmeyen göz parça numarası.",
+      "unknown_mouth": "Bilinmeyen ağız parça numarası.",
+      "unknown_extra": "Bilinmeyen ekstra parça numarası.",
+      "unknown_color": "Bilinmeyen renk ismi."
     }
   },
   "Misc": {
-    "links": "Links",
-    "emotes": "Emotes",
-    "base_parts": "Base parts",
-    "eye_parts": "Eye parts",
-    "mouth_parts": "Mouth parts",
-    "extra_parts": "Extra parts",
-    "parts": "Parts",
-    "colors": "Colors",
-    "generate": "Generate"
+    "links": "Bağlantılar",
+    "emotes": "Emojiler",
+    "base_parts": "Temel Parçalar",
+    "eye_parts": "Göz Parçaları",
+    "mouth_parts": "Ağız Parçaları",
+    "extra_parts": "Ekstra Parçalar",
+    "parts": "Parçalar",
+    "colors": "Renkler",
+    "generate": "Oluştur"
   }
 }
