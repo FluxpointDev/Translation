@@ -1,0 +1,62 @@
+{
+  "Commands": {
+    "Help": {
+      "misc": "Macam-macam",
+      "howto": "Cara menggunakan bot.",
+      "list": "Daftar bagian emote.",
+      "create": "Membuat emote menggunakan bagian-bagian.",
+      "credits": "Kredit",
+      "idea": "Ide asli oleh",
+      "assets": "Aset dan bagian oleh"
+    },
+    "Guide": {
+      "bot_info": "Bot yang menyenangkan untuk menghasilkan dan membuat emote menggunakan bagian-bagian yang berbeda sehingga anda dapat membagikannya atau menyimpannya ke server Discord anda.",
+      "parts_info": "Gunakan perintah daftar untuk mendapatkan bagian-bagian emote untuk basis, mata, mulut, dan ekstra.",
+      "generate_info": "Anda dapat membuat emote menggunakan nomor bagian dan contoh di bawah ini.",
+      "generate_try": "Coba buat emote menggunakan",
+      "color_info": "Anda juga dapat menambahkan rona warna ke bagian emote menggunakan ini.",
+      "color_warn": "Beberapa warna mungkin tidak bekerja dengan baik dengan bagian yang berbeda.",
+      "share_info": "Bagikan emote anda dengan teman-teman dengan menyalin tautan gambar atau gunakan perintah simpan untuk menambahkannya ke server anda.",
+      "share": "Bagikan",
+      "example": "Contoh",
+      "baseid": "ID Basis",
+      "eyeid": "ID Mata",
+      "mouthid": "ID Mulut",
+      "extraid": "ID Ekstra",
+      "extra_optional": "Bagian ekstra bersifat opsional."
+    },
+    "Server": {
+      "no_emotes": "Server ini tidak memiliki emote khusus.",
+      "emotes": "Emote",
+      "animated": "Animasi"
+    },
+    "Stats": {
+      "stats": "Statistik",
+      "servers": "Server"
+    },
+    "Search": {
+      "info": "Cari emote",
+      "no_emote": "Tidak dapat menemukan emote dengan nama itu.",
+      "author": "Pembuat"
+    },
+    "Gen": {
+      "list_info": "Gunakan perintah daftar untuk bagian-bagian",
+      "unknown_base": "Nomor bagian basis tidak diketahui.",
+      "unknown_eye": "Nomor bagian mata tidak diketahui.",
+      "unknown_mouth": "Nomor bagian mulut tidak diketahui.",
+      "unknown_extra": "Nomor bagian ekstra tidak diketahui.",
+      "unknown_color": "Nama warna tidak diketahui."
+    }
+  },
+  "Misc": {
+    "links": "Tautan",
+    "emotes": "Emote",
+    "base_parts": "Bagian basis",
+    "eye_parts": "Bagian mata",
+    "mouth_parts": "Bagian mulut",
+    "extra_parts": "Bagian ekstra",
+    "parts": "Bagian-bagian",
+    "colors": "Warna",
+    "generate": "Hasilkan"
+  }
+}
