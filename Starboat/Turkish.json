@@ -26,8 +26,8 @@
       "missing_perms": "Kanalları Yönet yetkisi gerek."
     },
     "StaffBypass": {
-      "enabled": "Staff bypass enabled, any bot admin or mod can star messages with no limit.",
-      "disabled": "Staff bypass disabled."
+      "enabled": "Sadece yetkili atlaması aktif edildi, Herhangi Bot Yöneticisi veya moderatör sınırsız yıldız kullanabilir.",
+      "disabled": "Yetkili Atlaması devre-dışı bırakıldı."
     },
     "StaffOnly": {
       "enabled": "Sadece Yetkililer kullansın aktif edildi, Starboard mesajlarını oluşturmak için moderatör veya yönetici olmanız lazım.",
