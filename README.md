@@ -11,6 +11,7 @@ Join my Discord server or contact me Builderb#0001
 - Indonesia  | Ryanika#2103
 - Estonian   | Candyz#1061
 - French     | Koro~ (Baka)#7963
+- German     | Andre_601#0601
 - Hungarian  | SplitXPlayZ#2071
 - Bulgarian  | EasyThe#2836
 - Turkish    | burakjones#1606
