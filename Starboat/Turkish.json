@@ -1,75 +1,75 @@
 {
   "Commands": {
     "Config": {
-      "bot_admin": "You are a bot admin.",
-      "bot_mod": "You are a bot mod.",
-      "admin_commands": "Admin commands",
-      "mod_commands": "Mod commands",
-      "setup_done": "Setup done",
-      "settings": "Settings",
-      "staff_bypass": "Staff bypass",
-      "staff_only": "Staff only"
+      "bot_admin": "Sen bot yöneticisisin.",
+      "bot_mod": "Sen bot moderatörüsün.",
+      "admin_commands": "Yönetici komutları",
+      "mod_commands": "Moderatör komutları",
+      "setup_done": "Kurulum Tamamlandı",
+      "settings": "Ayarlar",
+      "staff_bypass": "Yetkili Atlaması",
+      "staff_only": "Sadece Yetkililer"
     },
     "Reset": {
-      "title": "Reset starboard",
-      "confirm": "Do you want to reset starboard? this action can not be undone and will remove all data and settings.",
-      "timeout": "Reset command timed out.",
-      "done": "Reset done",
-      "done_info": "All data and settings for this server have been deleted."
+      "title": "Starboat'ı yenile",
+      "confirm": "Starboat'ı yenilemek istiyor musunuz? bu eylem geri alınamaz ve tüm verileri ve ayarları kaldıracak.",
+      "timeout": "Yenileme komutu zaman aşımına uğradı",
+      "done": "Yenileme Tamamlandı.",
+      "done_info": "Bu sunucu için tüm veriler ve ayarlar silindi."
     },
     "Setup": {
-      "already_setup": "Starboard has already been setup. You can use the reset command to remove all data and config.",
-      "setup_confirm": "Do you want to setup the bot? You need to create a starboard channel first.",
-      "timeout": "Setup has timed out.",
-      "enter_channel": "Enter a channel to use for starboard.",
-      "invalid_channel": "Invalid channel entered.",
-      "missing_perms": "Missing channel permissions."
+      "already_setup": "Starboard zaten kurulu. Tüm verileri ve yapılandırmayı(config) kaldırmak için sıfırlama komutunu kullanabilirsiniz.",
+      "setup_confirm": "Bot'u kurmak istiyor musun? İlk olarak starboard kanalı oluşturmalısın.",
+      "timeout": "Kurulum zaman aşımına uğradı.",
+      "enter_channel": "Starboard'ı kullanmak için bir kanal girin.",
+      "invalid_channel": "Geçersiz kanal girildi.",
+      "missing_perms": "Kanalları Yönet yetkisi gerek."
     },
     "StaffBypass": {
       "enabled": "Staff bypass enabled, any bot admin or mod can star messages with no limit.",
       "disabled": "Staff bypass disabled."
     },
     "StaffOnly": {
-      "enabled": "Staff only enabled, you need to be a bot mod or admin to create starboard messages.",
-      "disabled": "Staff only disabled."
+      "enabled": "Sadece Yetkililer kullansın aktif edildi, Starboard mesajlarını oluşturmak için moderatör veya yönetici olmanız lazım.",
+      "disabled": "Sadece Yetkililer devre dışı."
     },
     "Help": {
-      "major_update": "Major update!",
-      "update_notice": "The bot has been fully updated with a new look and better support for message.",
-      "info1": "You can now star funny messages or memes that will be show in the starboard channel.",
-      "info2": "Add a star reaction to a message that is not your own message.",
-      "required": "Stars required.",
-      "misc": "Misc",
-      "server": "Server"
+      "major_update": "Duyuru!",
+      "update_notice": "Bot, yeni bir görünüm ve mesaj için daha iyi destekle tamamen güncellendi.",
+      "info1": "Artık starboard kanalında gösterilecek komik mesajlara veya caps(meme)lere yıldız ekleyebilirsiniz.",
+      "info2": "Kendi mesajınız olmayan bir mesaja yıldız tepkisi ekleyin.",
+      "required": "Yıldız gerekli.",
+      "misc": "Çeşitli",
+      "server": "Sunucu"
     },
     "Disable": {
-      "already_disabled": "Starboard is already disabled.",
-      "disabled": "Starboard disabled."
+      "already_disabled": "Starboard zaten devre-dışı.",
+      "disabled": "Starboard artık devre-dışı.."
     },
     "Enable": {
-      "already_enabled": "Starboard is already enabled.",
-      "enabled": "Starboard enabled."
+      "already_enabled": "Starboard zaten aktif.",
+      "enabled": "Starboard aktifleştirildi."
     },
     "Minimum": {
-      "minimum": "Minimum stars",
-      "info": "Set how many star reactions are required to post a starboard message.",
-      "info_limit": "Minimum 1 stars and maximum 10 stars.",
-      "error_limit": "Number can not be less than 1 and more than 10.",
-      "set": "Minimum stars set to"
+      "minimum": "En az yıldızlar",
+      "info": "Bir starboard mesajı göndermek için kaç tane yıldız tepkisi gerektiğini ayarlayın.",
+      "info_limit": "Minimum 1 yıldız ve maximum 10 yıldız.",
+      "error_limit": "Sayı 1'den az, 10'dan fazla olamaz.",
+      "set": "En az yıldızlar şöyle ayarlandı."
     },
     "Remove": {
-      "remove": "Remove a message",
-      "info": "Enter a message id to remove from the starboard channel.",
-      "invalid_message": "Invalid message id.",
-      "no_message": "This message is not in starboard.",
-      "message_removed": "Message removed from starboard."
+      "remove": "Bir mesaj sil",
+      "info": "Starboard kanalından kaldırılacak bir Mesaj ID'si girin.",
+      "invalid_message": "Geçersiz Mesaj ID'si",
+      "no_message": "Bu mesaj starboarddan değil.",
+      "message_removed": "Starboarddan mesaj silindi."
     },
     "Errors": {
-      "dm": "The features of this bot only work in a Discord server.",
-      "not_admin": "You are not a bot admin.",
-      "not_mod": "You are not a bot mod.",
-      "not_setup_title": "Not setup",
-      "not_setup": "You need to setup the bot with a starboard channel."
+      "dm": "Sadece discord sunucusunda görev yapabilir. DM den değil.",
+      "not_admin": "Sen bot yöneticisi değilsin.",
+      "not_mod": "Sen bot moderatörü değilsin.",
+      "not_setup_title": "Kurulamadı.",
+      "not_setup": "Bir starboard kanalı ile kurabilirsin."
     }
   }
 }
