@@ -1,5 +1,8 @@
 {
   "Commands": {
+    "AllowRoles": { },
+    "AdminRoles": { },
+    "ModRoles": { },
     "Config": {
       "bot_admin": "Sen bot yöneticisisin.",
       "bot_mod": "Sen bot moderatörüsün.",
