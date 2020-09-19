@@ -1,0 +1,75 @@
+{
+  "Commands": {
+    "Config": {
+      "bot_admin": "You are a bot admin.",
+      "bot_mod": "You are a bot mod.",
+      "admin_commands": "Admin commands",
+      "mod_commands": "Mod commands",
+      "setup_done": "Setup done",
+      "settings": "Settings",
+      "staff_bypass": "Staff bypass",
+      "staff_only": "Staff only"
+    },
+    "Reset": {
+      "title": "Reset starboard",
+      "confirm": "Do you want to reset starboard? this action can not be undone and will remove all data and settings.",
+      "timeout": "Reset command timed out.",
+      "done": "Reset done",
+      "done_info": "All data and settings for this server have been deleted."
+    },
+    "Setup": {
+      "already_setup": "Starboard has already been setup. You can use the reset command to remove all data and config.",
+      "setup_confirm": "Do you want to setup the bot? You need to create a starboard channel first.",
+      "timeout": "Setup has timed out.",
+      "enter_channel": "Enter a channel to use for starboard.",
+      "invalid_channel": "Invalid channel entered.",
+      "missing_perms": "Missing channel permissions."
+    },
+    "StaffBypass": {
+      "enabled": "Staff bypass enabled, any bot admin or mod can star messages with no limit.",
+      "disabled": "Staff bypass disabled."
+    },
+    "StaffOnly": {
+      "enabled": "Staff only enabled, you need to be a bot mod or admin to create starboard messages.",
+      "disabled": "Staff only disabled."
+    },
+    "Help": {
+      "major_update": "Major update!",
+      "update_notice": "The bot has been fully updated with a new look and better support for message.",
+      "info1": "You can now star funny messages or memes that will be show in the starboard channel.",
+      "info2": "Add a star reaction to a message that is not your own message.",
+      "required": "Stars required.",
+      "misc": "Misc",
+      "server": "Server"
+    },
+    "Disable": {
+      "already_disabled": "Starboard is already disabled.",
+      "disabled": "Starboard disabled."
+    },
+    "Enable": {
+      "already_enabled": "Starboard is already enabled.",
+      "enabled": "Starboard enabled."
+    },
+    "Minimum": {
+      "minimum": "Minimum stars",
+      "info": "Set how many star reactions are required to post a starboard message.",
+      "info_limit": "Minimum 1 stars and maximum 10 stars.",
+      "error_limit": "Number can not be less than 1 and more than 10.",
+      "set": "Minimum stars set to"
+    },
+    "Remove": {
+      "remove": "Remove a message",
+      "info": "Enter a message id to remove from the starboard channel.",
+      "invalid_message": "Invalid message id.",
+      "no_message": "This message is not in starboard.",
+      "message_removed": "Message removed from starboard."
+    },
+    "Errors": {
+      "dm": "The features of this bot only work in a Discord server.",
+      "not_admin": "You are not a bot admin.",
+      "not_mod": "You are not a bot mod.",
+      "not_setup_title": "Not setup",
+      "not_setup": "You need to setup the bot with a starboard channel."
+    }
+  }
+}
