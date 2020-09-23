@@ -10,6 +10,7 @@ Join my Discord server or contact me Builderb#0001
 - Russian    | MrZillaGold#9692
 - Indonesia  | Ryanika#2103
 - Estonian   | Candyz#1061
+- Dutch      | VAC Efron#0001
 - French     | Koro~ (Baka)#7963
 - German     | Andre_601#0601
 - Hungarian  | SplitXPlayZ#2071
@@ -18,6 +19,7 @@ Join my Discord server or contact me Builderb#0001
 
 ### Minecraft translations
 - Bulgarian  | EasyThe#2836
+- Dutch      | VAC Efron#0001
 - French     | 🔥fire🔥#5549, Koro~ (Baka)#7963
 - German     | Andre_601#0601
 - Hungarian  | SplitXPlayZ#2071
