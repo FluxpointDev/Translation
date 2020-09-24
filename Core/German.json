@@ -91,7 +91,7 @@
       "disabled_cmd": "Dieser Befehl ist in diesem Server deaktiviert",
       "disabled_mod": "Das Modul für diesen Befehl ist auf diesem Server deaktiviert",
       "disabled_owner": "Befehl vom Bot Eigentümer deaktiviert",
-      "disabled_nsfw": "Nsfw Befehle wurden für diesen Server deaktiviert.",
+      "disabled_nsfw": "Nsfw Befehle wurden für diesen Server deaktiviert."
     },
     "Language": {
       "change_language": "Serversprache ändern",
