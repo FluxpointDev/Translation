@@ -27,4 +27,3 @@ Join my Discord server or contact me Builderb#0001
 - Russian    | MrZillaGold#9692
 - Spanish    | jxvier#8604
 - Turkish    | burakjones#1606
-
