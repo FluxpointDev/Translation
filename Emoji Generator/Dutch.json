@@ -1,0 +1,62 @@
+{
+  "Commands": {
+    "Help": {
+      "misc": "Overige",
+      "howto": "Hoe je de bot gebruikt.",
+      "list": "Lijst met emoji onderdelen.",
+      "create": "Maak een emoji met onderdelen.",
+      "credits": "Credits",
+      "idea": "Origineel bedacht door",
+      "assets": "Middelen en onderdelen door"
+    },
+    "Guide": {
+      "bot_info": "Een leuke bot om emotes te maken met verschillende onderdelen om ze te delen of the gebruiken voor jouw Discord server.",
+      "parts_info": "Gebruik de list command om de emote onderdelen te krijgen voor het beeld, ogen, mond en extra's.",
+      "generate_info": "Je kunt een emote genereren met de nummers van de onderdelen en het voorbeeld hier onder.",
+      "generate_try": "Probeer een emote te genereren met",
+      "color_info": "Je kunt hiermee ook een kleurtint toevoegen aan emote onderdelen.",
+      "color_warn": "Sommige kleuren zullen misschien niet goed samen passen met bepaalde onderdelen.",
+      "share_info": "Deel jouw emote met vrienden door de link van de afbeelding te kopiëren of gebruik de save command om het toe te voegen aan jouw server.",
+      "share": "Delen",
+      "example": "Voorbeeld",
+      "baseid": "Beeld ID",
+      "eyeid": "Oog ID",
+      "mouthid": "Mond ID",
+      "extraid": "Extra ID",
+      "extra_optional": "Extra onderdeel is optioneel."
+    },
+    "Server": {
+      "no_emotes": "Deze server heeft geen custom emotes.",
+      "emotes": "Emotes",
+      "animated": "Geanimeerd"
+    },
+    "Stats": {
+      "stats": "Statistieken",
+      "servers": "Servers"
+    },
+    "Search": {
+      "info": "Zoek naar een emote",
+      "no_emote": "Kon geen emote vinden met die naam.",
+      "author": "Auteur"
+    },
+    "Gen": {
+      "list_info": "Gebruik de list command voor onderdelen",
+      "unknown_base": "Onbekend beeld onderdeelnummer.",
+      "unknown_eye": "Onbekende oog onderdeelnummer.",
+      "unknown_mouth": "Onbekende mond onderdeelnummer.",
+      "unknown_extra": "Onbekende extra onderdeelnummer.",
+      "unknown_color": "Onbekende kleurnaam."
+    }
+  },
+  "Misc": {
+    "links": "Links",
+    "emotes": "Emotes",
+    "base_parts": "Beeld onderdelen",
+    "eye_parts": "Oog onderdelen",
+    "mouth_parts": "Mond onderdelen",
+    "extra_parts": "Extra onderdelen",
+    "parts": "Onderdelen",
+    "colors": "Kleuren",
+    "generate": "Genereer"
+  }
+}
