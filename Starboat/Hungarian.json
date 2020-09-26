@@ -1,0 +1,75 @@
+{
+  "Commands": {
+    "Config": {
+      "bot_admin": "Te egy bot adminisztrátor vagy.",
+      "bot_mod": "Te egy bot moderátor vagy.",
+      "admin_commands": "Adminisztrátor parancsok",
+      "mod_commands": "Moderátor parancsok",
+      "setup_done": "Beállítás kész.",
+      "settings": "Beállítások",
+      "staff_bypass": "Staff bypass",
+      "staff_only": "Staff-nak csak"
+    },
+    "Reset": {
+      "title": "Starboard reszetelése",
+      "confirm": "Vissza akarod állítani a starboardot? Ezt a műveletet nem lehet visszavonni, és az összes adatot és beállítást eltávolítani fogja.",
+      "timeout": "Reszet parancs időtúllépés miatt megszakítva.",
+      "done": "Reszetlés kész.",
+      "done_info": "Az összes adat és beállítás erre a szerverre sikeresen törölve lett."
+    },
+    "Setup": {
+      "already_setup": "A starboard beállítása már megtörtént. A reszet paranccsal eltávolíthatod az összes adatot és az összes beállítást a szerverről.",
+      "setup_confirm": "Be akarod állítani a botot? Először létre kell hoznod egy starboard csatornát.",
+      "timeout": "Beállítási időtúllépés.",
+      "enter_channel": "Enter a channel to use for starboard.",
+      "invalid_channel": "Érvénytelen csatorna.",
+      "missing_perms": "Hiányzó csatorna jogok."
+    },
+    "StaffBypass": {
+      "enabled": "A staff bypass engedélyezve van, bármely bot adminisztrátor vagy moderátor korlátozás nélkül csillagozhatja az üzeneteid/üzeneteket.",
+      "disabled": "Staff bypass kikapcsolva."
+    },
+    "StaffOnly": {
+      "enabled": "A staff-nak csak engedélyezve van. A starboard üzenetek létrehozásához bot moderátornak vagy adminisztrátornak kell lenned.",
+      "disabled": "Staff-nak csak kikapcsolva."
+    },
+    "Help": {
+      "major_update": "Jelentős frissítés!",
+      "update_notice": "A botot teljes egészében frissítettük új megjelenéssel és jobb segítségtámogatás az üzeneteknek.",
+      "info1": "Becsillagozhat vicces üzeneteket vagy mémeket, amelyeket a majd meglátod a starboard-ban.",
+      "info2": "Csillagreakciót adhatsz egy olyan üzenethez, amely nem a saját üzeneted.",
+      "required": "Csilagok kötelezőek.",
+      "misc": "Egyéb",
+      "server": "Szerver"
+    },
+    "Disable": {
+      "already_disabled": "A starboard már rég kivan kapcsolva.",
+      "disabled": "Starboard kikapcsolva."
+    },
+    "Enable": {
+      "already_enabled": "A starboard már rég bevan kapcsolva.",
+      "enabled": "Starboard bekapcsolva."
+    },
+    "Minimum": {
+      "minimum": "Minimum csilagok",
+      "info": "Állítsd be, hogy hány csillagreakció szükséges hogy kiküldjem a starboardba az adott üzenetet.",
+      "info_limit": "Minimum 1 csilag és a maximum 10 csilagok.",
+      "error_limit": "A szám nem lehet kevsebb mint 1 és több mint 10.",
+      "set": "Minimum csilagok beállítva erre"
+    },
+    "Remove": {
+      "remove": "Egy üzenet törölése",
+      "info": "Írj be egy üzenet ID hogy eltávolítsd azt a starboard csatornáról.",
+      "invalid_message": "Érvénytelen üzenet ID.",
+      "no_message": "Ez az üzenet nincs a starboard-ban.",
+      "message_removed": "Üzenet eltávolítva a starboardról!"
+    },
+    "Errors": {
+      "dm": "Ennek a botnak a funkciói csak a discord szerveren mükődik.",
+      "not_admin": "Te nem egy bot adminisztrátor vagy!",
+      "not_mod": "Te nem egy bot moderátor vagy!",
+      "not_setup_title": "Nem beállítás",
+      "not_setup": "Neked be kell állítanod a botot egy starboard csatornával."
+    }
+  }
+}
