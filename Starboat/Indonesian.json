@@ -1,0 +1,75 @@
+{
+  "Commands": {
+    "Config": {
+      "bot_admin": "Anda adalah admin bot.",
+      "bot_mod": "Anda adalah mod bot.",
+      "admin_commands": "Perintah admin",
+      "mod_commands": "Perintah mod",
+      "setup_done": "Penyiapan selesai",
+      "settings": "Pengaturan",
+      "staff_bypass": "Bypass staf",
+      "staff_only": "Hanya untuk staf"
+    },
+    "Reset": {
+      "title": "Reset starboard",
+      "confirm": "Apakah anda yakin ingin me-reset starboard? tindakan ini tidak dapat diurungkan dan akan menghapus semua data dan pengaturan.",
+      "timeout": "Waktu perintah reset habis.",
+      "done": "Reset selesai",
+      "done_info": "Semua data dan pengaturan untuk server ini telah dihapus."
+    },
+    "Setup": {
+      "already_setup": "Starboard sudah disiapkan. Anda dapat menggunakan perintah reset untuk menghapus semua data dan konfigurasi.",
+      "setup_confirm": "Apakah anda yakin ingin menyiapkan bot? Anda perlu membuat saluran starboard terlebih dahulu.",
+      "timeout": "Waktu penyiapan telah habis.",
+      "enter_channel": "Masukkan saluran yang akan digunakan untuk starboard.",
+      "invalid_channel": "Saluran yang dimasukkan tidak valid.",
+      "missing_perms": "Izin saluran tidak ada."
+    },
+    "StaffBypass": {
+      "enabled": "Bypass staf diaktifkan, admin bot atau mod mana pun dapat membintangi pesan tanpa batas.",
+      "disabled": "Bypass staf dinonaktifkan."
+    },
+    "StaffOnly": {
+      "enabled": "Hanya untuk staff diaktifkan, Anda harus menjadi mod bot atau admin untuk membuat pesan starboard.",
+      "disabled": "Hanya untuk staf dinonaktifkan."
+    },
+    "Help": {
+      "major_update": "Pembaruan besar!",
+      "update_notice": "Bot telah sepenuhnya diperbarui dengan tampilan baru dan dukungan pesan yang lebih baik.",
+      "info1": "Sekarang anda dapat memberi bintang pada pesan atau meme lucu yang akan ditampilkan di saluran starboard.",
+      "info2": "Tambahkan reaksi bintang ke pesan yang bukan pesan anda sendiri.",
+      "required": "Bintang diperlukan.",
+      "misc": "Lainnya",
+      "server": "Server"
+    },
+    "Disable": {
+      "already_disabled": "Starboard sudah dinonaktifkan.",
+      "disabled": "Starboard dinonaktifkan."
+    },
+    "Enable": {
+      "already_enabled": "Starboard sudah diaktifkan.",
+      "enabled": "Starboard diaktifkan."
+    },
+    "Minimum": {
+      "minimum": "Bintang minimum",
+      "info": "Atur berapa banyak reaksi bintang yang diperlukan untuk diposting ke starboard.",
+      "info_limit": "Minimal 1 bintang dan maksimal 10 bintang.",
+      "error_limit": "Angka tidak boleh kurang dari 1 dan lebih dari 10.",
+      "set": "Bintang minimum disetel ke"
+    },
+    "Remove": {
+      "remove": "Hapus pesan",
+      "info": "Masukkan id pesan untuk dihapus dari saluran starboard.",
+      "invalid_message": "Id pesan tidak valid.",
+      "no_message": "Pesan ini tidak ada di starboard.",
+      "message_removed": "Pesan dihapus dari starboard."
+    },
+    "Errors": {
+      "dm": "Fitur bot ini hanya berfungsi untuk server Discord.",
+      "not_admin": "Anda bukan admin bot.",
+      "not_mod": "Anda bukan mod bot.",
+      "not_setup_title": "Belum disiapkan",
+      "not_setup": "Anda perlu mengatur bot dengan saluran starboard."
+    }
+  }
+}
