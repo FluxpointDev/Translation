@@ -1,0 +1,212 @@
+{
+  "Help": {
+    "main_info": "Reactify is a role management and role reaction bot for servers to manage and automate giving roles to users with some nice utility.",
+    "set_prefix": "Set a custom prefix for the bot.",
+    "use_slash_commands": "Use Discord slash commands to setup reaction roles.",
+    "use_create": "Setup reaction roles without using slash commands.",
+    "use_invite": "Invite this bot to your server.",
+    "use_support": "Get support for this bot.",
+    "use_website": "Visit the bot website for more info and other bots.",
+    "features_enabled": "These features have been enabled on the server.",
+    "no_features": "No features have been enabled on the server.",
+    "feature_reaction": "Get server roles by clicking a reaction.",
+    "feature_blacklist": "Blacklist users from getting roles in reaction roles or other commands.",
+    "feature_logs": "Log reaction roles, roles given/taken or last roles when someone leaves the server.",
+    "feature_messages": "Set custom messages when some boosts or becomes a patreon donator in your server.",
+    "feature_birthday": "Get a server role when it's your birthday.",
+    "feature_cotd": "Get a role that changes color every day.",
+    "feature_color": "Get a color role in a server.",
+    "config_require_server": "Config commands and reaction roles requires a Discord server to use, please invite the bot.",
+    "config_setup_reactions": "Use Discord slash commands or create command to setup Reaction Roles.",
+    "config_import_reactions": "You can also import reaction roles from other bots.",
+    "boost_server": "Boost this server.",
+    "donate_server": "Donate to this server.",
+    "view_config": "View the server config."
+  },
+  "Errors": {
+    "no_config": "Server has no config or data.",
+    "no_logs": "Server has no log channels.",
+    "feature_unavailable": "This feature is not available yet.",
+    "not_blacklisted": "This user is not blacklisted.",
+    "already_blacklisted": "This user is already blacklisted.",
+    "no_blacklist": "No users have been blacklisted.",
+    "no_user": "Could not find that user in this server.",
+    "invalid_user": "Invalid user mention or ID.",
+    "no_channel": "Could not find that channel.",
+    "invalid_channel": "Invalid channel mention or ID.",
+    "reactions_timedout": "Reaction roles setup timed out.",
+    "invalid_number": "Invalid number.",
+    "invalid_message": "Invalid message url or ID.",
+    "invalid_messageurl": "Invalid message url.",
+    "invalid_option": "Invalid option.",
+    "no_custom_message": "You need to enter a custom message.",
+    "use_slash_commands": "You need to use Discord slash commands or create command.",
+    "enter_role": "You need to enter a role name.",
+    "no_role": "Could not find that role name.",
+    "role_timedout": "Role selection timed out.",
+    "invite_bot": "You need to invite the bot to use these features.",
+    "user_blacklisted": "You have been blacklisted from getting any roles by server staff."
+  },
+  "Config": {
+    "Config": {
+      "title": "Server Config",
+      "features_list": "List of features that have been setup for the server.",
+      "enable_feature": "Enable this feature.",
+      "disable_feature": "Disable this feature."
+    },
+    "Reset": {
+      "info": "Reset the server config and remove data.",
+      "title": "Config Reset",
+      "done": "Server config have been reset.",
+      "confirm_this": "To reset the server config you need to confirm this."
+    }
+  },
+  "Logs": {
+    "Boost": {
+      "info": "Send a custom message when someone boosts your server with Discord nitro.",
+      "total_boosts": "Total boosts",
+      "tier_number": "Tier number",
+      "no_channel": "No boost log channel has been set.",
+      "channel_set": "Boost log channel set.",
+      "message_set": "Boost message set.",
+      "command_message_set": "Boost command message set.",
+      "enabled": "Boost log enabled.",
+      "disabled": "Boost log disabled.",
+      "mention_enabled": "Boost message user mention enabled.",
+      "mention_disabled": "Boost message user mention disable."
+    },
+    "Expire": {
+      "info": "Send a custom message when someone's boost status expires.",
+      "no_channel": "No expire log channel has been set.",
+      "channel_set": "Expire log channel set.",
+      "message_set": "Expire message set.",
+      "enabled": "Expire log enabled.",
+      "disabled": "Expire log disabled.",
+      "mention_enabled": "Expire message user mention enabled.",
+      "mention_disabled": "Expire message user mention disable."
+    },
+    "Leave": {
+      "info": "Log the last roles someone had when they leave the server.",
+      "no_channel": "No leave log channel has been set.",
+      "channel_set": "Leave log channel set.",
+      "enabled": "Role log enabled.",
+      "disabled": "Role log disabled."
+    },
+    "Patreon": {
+      "info": "Send a custom message when someone becomes your Patreon subscriber.",
+      "no_channel": "No patreon log channel has been set.",
+      "channel_set": "Patreon log channel set.",
+      "message_set": "Patreon message set.",
+      "command_message_set": "Patreon command message set.",
+      "ammount_users": "Ammount of Patreon users",
+      "set_role": "Set the Patreon role.",
+      "enabled": "Patreon log enabled.",
+      "disabled": "Patreon log disabled.",
+      "mention_enabled": "Patreon message user mention enabled.",
+      "mention_disabled": "Patreon message user mention disable."
+    },
+    "Reaction": {
+      "info": "Log when someone uses a reaction roles message with the role given/taken.",
+      "no_channel": "No reaction role log channel has been set.",
+      "channel_set": "Reaction role log channel set.",
+      "enabled": "Reaction role log enabled.",
+      "disabled": "Reaction role log disabled."
+    },
+    "Role": {
+      "info": "Log when a user has been given or taken a role.",
+      "no_channel": "No role log channel has been set.",
+      "channel_set": "Role role log channel set.",
+      "enabled": "Role log enabled.",
+      "disabled": "Role log disabled."
+    },
+    "Log": {
+      "set_message": "Set a custom message to send.",
+      "set_command_message": "Set a custom command message.",
+      "use_placeholders": "Use these placeholders in custom messages.",
+      "custom_message": "Custom Message",
+      "preview": "Preview",
+      "set_channel": "Set a channel to post messages to.",
+      "toggle_mention": "Toggle if the user should be mentioned."
+    }
+  },
+  "Mod": {
+    "Blacklist": {
+      "title": "User Blacklist",
+      "info": "Blacklist a user from getting reaction roles or other role commands.",
+      "add_user": "Add a user to the blacklist with an optional reason.",
+      "remove_user": "Remove a user from the blacklist.",
+      "user_info": "Get information about a blacklisted user.",
+      "list": "List all blacklisted users.",
+      "user_added": "User has been added to the blacklist.",
+      "user_removed": "User has been removed from the blacklist.",
+      "reason": "Reason",
+      "no_reason": "No reason set.",
+      "blacklist_by": "blacklisted by"
+    }
+  },
+  "Reaction": {
+    "Create": {
+      "info": "Create a reaction role message."
+    },
+    "Delete": {
+      "info": "Delete a reaction role, message or all."
+    },
+    "List": {
+      "info": "Get a list of reaction roles that have been setup."
+    },
+    "Toggle": {
+      "info": "Set a reaction role message to normal or single role only."
+    },
+    "Import": {
+      "info": "Import reaction role data from other bots."
+    },
+    "Check": {
+      "info": "Check if reaction roles is working fully."
+    }
+  },
+  "User": {
+    "Role": {
+      "info": "Get role information by role name or ID.",
+      "hoisted": "Hoisted",
+      "mentionable": "Mentionable",
+      "special": "Special",
+      "booster": "Server Booster",
+      "managed": "Bot Managed",
+      "admin_perms": "Admin perms",
+      "ban_perms": "Ban perms",
+      "kick_perms": "Kick perms",
+      "created": "Created",
+      "get_color": "You can get a color role."
+    },
+    "Color": {
+      "info": "Get a color role."
+    }
+  },
+  "Misc": {
+    "reaction_roles": "Reaction Roles",
+    "color_roles": "Color Roles",
+    "cotd": "Color of the Day",
+    "logs": "Logs",
+    "mod": "Mod",
+    "birthday_role": "Birthday Role",
+    "auto_roles": "Auto Roles",
+    "roles": "Roles",
+    "messages": "Messages",
+    "reactions": "Reactions",
+    "channels": "Channels",
+    "boost": "Boost",
+    "blacklist": "Blacklist",
+    "user": "User",
+    "users": "Users",
+    "bot": "Bot",
+    "bots": "Bots",
+    "enter_number": "Enter a number.",
+    "getting_users": "Getting all server users, please wait.",
+    "links": "Links",
+    "invite": "Bot Invite",
+    "upvote": "Upvote Bot",
+    "not_available": "Not Available",
+    "server": "Server",
+    "features": "Features"
+  }
+}
