@@ -1,0 +1,212 @@
+{
+  "Help": {
+    "main_info": "Reactify este un bot de gestionare a rolurilor și un role reaction bot pentru servere pentru a gestiona și automatiza rolurile oferite utilizatorilor cu o utilitate plăcută.",
+    "set_prefix": "Setați un prefix personalizat pentru bot.",
+    "use_slash_commands": "Utilizați comenzile slash ale Discordului pentru a configura rolurile de reacție.",
+    "use_create": "Configurați reaction rolurile fără a utiliza comenzi slash.",
+    "use_invite": "Invitați acest bot pe serverul tau.",
+    "use_support": "Obțineți asistență pentru acest bot.",
+    "use_website": "Accesați site-ul web pentru mai multe informații și alți boți.",
+    "features_enabled": "Aceste functii au fost activate pe server.",
+    "no_features": "Nu au fost activate funcții pe server.",
+    "feature_reaction": "Obțineți roluri de server făcând click pe o reacție.",
+    "feature_blacklist": "Utilizatorii de pe lista neagră nu primesc roluri în reaction roles sau alte comenzi.",
+    "feature_logs": "Înregistrați reaction rolurile, rolurile date / luate sau ultimele roluri când cineva părăsește serverul.",
+    "feature_messages": "Setați mesaje personalizate atunci când cineva boosteaza sau devine donator pe patreon pe serverul tau.",
+    "feature_birthday": "Obține un rol când este ziua ta de naștere.",
+    "feature_cotd": "Obțineți un rol care își schimbă culoarea în fiecare zi.",
+    "feature_color": "Obțineți un rol de culoare într-un server.",
+    "config_require_server": "Comenzile de configurare și reaction rolurile necesită utilizarea unui server Discord, vă rugăm să invitați botul.",
+    "config_setup_reactions": "Utilizați comenzile slash ale Discordului sau creați comanda pentru a configura reaction rolurile.",
+    "config_import_reactions": "De asemenea, puteți importa reaction roluri de la alti boti.",
+    "boost_server": "Boostati acest server.",
+    "donate_server": "Donați acestui server.",
+    "view_config": "Vedeti configuratia serverului."
+  },
+  "Errors": {
+    "no_config": "Serverul nu are configurație sau date.",
+    "no_logs": "Serverul nu are canale de inregistrare.",
+    "feature_unavailable": "Această funcție nu este încă disponibilă.",
+    "not_blacklisted": "Acest utilizator nu este inclus pe lista neagră.",
+    "already_blacklisted": "Acest utilizator este deja pe lista neagră.",
+    "no_blacklist": "Niciun utilizator nu a fost inclus pe lista neagră.",
+    "no_user": "Nu am putut găsi acel utilizator pe acest server.",
+    "invalid_user": "Utilizator sau ID invalid.",
+    "no_channel": "Nu am putut găsi acel canal.",
+    "invalid_channel": "Canal sau ID invalid.",
+    "reactions_timedout": "Configurarea reaction rolurilor a expirat.",
+    "invalid_number": "Numar invalid.",
+    "invalid_message": "Adresa URL sau ID-ul mesajului este invalid.",
+    "invalid_messageurl": "Adresă URL invalidă.",
+    "invalid_option": "Optiune invalida.",
+    "no_custom_message": "Trebuie să introduceți un mesaj personalizat.",
+    "use_slash_commands": "Trebuie să utilizați comenzile slash ale Discordului sau să creați comanda.",
+    "enter_role": "Trebuie să introduceți un nume de rol.",
+    "no_role": "Nu am putut găsi numele rolului respectiv.",
+    "role_timedout": "Selecția rolului a expirat.",
+    "invite_bot": "Trebuie să invitați botul ca să utilizeze aceste funcții.",
+    "user_blacklisted": "Ai fost inclus pe lista neagră pentru nu a primi nici un rol de catre personalul serverului."
+  },
+  "Config": {
+    "Config": {
+      "title": "Configurare Server",
+      "features_list": "Lista functiilor care au fost configurate pentru server.",
+      "enable_feature": "Activați această functie.",
+      "disable_feature": "Dezactivați această functie."
+    },
+    "Reset": {
+      "info": "Resetați configurarea serverului și eliminați datele.",
+      "title": "Resetare Configurare",
+      "done": "Configurarea serverului a fost resetată.",
+      "confirm_this": "Pentru a reseta configurarea serverului, trebuie să confirmați acest lucru."
+    }
+  },
+  "Logs": {
+    "Boost": {
+      "info": "Trimiteți un mesaj personalizat atunci când cineva vă boostează serverul cu Discord nitro.",
+      "total_boosts": "Boosutri totale",
+      "tier_number": "Numărul nivelului",
+      "no_channel": "Nu a fost setat niciun canal pentru a inregistra boosturile.",
+      "channel_set": "Canalul de intregistrare a boosturilor a fost setat.",
+      "message_set": "Mesajul pentru boost a fost setat.",
+      "command_message_set": "Comanda mesajului pentru boost a fost setata.",
+      "enabled": "Inregistrarea boosturilor a fost pornita.",
+      "disabled": "Inregistrarea boosturilor a fost oprita.",
+      "mention_enabled": "Mentionarea persoaneai in mesajul pentru boost a fost pornita.",
+      "mention_disabled": "Mentionarea persoaneai in mesajul pentru boost a fost oprita."
+    },
+    "Expire": {
+      "info": "Trimite un mesaj personalizat cand boostul unei persoane expira.",
+      "no_channel": "Nu a fost setat niciun canal de inregistrare pentru expirari.",
+      "channel_set": "Canalul pentru expirari a fost setat.",
+      "message_set": "Mesajul pentru expirari a fost setat.",
+      "enabled": "Inregistrarea pentru expirari a fost activata.",
+      "disabled": "Inregistrarea pentru expirari a fost oprita.",
+      "mention_enabled": "Mentionarea persoaneai in mesajul pentru expirare a fost pornita.",
+      "mention_disabled": "Mentionarea persoaneai in mesajul pentru expirare a fost oprita."
+    },
+    "Leave": {
+      "info": "Înregistrați ultimele roluri pe care le-a avut cineva când a părăsit serverul.",
+      "no_channel": "Nu a fost setat niciun canal de intregistrari pentru părăsiri.",
+      "channel_set": "Canalul de intregistrare a părăsirilor a fost setat.",
+      "enabled": "Inregistrarea rolurilor a fost pornita.",
+      "disabled": "Inregistrarea rolurilor a fost oprita."
+    },
+    "Patreon": {
+      "info": "Trimiteți un mesaj personalizat atunci când cineva devine abonatul tau pe Patreon.",
+      "no_channel": "Nu a fost setat niciun canal de înregistrare patreon.",
+      "channel_set": "Canalul pentru inregistrari patreon a fost setat.",
+      "message_set": "Mesajul pentru patreon a fost setat.",
+      "command_message_set": "Comanda mesajului pentru patreon a fost setata.",
+      "ammount_users": "Cantitatea de utilizatori Patreon",
+      "set_role": "Setati rolul Patreon.",
+      "enabled": "Inregistrarea Patreon a fost pornita.",
+      "disabled": "Inregistrarea Patreon a fost oprita.",
+      "mention_enabled": "Mentionarea persoaneai in mesajul pentru Patreon a fost pornita.",
+      "mention_disabled": "Mentionarea persoaneai in mesajul pentru Patreon a fost oprita."
+    },
+    "Reaction": {
+      "info": "Înregistrați când cineva folosește un mesaj de tip reaction role cu rolul dat / luat.",
+      "no_channel": "Nu a fost setat nici un canal de inregistrare a reaction rolurilor.",
+      "channel_set": "Canalul de intregistrare a reaction rolurilor a fost setat.",
+      "enabled": "Inregistrarea reaction rolurilor a fost pornita.",
+      "disabled": "Inregistrarea reaction rolurilor a fost oprita."
+    },
+    "Role": {
+      "info": "Inregistrati cand unui utilizator i-a fost dat sau luat un rol.",
+      "no_channel": "Nu a fost setat niciun canal de inregistrare a rolurilor.",
+      "channel_set": "Canalul de inregistrare a rolurilor a fost setat.",
+      "enabled": "Inregistrarea rolurilor a fost pornita.",
+      "disabled": "Inregistrarea rolurilor a fost oprita."
+    },
+    "Log": {
+      "set_message": "Setați un mesaj personalizat de trimis.",
+      "set_command_message": "Setați un mesaj de comandă personalizat.",
+      "use_placeholders": "Utilizați acesti substituenți în mesaje personalizate.",
+      "custom_message": "Mesaj Personalizat",
+      "preview": "Previzualizare",
+      "set_channel": "Setați un canal în care să postați mesaje.",
+      "toggle_mention": "Comutați dacă ar trebui menționat utilizatorul."
+    }
+  },
+  "Mod": {
+    "Blacklist": {
+      "title": "Lista neagră a utilizatorilor",
+      "info": "Adaugati un utilizator la lista neagra pentru a-l opri din a obtine roluri prin reaction roluri sau prin orice alte comenzi.",
+      "add_user": "Adaugati un utilizator la lista neagra cu un motiv optional.",
+      "remove_user": "Stergeti un utilizator de la lista neagra.",
+      "user_info": "Obtineti informatii despre un utilizator ce se afla pe lista neagra.",
+      "list": "Afisati toti utilizatorii de pe lista neagra.",
+      "user_added": "Utlizatorul a fost adaugat pe lista neagra.",
+      "user_removed": "Utilizator a fost sters de pe lista neagra.",
+      "reason": "Motiv",
+      "no_reason": "Nu a fost ales nici un motiv.",
+      "blacklist_by": "adaugat pe lista neagra de catre"
+    }
+  },
+  "Reaction": {
+    "Create": {
+      "info": "Creati un mesaj de tip reaction role."
+    },
+    "Delete": {
+      "info": "Stergeti un reaction role, un mesaj sau toate."
+    },
+    "List": {
+      "info": "Obțineți o listă a reaction rolurilor care au fost configurate."
+    },
+    "Toggle": {
+      "info": "Setați un mesaj de tipul reaction role la un rol normal sau doar unui rol."
+    },
+    "Import": {
+      "info": "Importați date despre reaction rolul din alți boți."
+    },
+    "Check": {
+      "info": "Verificați dacă reaction rolurile funcționează pe deplin."
+    }
+  },
+  "User": {
+    "Role": {
+      "info": "Obțineți informații despre rol după numele rolului sau IDul lui.",
+      "hoisted": "Ridicat",
+      "mentionable": "Mentionabil",
+      "special": "Special",
+      "booster": "Server Booster",
+      "managed": "Administrat de un Bot",
+      "admin_perms": "Permisiuni de administrare",
+      "ban_perms": "Permisiuni de a da ban",
+      "kick_perms": "Permisiuni de a da kick",
+      "created": "Creat",
+      "get_color": "Puteți obține un rol de culoare."
+    },
+    "Color": {
+      "info": "Obțineți un rol de culoare."
+    }
+  },
+  "Misc": {
+    "reaction_roles": "Reaction Roleuri",
+    "color_roles": "Roluri de culoare",
+    "cotd": "Culoarea zilei",
+    "logs": "Inregistrari",
+    "mod": "Mod",
+    "birthday_role": "Rolul zilei de naștere",
+    "auto_roles": "Roluri Automate",
+    "roles": "Roluri",
+    "messages": "Mesaje",
+    "reactions": "Reactii",
+    "channels": "Canale",
+    "boost": "Boost",
+    "blacklist": "Lista neagra",
+    "user": "Utilizator",
+    "users": "Utilizatoi",
+    "bot": "Bot",
+    "bots": "Boti",
+    "enter_number": "Introdu un numar.",
+    "getting_users": "Se obtin toti utilizatorii de pe acest server, vă rugăm să așteptați.",
+    "links": "Linkuri",
+    "invite": "Inviteul Botului",
+    "upvote": "Voteaza Botul",
+    "not_available": "Nu este disponibil",
+    "server": "Server",
+    "features": "Functii"
+  }
+}
