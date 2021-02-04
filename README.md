@@ -15,7 +15,7 @@ Join my Discord server or contact me Builderb#0001
 - German     | Andre_601#0601
 - Hungarian  | SplitXPlayZ#2071
 - Bulgarian  | EasyThe#2836
-- Turkish    | burakjones#1606
+- Turkish    | Buræk#8771
 
 ### Minecraft translations
 - Bulgarian  | EasyThe#2836
@@ -28,4 +28,4 @@ Join my Discord server or contact me Builderb#0001
 - Portuguese | Def4lt#7648
 - Russian    | MrZillaGold#9692
 - Spanish    | jxvier#8604
-- Turkish    | burakjones#1606
+- Turkish    | Buræk#8771
