@@ -11,7 +11,7 @@
     "no_features": "Sunucuda aktif özellik yok.",
     "feature_reaction": "Tepkilere tıklayarak rol edin.",
     "feature_blacklist": "Kullanıcıların tepki rollerinde veya diğer komutlarda rol almasını kara listeye alma.",
-    "feature_logs": Birisi sunucudan ayrıldığında tepki rollerini, verilen / alınan rolleri veya son rolleri log edin.",
+    "feature_logs": "Birisi sunucudan ayrıldığında tepki rollerini, verilen / alınan rolleri veya son rolleri log edin.",
     "feature_messages": "Sunucunuza boost  olduğunda veya bir patreon bağışçı olduğunda özel mesajlar ayarlayın.",
     "feature_birthday": "Doğum günün olduğunda verilmesi için rol ayarla.",
     "feature_cotd": "Her gün renki değişen bir rol al.",
