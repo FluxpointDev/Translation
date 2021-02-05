@@ -56,158 +56,158 @@
 
 },
     "Reset": {
-      "info": "Reset the server config and remove data.",
-      "title": "Config Reset",
-      "done": "Server config have been reset.",
-      "confirm_this": "To reset the server config you need to confirm this."
+      "info": "Sunucuya yeniden aç ve veri ve ayarları sıfırla.",
+      "title": "Yeniden Ayarla",
+      "done": "Sunucu ayarları yeniden yapılandırıldı.",
+      "confirm_this": "Sunucu ayarlarını yenilemek için onaylamanız lazım."
     }
   },
   "Logs": {
     "Boost": {
-      "info": "Send a custom message when someone boosts your server with Discord nitro.",
-      "total_boosts": "Total boosts",
-      "tier_number": "Tier number",
-      "no_channel": "No boost log channel has been set.",
-      "channel_set": "Boost log channel set.",
-      "message_set": "Boost message set.",
-      "command_message_set": "Boost command message set.",
-      "enabled": "Boost log enabled.",
-      "disabled": "Boost log disabled.",
-      "mention_enabled": "Boost message user mention enabled.",
-      "mention_disabled": "Boost message user mention disable."
+      "info": "Birisi sunucuyu boostladığı zaman özel mesaj  yolla.",
+      "total_boosts": "Toplam boostlar",
+      "tier_number": "Seviye",
+      "no_channel": "Hazırda boost log kanalı yok.",
+      "channel_set": "Boost log kanalı ayarlandı.",
+      "message_set": "Boost mesajı ayarlandı.",
+      "command_message_set": "Boost komut mesajı ayarlandı.",
+      "enabled": "Boost log aktif.",
+      "disabled": "Boost log engellendi.",
+      "mention_enabled": "Boost mesajı üye etiketleme aktif.",
+      "mention_disabled": "Boost mesajı üye etiketleme engellendi."
     },
     "Expire": {
-      "info": "Send a custom message when someone's boost status expires.",
-      "no_channel": "No expire log channel has been set.",
-      "channel_set": "Expire log channel set.",
-      "message_set": "Expire message set.",
-      "enabled": "Expire log enabled.",
-      "disabled": "Expire log disabled.",
-      "mention_enabled": "Expire message user mention enabled.",
-      "mention_disabled": "Expire message user mention disable."
+      "info": "Birisinin boost süresi bittiği zaman özel mesaj gönder.",
+      "no_channel": "süre aşım log kanalı bulunamadı.",
+      "channel_set": "Süre aşımı log kanalı ayarlandı.",
+      "message_set": "Süre aşım mesajı ayarlandı.",
+      "enabled": "Süre aşım log aktif.",
+      "disabled": "Süre aşım log engellendi.",
+      "mention_enabled": "Süre aşım üye etiketleme aktif.",
+      "mention_disabled": "Süre aşım mesajı üye etiketleme engellendi."
     },
     "Leave": {
-      "info": "Log the last roles someone had when they leave the server.",
-      "no_channel": "No leave log channel has been set.",
-      "channel_set": "Leave log channel set.",
-      "enabled": "Role log enabled.",
-      "disabled": "Role log disabled."
+      "info": "Üye ayrılmadan önce ki rollerini logla.",
+      "no_channel": "Ayrılma log kanalı bulunamadı.",
+      "channel_set": "Ayrılma log kanalı ayarlandı.",
+      "enabled": "Rol log aktif.",
+      "disabled": "Rol log engellendi."
     },
     "Patreon": {
-      "info": "Send a custom message when someone becomes your Patreon subscriber.",
-      "no_channel": "No patreon log channel has been set.",
-      "channel_set": "Patreon log channel set.",
-      "message_set": "Patreon message set.",
-      "command_message_set": "Patreon command message set.",
-      "ammount_users": "Ammount of Patreon users",
-      "set_role": "Set the Patreon role.",
-      "enabled": "Patreon log enabled.",
-      "disabled": "Patreon log disabled.",
-      "mention_enabled": "Patreon message user mention enabled.",
-      "mention_disabled": "Patreon message user mention disable."
+      "info": "Birisi patreon destekcin olduğu zaman özel mesaj gönder.",
+      "no_channel": "Özel patreon kanalı bulunamadı.",
+      "channel_set": "Patreon log kanalı ayarlandı.",
+      "message_set": "Patreon mesajı ayarlandı.",
+      "command_message_set": "Patreon komut mesajı ayarlandı.",
+      "ammount_users": "Patreon Üye Sayısı",
+      "set_role": "Patreon Rol'ü ayarla.",
+      "enabled": "Patreon log aktif.",
+      "disabled": "Patreon log engellendi.",
+      "mention_enabled": "Patreon mesaj üye etiketi aktif.",
+      "mention_disabled": "Patreon mesaj üye etiketi engellendi."
     },
     "Reaction": {
-      "info": "Log when someone uses a reaction roles message with the role given/taken.",
-      "no_channel": "No reaction role log channel has been set.",
-      "channel_set": "Reaction role log channel set.",
-      "enabled": "Reaction role log enabled.",
-      "disabled": "Reaction role log disabled."
+      "info": "Birisi tepki rol'ünü kullandığını logla.",
+      "no_channel": "Tepkirol kanalı bulunamadı.",
+      "channel_set": "Reaction rol log kanalı ayarlandı.",
+      "enabled": "Reaction rol log aktif.",
+      "disabled": "Reaction rol log engellendi."
     },
     "Role": {
-      "info": "Log when a user has been given or taken a role.",
-      "no_channel": "No role log channel has been set.",
-      "channel_set": "Role role log channel set.",
-      "enabled": "Role log enabled.",
-      "disabled": "Role log disabled."
+      "info": "Birisi rol alıp/alındığını logla.",
+      "no_channel": "Rol log kanalı bulunamadı.",
+      "channel_set": "Rol log kanalı ayarlandı.",
+      "enabled": "Rol log aktif.",
+      "disabled": "Rol log engellendi."
     },
     "Log": {
-      "set_message": "Set a custom message to send.",
-      "set_command_message": "Set a custom command message.",
-      "use_placeholders": "Use these placeholders in custom messages.",
-      "custom_message": "Custom Message",
-      "preview": "Preview",
-      "set_channel": "Set a channel to post messages to.",
-      "toggle_mention": "Toggle if the user should be mentioned."
+      "set_message": "Göndermek için özel bir mesaj ayarla.",
+      "set_command_message": "Özel bir komut mesajı ayarla.",
+      "use_placeholders": "özel bir mesajda küçükmetin kullan.",
+      "custom_message": "Özel Mesaj",
+      "preview": "Göster",
+      "set_channel": "Mesaj göndermek için kanal ayarla.",
+      "toggle_mention": "Bir üye etiketlenmeliyse gizle."
     }
   },
   "Mod": {
     "Blacklist": {
-      "title": "User Blacklist",
-      "info": "Blacklist a user from getting reaction roles or other role commands.",
-      "add_user": "Add a user to the blacklist with an optional reason.",
-      "remove_user": "Remove a user from the blacklist.",
-      "user_info": "Get information about a blacklisted user.",
-      "list": "List all blacklisted users.",
-      "user_added": "User has been added to the blacklist.",
-      "user_removed": "User has been removed from the blacklist.",
-      "reason": "Reason",
-      "no_reason": "No reason set.",
-      "blacklist_by": "blacklisted by"
+      "title": "Kullanıcı Kara Listesi",
+      "info": "Bir kullanıcının tepki rollerini veya diğer rol komutlarını almasını kara listeye alma.",
+      "add_user": "İsteğe bağlı bir nedenle kara listeye bir kullanıcı ekleyin.",
+      "remove_user": "Karalisteden bir oyuncu sil.",
+      "user_info": "Kara listeye alınmış bir kullanıcı hakkında bilgi alın.",
+      "list": "Karalistelenmiş üyeleri listele.",
+      "user_added": "Kullanıcı kara listeye eklendi.",
+      "user_removed": "Kullanıcı kara listeden çıkarıldı.",
+      "reason": "Sebep",
+      "no_reason": "Sebep ayarlanmadı.",
+      "blacklist_by": "tarafından karalistelendi;"
     }
   },
   "Reaction": {
     "Create": {
-      "info": "Create a reaction role message."
+      "info": "Bir reaksiyon rolü mesajı oluşturun."
     },
     "Delete": {
-      "info": "Delete a reaction role, message or all."
+      "info": "Bir reaksiyon rolünü, mesajı veya tümünü sil."
     },
     "List": {
-      "info": "Get a list of reaction roles that have been setup."
+      "info": "Oluşturulmuş reaksiyon rollerinin bir listesini alın."
     },
     "Toggle": {
-      "info": "Set a reaction role message to normal or single role only."
+      "info": "Bir tepki rolü mesajını normal veya yalnızca tek bir role ayarlayın."
     },
     "Import": {
-      "info": "Import reaction role data from other bots."
+      "info": "Diğer botlardan reaksiyon rolü verilerini içe aktarın."
     },
     "Check": {
-      "info": "Check if reaction roles is working fully."
+      "info": "Reaksiyon rollerinin tam olarak çalışıp çalışmadığını kontrol edin."
     }
   },
   "User": {
     "Role": {
-      "info": "Get role information by role name or ID.",
-      "hoisted": "Hoisted",
-      "mentionable": "Mentionable",
-      "special": "Special",
-      "booster": "Server Booster",
-      "managed": "Bot Managed",
-      "admin_perms": "Admin perms",
-      "ban_perms": "Ban perms",
-      "kick_perms": "Kick perms",
-      "created": "Created",
-      "get_color": "You can get a color role."
+      "info": "Rol bilgilerini rol adı veya ID'e göre alın.",
+      "hoisted": "Kaldırıldı",
+      "mentionable": "Etiketlenebilir",
+      "special": "Özel",
+      "booster": "Sunucu boostcusu",
+      "managed": "Bot yönetildi",
+      "admin_perms": "Admin yetkileri",
+      "ban_perms": "Ban yetkileri",
+      "kick_perms": "Kick yetkileri",
+      "created": "Oluşturuldu",
+      "get_color": "Renkli bir rol alabilirsin."
     },
     "Color": {
-      "info": "Get a color role."
+      "info": "Renkli rol al."
     }
   },
   "Misc": {
-    "reaction_roles": "Reaction Roles",
-    "color_roles": "Color Roles",
-    "cotd": "Color of the Day",
-    "logs": "Logs",
+    "reaction_roles": "Tepki Rolleri",
+    "color_roles": "Renk Rolleri",
+    "cotd": "Günün rengi",
+    "logs": "Loglar",
     "mod": "Mod",
-    "birthday_role": "Birthday Role",
-    "auto_roles": "Auto Roles",
-    "roles": "Roles",
-    "messages": "Messages",
-    "reactions": "Reactions",
-    "channels": "Channels",
+    "birthday_role": "Doğumgünü rolü",
+    "auto_roles": "Otomatik roller",
+    "roles": "Roller",
+    "messages": "Mesajlar",
+    "reactions": "Tepkiler",
+    "channels": "Kanallar",
     "boost": "Boost",
-    "blacklist": "Blacklist",
-    "user": "User",
-    "users": "Users",
+    "blacklist": "Karaliste",
+    "user": "Üye",
+    "users": "Üyeler",
     "bot": "Bot",
-    "bots": "Bots",
-    "enter_number": "Enter a number.",
-    "getting_users": "Getting all server users, please wait.",
-    "links": "Links",
-    "invite": "Bot Invite",
-    "upvote": "Upvote Bot",
-    "not_available": "Not Available",
-    "server": "Server",
-    "features": "Features"
+    "bots": "Botlar",
+    "enter_number": "Numara gir.",
+    "getting_users": "Tüm sunucu üyeleri alınıyor, bekleyin.",
+    "links": "Linkler",
+    "invite": "Bot Davet et",
+    "upvote": "Bot'a oy ver",
+    "not_available": "Henüz yok",
+    "server": "Sunucu",
+    "features": "Özellikler"
   }
 }
