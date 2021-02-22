@@ -15,6 +15,7 @@ Join my Discord server or contact me Builderb#0001
 - German     | Andre_601#0601
 - Hungarian  | SplitXPlayZ#2071
 - Bulgarian  | EasyThe#2836
+- Danish     | Swift#8108
 - Turkish    | Buræk#8771
 
 ### Minecraft translations
