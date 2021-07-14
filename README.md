@@ -30,3 +30,6 @@ Join my Discord server or contact me Builderb#0001
 - Russian    | MrZillaGold#9692
 - Spanish    | jxvier#8604
 - Turkish    | Burak#0008
+
+# Other
+[![Widget](https://discordservices.net/bot/434556304661544960/widget.svg?v=2)](https://dbot.page/waifu)
