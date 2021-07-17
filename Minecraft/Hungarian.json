@@ -1,9 +1,9 @@
 {
   "Commands": {
     "Admin": {
-      "add_server": "Adjon hozzá egy Minecraft szervert a listához",
+      "add_server": "Minecraft szerver hozzáadása a listához",
       "autopost": "Automatikusan küldje el a Minecraft szerver állapotát",
-      "remove_server": "Távolítsa el a Minecraft szervert a listából",
+      "remove_server": "Minecraft szerver eltávolítása a listáról",
       "create_role": "Hozzon létre egy Minecraft rangot a hitelesített felhasználók számára",
       "not_admin": "Ön nem egy szerver adminisztrátor",
       "enter_ip": "Adjon meg egy IP-címet",
@@ -12,50 +12,50 @@
       "server_added": "A szerver hozzá lett adva",
       "server_removed": "A szerver ellett távolítva innen",
       "select_number": "Válasszon ki egy számot",
-      "has_role": "Ez a szerver már rendelkezik Minecraft ranggal",
+      "has_role": "Ez a szerver már rendelkezik egy Minecraft ranggal",
       "invalid_channel": "Érvénytelen csatorna"
     },
     "Badges": {
-      "owner": "Bot tulajdonos",
+      "owner": "A bot tulajdonosa",
       "mob_hunter": "A szörnyek szakértői ismerete",
       "translator": "Akik segítették a fordítást a botban",
       "verified": "Van egy ellenőrzött Minecraft fiókja",
       "voted": "Botra szavazott",
       "played": "Játszott",
-      "hidden": "Néhány jelvény elvan rejtve."
+      "hidden": "Néhány jelvény elvan rejtve"
     },
     "Get": {
-      "text_limit": "A szöveg nem lehet több, mint 22 betű",
+      "text_limit": "A szöveg nem lehet több, mint 22 karakter",
       "hi": "Szia"
     },
     "Help": {
       "user": "Felhasználó profil",
-      "verify": "Ellenőrizd a te Minecraft fiókodat",
+      "verify": "Ellenőrizd a Minecraft fiókodat",
       "bot": "Bot információ",
-      "color": "Minecraft szín kódók",
+      "color": "Minecraft színkódok",
       "quiz": "Minecraft kvíz",
-      "list": "Közönségi szerverek",
-      "uuid": "Get a players UUID",
-      "skin": "Szerezd meg a játékosok skinjét",
-      "name": "Kap egy játékosnevet",
-      "get": "Kap egy Minecraft teljesítményt",
+      "list": "Közösségi szerverek",
+      "uuid": "Egy játékos azonosítójának (UUID) megszerzése",
+      "skin": "Egy játékos skinjének a megszerzése",
+      "name": "Egy játékos múltbeli neveinek megszerzése",
+      "get": "Egy Minecraft teljesítmény szerzése",
       "changelog": "Legújabb Minecraft verzió",
-      "gallery": "Bannerek és grafika",
+      "gallery": "Zászlók és alkotások",
       "version": "Verzió információ",
-      "rcon": "Távoli konzol a te Minecraft szerverhez",
-      "playing": "Játékosok játszanak a minecraft-al",
+      "rcon": "Távoli konzol a Minecraft szerveredhez",
+      "playing": "A Minecraftot játszó felhasználók",
       "wiki": "Teljes Minecraft útmutató",
       "admin": "Discord admin parancsok",
-      "invite": "Meghívja fel az ön discord szerverére a botot",
+      "invite": "Bot meghívása",
       "footer": "Van néhány titkos parancs is",
-      "multimc": "lehetővé teszi, hogy kezelje és betöltse a különböző Minecraft változatokat egyszerű mod telepítéssel"
+      "multimc": "lehetővé teszi, hogy kezelje és betöltse a különböző Minecraft változatokat egy könnyű mod telepítésével"
     },
     "Main": {
-      "have_issues": "Ha van neked bármi bajod akkor a bottal kérjük vedd fel a kapcsolatot Discordon",
-      "player_stats": "játékos statiztikája",
-      "get_stats": "Kapj adatokat játékosokról:",
-      "stole_skin": "Te elloptál egy minecraft skint",
-      "found_hidden": "Megtaláltál egy elrejtett parancsot"
+      "have_issues": "Ha bármilyen problémád van kérlek vedd fel a kapcsolatot velem Discord-on",
+      "player_stats": "játékos statisztikája",
+      "get_stats": "Játékos statisztikájának a megszerzése innen",
+      "stole_skin": "Elloptál egy skint",
+      "found_hidden": "Egy titkos parancsra leltél"
     },
     "Names": {
       "only_one": "A játékosnak csak egy felhasználóneve van",
@@ -63,47 +63,47 @@
     },
     "Ping": {
       "java": "Pingeljen egy Minecraft szervert",
-      "pe": "Pingeljen egy pocket edition szervert",
-      "full": "Pingelj meg egy Minecraft szerver egy játékos számlálóval.",
-      "banner": "Banner verziója a pingről",
-      "wait": "Please wait while i ping",
-      "no_query": "A szervernek nincs beállítva enable-query a server.properties nevű fájlban!",
-      "invalid_ip": "Hibás IP cím",
-      "invalid_port": "Hibás szerver port",
-      "on_cooldown": "Te lassítás alatt vagy 1 percig.",
-      "no_players": "Nincsen játékos online"
+      "pe": "Pingeljen egy zseb kiadású szervert",
+      "full": "Pingelj meg egy Minecraft szerver egy játékos listával",
+      "banner": "Zászló verziója a pingről",
+      "wait": "Kérlek várj míg pingelek",
+      "no_query": "A szervernek nincs beállítva az \"enable-query\" a \"server.properties\" tulajdonságnál",
+      "invalid_ip": "Érvénytelen IP-cím",
+      "invalid_port": "Érvénytelen szerver port",
+      "on_cooldown": "Te lassítás alatt vagy 1 percig",
+      "no_players": "Nincsenek játékosok online"
     },
     "User": {
-      "not_verified": "Ez a felhasználó nem rendelkezik hitelesített Minecraft fiók használatával",
-      "last_played": "Utoljárára játszott;",
-      "badges": "Kitűzők",
-      "badges_info": "A kitűzők megtekintése",
-      "no_badges": "Neked nincsen kitűződ",
-      "invalid_id": "Érvénytelen felhasználói id"
+      "not_verified": "Ez a felhasználó nem rendelkezik hitelesített Minecraft fiókkal",
+      "last_played": "Utoljára játszott",
+      "badges": "Jelvények",
+      "badges_info": "A jelvények megtekintése",
+      "no_badges": "Neked nincsen jelvényeid",
+      "invalid_id": "Érvénytelen felhasználói ID"
     },
     "Verify": {
-      "title": "Minecraft fiók ellenőrzés",
-      "info": "Ellenőrizze, hogy a Minecraft fiókja menő funkciókat és rangokat tartalmaz",
-      "step1": "Töltse be a Minecraft 1.12.2-t",
+      "title": "Minecraft fiók ellenőrzése",
+      "info": "Igazold Minecraft fiókodat menő funkciók és rangokért",
+      "step1": "Minecraft betöltése",
       "step2": "Csatlakozzon erre a szerverre",
-      "step3": "És írja be ezt a discordba",
+      "step3": "És írja be ezt a Discord-ba",
       "already_verified": "Ez a játékos már ellenőrzött",
       "failed_role": "Nem sikerült megadni a Minecraft rangot",
-      "verified": "A Minecraft-fiókodat sikeresen ellenőriztetük",
+      "verified": "A Minecraft-fiókodat sikeresen igazoltuk",
       "given_role": "Megkaptad a Minecraft rangot",
       "not_in_server": "Te nem vagy fent a szerveren",
       "server_down": "Az ellenőrző szerver jelenleg nem műkődik kérjük keresse fel",
-      "thanks": "Köszönjük, hogy a Minecraft botot használta, és most ellenőrizte a bot önt.",
+      "thanks": "Köszönjük, hogy a Minecraft botot használta, ön most már ellenőrzött",
       "users": "Ellenőrzött felhasználók"
     }
   },
   "Error": {
     "api_error": "API Hiba",
-    "no_list": "Ennek a közönségnek jelenleg nincsen szervere",
+    "no_list": "Ennek a közösségnek jelenleg nincsen szervere",
     "not_voted": "Te nem szavaztál a botra",
     "player_not_found": "Játékos nem található",
-    "account_not_linked": "Ennek a felhasználónak nincsen linkelt fiókja",
-    "player_no_stats": "Az adott játékosnak nem találtam statiztikákat"
+    "account_not_linked": "Ennek a felhasználónak nincsen hozzácsatolt fiókja",
+    "player_no_stats": "A játékosnak nincs statisztikája"
   },
   "Misc": {
     "software": "Szoftver",
@@ -116,9 +116,9 @@
       "blacklisted": "Néhány parancs alapértelmezés szerint feketelistára kerül",
       "owner_access": "Teljes hozzáférés a parancsokhoz és a konfigurációhoz",
       "admin_access": "Hozzáférés a nem feketelista parancsokhoz",
-      "mod_access": "A tiltás és a tiltás feloldása, kickhoz hozzáférés",
+      "mod_access": "A tiltás és a tiltás feloldása és a kidobáshoz hozzáférés",
       "select_role": "Válassza ki a felhasználó rangját",
-      "unknown_role": "Ismeretlen rang kiválasztása",
+      "unknown_role": "Ismeretlen rang kiválasztva",
       "given_access": "A felhasználó távoli konzol hozzáférést kapott",
       "add_already": "Ez a felhasználó már rendelkezik hozzáféréssel",
       "remove_already": "Ez a felhasználó nem rendelkezik hozzáféréssel",
@@ -127,55 +127,55 @@
       "removed": "A felhasználó eltávolításra került a távoli konzol hozzáférésről"
     },
     "Blacklist": {
-      "info": "Csak a tulajdonos tud feketelistára tett parancsokat használni!",
-      "already_blacklisted": "Ez a parancs már szerepel a feketelistán!",
-      "no_blacklist": "No commands are blacklisted",
-      "not_blacklisted": "This command is not blacklisted",
-      "blacklist_add": "Command has been added to the blacklist",
-      "blacklist_remove": "Command has been removed from the blacklist"
+      "info": "Csak a tulajdonos tud feketelistára tett parancsokat használni",
+      "already_blacklisted": "Ez a parancs már szerepel a feketelistán",
+      "no_blacklist": "Nincsenek parancsok a feketelistán",
+      "not_blacklisted": "Ez a parancs nincs a feketelistán",
+      "blacklist_add": "Parancs hozzáadva a feketelistához",
+      "blacklist_remove": "Parancs törölve lett a feketelistáról"
     },
     "Commands": {
       "config": "A távoli konzol konfigurációjának megtekintése",
-      "blacklist": "A feketelistás parancsokat csak a tulajdonos használhatja",
+      "blacklist": "A feketelistázott parancsokat csak a tulajdonos használhatja",
       "access": "Adjon hozzáférést más felhasználóknak",
-      "enable": "Távoli konzol bekapcsolása",
-      "disable": "Távoli konzol kikapcsolása",
-      "fix": "Megprobáljuk kijavítani a távoli konzolt...",
-      "reset": "Törölje a távoli konzol konfigurációját"
+      "enable": "Távoli konzol engedélyezése",
+      "disable": "Távoli konzol letiltása",
+      "fix": "Megprobáljuk kijavítani a távoli konzolt",
+      "reset": "Távoli konzol konfigurációjának törlése"
     },
     "Error": {
-      "not_setup": "RA távoli konzol nincsen rendesen beállítva",
-      "no_access": "Önnek nincsen távoli konzol hozzáférése",
-      "not_main_owner": "Csak a főtulajdonsa a botnak tudja használni",
-      "not_owner": "Csak egy tulajdonos tudja használni",
-      "not_admin": "Csak egy admin tudja használni",
+      "not_setup": "Távoli konzol nincsen használatra beállítva",
+      "no_access": "Nincs hozzáférésed a távoli konzolhoz",
+      "not_main_owner": "Csak a fő tulajdonos tudja ezt használni",
+      "not_owner": "Csak egy tulajdonos tudja ezt használni",
+      "not_admin": "Csak egy admin tudja ezt használni",
       "blacklisted": "Ez a parancs feketelistázva lett, csak a tulajdonos tudja használni",
       "already_connected": "A távoli konzol már csatlakoztatva van",
       "cmd_error": "Nem sikerült végrehajtani a parancsot",
-      "wrong_password": "A távoli konzol már csatlakozik, várjon egy kicsit...",
-      "rcon_wait": "A távoli konzol már csatlakozik, várjon egy kicsit..."
+      "wrong_password": "A távoli konzol jelszava helytelen",
+      "rcon_wait": "A távoli konzol már csatlakozik, kérjük várjon"
     },
     "Info": {
       "title": "Távoli konzol",
       "info": "Futtassa a Minecraft szerver parancsokat a",
       "executed": "Parancs végrehajtva",
-      "enabled": "A távoli konzol bekapcsolt",
-      "disabled": "A távoli konzol kikapcsolt",
-      "fix": "A távoli konzol kapcsolatának megpróbálása...",
-      "reset_done": "A távoli konzol konfigurációja sikeresen törölve lett",
-      "reset_confirm": "A visszaállítás megerősítéséhez kérjük, használja"
+      "enabled": "A távoli konzol bekapcsolva",
+      "disabled": "A távoli konzol kikapcsolva",
+      "fix": "A távoli konzol kapcsolat kijavításának megkisérlése",
+      "reset_done": "Visszaállítás megerősítéséhez kérjük használja",
+      "reset_confirm": "Távoli konzol konfigurációja törölve lett"
     },
     "Setup": {
       "info": "Lehetővé teszi a Minecraft szerver-tulajdonosok számára, hogy parancsokat futtassanak a Discordból, anélkül, hogy szükség lenne pluginokra vagy modokra,",
-      "info2": "a használat megkezdéséhez"
+      "info2": "A használat megkezdéséhez"
     }
   },
   "Wiki": {
     "Gallery": {
-      "banner_random": "Kapjon egy véletlenszerű bannert",
-      "banner_name": "Kapjon egy bannert név szerint",
-      "banner_unknown": "Ismeretlen banner név",
-      "art_random": "Kapjon egy véletlen művet",
+      "banner_random": "Kapjon egy véletlenszerű zászlót",
+      "banner_name": "Kapjon egy zászlót név szerint",
+      "banner_unknown": "Ismeretlen zászló név",
+      "art_random": "Kapjon egy véletlen alkotást",
       "wallpaper_random": "Kapjon egy véletlenszerű háttérképet"
     },
     "Mobs": {
@@ -198,7 +198,7 @@
       "recommended": "Ajánlott"
     },
     "Info": {
-      "unknown_item": "Ismeretlen wiki item!"
+      "unknown_item": "Ismeretlen wiki item"
     }
   }
 }
