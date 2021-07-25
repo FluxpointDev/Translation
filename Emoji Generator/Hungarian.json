@@ -1,0 +1,62 @@
+{
+  "Commands": {
+    "Help": {
+      "misc": "Egyéb",
+      "howto": "Hogyan használd a bot-ot.",
+      "list": "Hangulatjel részek listája.",
+      "create": "Alkoss egy emodzsit részek felhasználásával.",
+      "credits": "Közreműködtek",
+      "idea": "Eredeti ötlet",
+      "assets": "Eszközök és részek"
+    },
+    "Guide": {
+      "bot_info": "Egy szórakoztató bot emodzsik generálására és alkotására különböző részek felhasználásával hogy megtudd osztani vagy menteni őket a Discord szerveredre.",
+      "parts_info": "Használd a lista parancsot emodzsik részek beszerzéséért az alaphoz, szemekhez, szájhoz és extrákhoz.",
+      "generate_info": "Emodzsit generálhatsz a részek számának felhasználásával és az alábbi példa rá.",
+      "generate_try": "Próbálj emodzsit generálni e használatával",
+      "color_info": "Színárnyalatot is adhatsz hozzá az emodzsik részeire e használatával.",
+      "color_warn": "Néhány színek nem működhetnek jól más részekkel.",
+      "share_info": "Oszd meg az emodzsid barátaiddal úgy hogy másolod a kép hivatkozását vagy használd a mentés parancsot hogy hozzáadd a szerveredhez.",
+      "share": "Megosztás",
+      "example": "Példa",
+      "baseid": "Alap Azonosító",
+      "eyeid": "Szem Azonosító",
+      "mouthid": "Száj Azonosító",
+      "extraid": "Extra Azonosító",
+      "extra_optional": "Extra rész opcionális."
+    },
+    "Server": {
+      "no_emotes": "Ennek a szervernek nincs bármilyen egyéni emodzsija.",
+      "emotes": "Hangulatjelek",
+      "animated": "Animált"
+    },
+    "Stats": {
+      "stats": "Statisztika",
+      "servers": "Szerverek"
+    },
+    "Search": {
+      "info": "Keresés egy emodzsira",
+      "no_emote": "Nem található emodzsi ezzel névvel Could not find an emote with that name.",
+      "author": "Szerző"
+    },
+    "Gen": {
+      "list_info": "Használd a lista paracsot részekért",
+      "unknown_base": "Ismeretlen alaprész szám.",
+      "unknown_eye": "Ismeretlen szemrész szám.",
+      "unknown_mouth": "Ismeretlen szájrész szám.",
+      "unknown_extra": "Ismeretlen extra rész szám.",
+      "unknown_color": "Ismeretlen színnév."
+    }
+  },
+  "Misc": {
+    "links": "Hivatkozások",
+    "emotes": "Emodzsik",
+    "base_parts": "Alaprészek",
+    "eye_parts": "Szemrészek",
+    "mouth_parts": "Szájrészek",
+    "extra_parts": "Extra részek",
+    "parts": "Részek",
+    "colors": "Színek",
+    "generate": "Generálás"
+  }
+}
