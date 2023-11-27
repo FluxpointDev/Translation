@@ -2,11 +2,11 @@
   "Commands": {
     "Help": {
       "misc": "Çeşitli",
-      "howto": "Botu nasıl kullanırım?",
-      "list": "Emojileri Listele.",
-      "create": "Parçaları kullanarak bir ifade oluştur.",
-      "credits": "Teşekkürler",
-      "idea": "Fikir Veren",
+      "howto": "Bot nasıl kullanılır?",
+      "list": "Emojilerin Listesi:",
+      "create": "Parçaları kullanarak bir ifade oluşturun.",
+      "credits": "Katkıda Bulunanlar",
+      "idea": "Orijinal fikir",
       "assets": "Parçalar ve Varlıklar"
     },
     "Guide": {
